@@ -168,7 +168,7 @@
     "hash": "cdd35cc41e2586f852ab02a1ac79f0a8"
   },
   {
-    "id": "blog.catcat.work",
+    "identifier": "blog.catcat.work",
     "name": "猫头猫的博客",
     "description": "猫头猫的个人博客",
     "siteUrl": "https://blog.catcat.work/",
@@ -177,6 +177,6 @@
     "allowDuplicate": false,
     "type": "js",
     "url": "js/catcat-blog.js",
-    "hash": "a6ceb77c7efe51cd6d6bda7e11e4f7e7"
+    "hash": "d1f644666fed963789b06f047b431224"
   }
 ]

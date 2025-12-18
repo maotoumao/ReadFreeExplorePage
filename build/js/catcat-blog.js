@@ -11,7 +11,7 @@ function load() {
 const CHANNEL_ID = "blog.catcat.work";
 
 const channel = {
-    id: CHANNEL_ID,
+    identifier: CHANNEL_ID,
     name: "猫头猫的博客",
     description: "猫头猫的个人博客",
     siteUrl: "https://blog.catcat.work/",

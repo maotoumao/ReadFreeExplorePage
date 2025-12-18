@@ -8,6 +8,7 @@ const jsChannelsDir = path.join(__dirname, 'channels', 'js');
 const buildDir = path.join(__dirname, 'build');
 const buildCategoryDir = path.join(buildDir, 'category');
 const buildJsDir = path.join(buildDir, 'js');
+const topTxtPath = path.join(__dirname, 'top.txt');
 
 // 辅助函数：计算 MD5
 function calculateMD5(content) {
@@ -48,6 +49,10 @@ try {
 
     // 用于聚合所有条目
     const aggregated = {};
+    
+    // 用于 top.txt 查找
+    const rssLookup = {}; // url -> item
+    const jsLookup = {};  // filename -> item
 
     // 辅助函数：添加到聚合
     function addToAggregated(item, sourceName) {
@@ -79,6 +84,7 @@ try {
         item.version = "1.0";
         if (item.url) {
             item.hash = calculateMD5(item.url);
+            rssLookup[item.url] = item; // 添加到查找表
         } else {
             console.warn(`警告: RSS 条目 "${item.name}" 缺少 URL，无法计算 hash。`);
             item.hash = "";
@@ -102,7 +108,7 @@ try {
                 fs.writeFileSync(destPath, fileContent);
                 
                 // 2.2 Require 文件并获取元数据
-                // 清除缓存以确保获取最新内容（虽然在构建脚本中通常只运行一次）
+                // 清除缓存以确保获取最新内容
                 delete require.cache[require.resolve(srcPath)];
                 let channelModule;
                 try {
@@ -116,25 +122,19 @@ try {
                 const fileHash = calculateMD5(fileContent);
                 const version = channelModule.version || "1.0";
 
-                // 构建条目对象
-                // 注意：这里我们假设 channelModule 本身就是我们要添加的条目结构，或者我们需要提取部分字段
-                // 根据之前的 RSS 结构，我们需要 name, type, category, url 等
-                // 对于 JS 频道，url 是相对路径
-                
                 const jsItem = {
-                    ...channelModule, // 包含 id, name, description, category 等
-                    type: 'js', // 显式标记为 js 类型，或者保留原有的 type 如果有
+                    ...channelModule,
+                    type: 'js',
                     url: `js/${file}`, // 相对路径
                     hash: fileHash,
                     version: version
                 };
 
-                // 确保 type 是 js (如果模块里没写或者写的不一样，这里强制一下或者保留？通常 index.json 里是 type: rss)
-                // 让我们假设 JS 频道的 type 应该是 'js' 或者 'script'，这里根据需求描述，它是一个频道源
                 if (!jsItem.type) {
                     jsItem.type = 'js';
                 }
 
+                jsLookup[file] = jsItem; // 添加到查找表
                 addToAggregated(jsItem, `JS: ${file}`);
             }
         });
@@ -149,6 +149,37 @@ try {
         fs.writeFileSync(filePath, JSON.stringify(aggregated[catId], null, 2), 'utf8');
         console.log(`已创建 ${filePath}`);
     });
+
+    // 5. 处理 top.txt
+    console.log('正在处理 top.txt...');
+    const topItems = [];
+    
+    if (fs.existsSync(topTxtPath)) {
+        const topContent = fs.readFileSync(topTxtPath, 'utf8');
+        const lines = topContent.split(/\r?\n/);
+        
+        lines.forEach(line => {
+            const key = line.trim();
+            if (!key) return;
+            
+            // 优先查找 JS 文件名
+            if (jsLookup[key]) {
+                topItems.push(jsLookup[key]);
+            } 
+            // 然后查找 RSS URL
+            else if (rssLookup[key]) {
+                topItems.push(rssLookup[key]);
+            } else {
+                console.warn(`警告: top.txt 中的条目 "${key}" 未在 RSS 或 JS 频道中找到。`);
+            }
+        });
+        
+        const topJsonPath = path.join(buildDir, 'top.json');
+        fs.writeFileSync(topJsonPath, JSON.stringify(topItems, null, 2), 'utf8');
+        console.log(`已创建 ${topJsonPath}`);
+    } else {
+        console.log('未找到 top.txt，跳过 top.json 生成。');
+    }
 
     console.log('构建成功完成。');
 
