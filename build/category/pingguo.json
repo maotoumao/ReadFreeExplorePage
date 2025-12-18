@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Mac玩儿法",
+    "type": "rss",
+    "category": "苹果",
+    "url": "http://www.waerfa.com/feed",
+    "version": "1.0",
+    "hash": "a90db5f95fad1dbe42eb8adf8425b304"
+  },
+  {
+    "name": "maxOS",
+    "type": "rss",
+    "category": "苹果",
+    "url": "https://maxoxo.me/rss/",
+    "version": "1.0",
+    "hash": "137183652557e65ae4595389c4f73286"
+  },
+  {
+    "name": "MacTalk-池建强的随想录",
+    "type": "rss",
+    "category": "苹果",
+    "url": "http://macshuo.com/?feed=rss2",
+    "version": "1.0",
+    "hash": "ed293159ecc2c4d8d47e8fd35ac7920b"
+  }
+]

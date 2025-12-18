@@ -1,0 +1,90 @@
+[
+  {
+    "name": "少数派",
+    "type": "rss",
+    "category": "科技",
+    "url": "https://sspai.com/feed",
+    "version": "1.0",
+    "hash": "a501cef8044ca334c2304e54a13864b4"
+  },
+  {
+    "name": "爱范儿",
+    "type": "rss",
+    "category": "科技",
+    "url": "https://www.ifanr.com/feed",
+    "version": "1.0",
+    "hash": "64e8cfa91547f401369333394aa6203f"
+  },
+  {
+    "name": "奇客Solidot",
+    "type": "rss",
+    "category": "科技",
+    "url": "https://www.solidot.org/index.rss",
+    "version": "1.0",
+    "hash": "2656743796ac28300205cfec5ff54792"
+  },
+  {
+    "name": "小众软件",
+    "type": "rss",
+    "category": "科技",
+    "url": "https://www.appinn.com/feed/",
+    "version": "1.0",
+    "hash": "7398fec45d0ee018b62ab4733c97996a"
+  },
+  {
+    "name": "极客公园",
+    "type": "rss",
+    "category": "科技",
+    "url": "http://www.geekpark.net/rss",
+    "version": "1.0",
+    "hash": "7ae3c670975ef47969c9d17302d88fc2"
+  },
+  {
+    "name": "异次元软件世界",
+    "type": "rss",
+    "category": "科技",
+    "url": "https://feed.iplaysoft.com/",
+    "version": "1.0",
+    "hash": "1d4cd97fd2eb53f502a215e1ee93ad08"
+  },
+  {
+    "name": "IT之家",
+    "type": "rss",
+    "category": "科技",
+    "url": "https://www.ithome.com/rss/",
+    "version": "1.0",
+    "hash": "03e811e030653cdc266ee05b570318a7"
+  },
+  {
+    "name": "反斗限免",
+    "type": "rss",
+    "category": "科技",
+    "url": "http://free.apprcn.com/feed/",
+    "version": "1.0",
+    "hash": "dd85ebca76ae5a1276f3387e7264a7a6"
+  },
+  {
+    "name": "奔跑中的奶酪",
+    "type": "rss",
+    "category": "科技",
+    "url": "https://www.runningcheese.com/feed",
+    "version": "1.0",
+    "hash": "5cbc25826e31c77e2dfbe70f7f2bb00c"
+  },
+  {
+    "name": "Engadget 中国",
+    "type": "rss",
+    "category": "科技",
+    "url": "https://cn.engadget.com/rss.xml",
+    "version": "1.0",
+    "hash": "fbf567c956d978d534407eb61fa6f111"
+  },
+  {
+    "name": "钛媒体",
+    "type": "rss",
+    "category": "科技",
+    "url": "https://www.tmtpost.com/feed",
+    "version": "1.0",
+    "hash": "c4fb967a0f9149a27e24c0051e5114e1"
+  }
+]

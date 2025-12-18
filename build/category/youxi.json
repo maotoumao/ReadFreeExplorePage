@@ -1,0 +1,26 @@
+[
+  {
+    "name": "机核",
+    "type": "rss",
+    "category": "游戏",
+    "url": "https://www.gcores.com/rss",
+    "version": "1.0",
+    "hash": "374199bfbe89f40d5fd92f4674dc1d5d"
+  },
+  {
+    "name": "游戏研究社",
+    "type": "rss",
+    "category": "游戏",
+    "url": "https://www.yystv.cn/rss/feed",
+    "version": "1.0",
+    "hash": "c692aadc77494793a67c816fcb62682d"
+  },
+  {
+    "name": "触乐",
+    "type": "rss",
+    "category": "游戏",
+    "url": "http://www.chuapp.com/feed",
+    "version": "1.0",
+    "hash": "ac1edd4614461e381d0d6d1a4a68141a"
+  }
+]

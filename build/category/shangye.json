@@ -1,0 +1,50 @@
+[
+  {
+    "name": "虎嗅网",
+    "type": "rss",
+    "category": "商业",
+    "url": "https://www.huxiu.com/rss/0.xml",
+    "version": "1.0",
+    "hash": "494c9d268d7aadafb18ae3fb3cdd5cf2"
+  },
+  {
+    "name": "36氪",
+    "type": "rss",
+    "category": "商业",
+    "url": "https://36kr.com/feed",
+    "version": "1.0",
+    "hash": "de4e43493bc02ea735d6ef5f841dcdd6"
+  },
+  {
+    "name": "ezindie.com",
+    "type": "rss",
+    "category": "商业",
+    "url": "https://www.ezindie.com/feed/rss.xml",
+    "version": "1.0",
+    "hash": "221946862c14a2311373715d2ccdc1a5"
+  },
+  {
+    "name": "透明创业实验",
+    "type": "rss",
+    "category": "商业",
+    "url": "https://blog.t9t.io/atom.xml",
+    "version": "1.0",
+    "hash": "0c9bcb2b9e06c6273507b661b0778f75"
+  },
+  {
+    "name": "疯投圈",
+    "type": "rss",
+    "category": "商业",
+    "url": "https://crazy.capital/feed",
+    "version": "1.0",
+    "hash": "4b7edec737f0d70c8c19bb44359c95da"
+  },
+  {
+    "name": "人人都是产品经理",
+    "type": "rss",
+    "category": "商业",
+    "url": "https://www.woshipm.com/feed",
+    "version": "1.0",
+    "hash": "f39f53c52b0875e39d47b617e2e00331"
+  }
+]

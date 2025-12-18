@@ -1,0 +1,194 @@
+[
+  {
+    "name": "酷 壳 – CoolShell",
+    "type": "rss",
+    "category": "开发",
+    "url": "http://coolshell.cn/feed",
+    "version": "1.0",
+    "hash": "f6ab279749ae82e52f087530c57489ca"
+  },
+  {
+    "name": "云风的 BLOG",
+    "type": "rss",
+    "category": "开发",
+    "url": "http://blog.codingnow.com/atom.xml",
+    "version": "1.0",
+    "hash": "262b4b99b9f0508ae12ad6748a846143"
+  },
+  {
+    "name": "程序员的喵",
+    "type": "rss",
+    "category": "开发",
+    "url": "https://catcoding.me/atom.xml",
+    "version": "1.0",
+    "hash": "7290fe5fff265e7331d4db2ed6f98344"
+  },
+  {
+    "name": "Draveness",
+    "type": "rss",
+    "category": "开发",
+    "url": "https://draveness.me/feed.xml",
+    "version": "1.0",
+    "hash": "c0e86a0b460c7dbd8cab2119297ed214"
+  },
+  {
+    "name": "卡瓦邦噶！",
+    "type": "rss",
+    "category": "开发",
+    "url": "https://www.kawabangga.com/feed",
+    "version": "1.0",
+    "hash": "88ae42f237591d16267d7e9be0de9878"
+  },
+  {
+    "name": "风雪之隅",
+    "type": "rss",
+    "category": "开发",
+    "url": "http://www.laruence.com/feed",
+    "version": "1.0",
+    "hash": "6cf4a28a3fee98948ff35670a8416809"
+  },
+  {
+    "name": "有赞技术团队",
+    "type": "rss",
+    "category": "开发",
+    "url": "https://tech.youzan.com/rss/",
+    "version": "1.0",
+    "hash": "62ea6388270e06b0c1a59e32083ab55a"
+  },
+  {
+    "name": "张鑫旭-鑫空间-鑫生活",
+    "type": "rss",
+    "category": "开发",
+    "url": "https://www.zhangxinxu.com/wordpress/feed/",
+    "version": "1.0",
+    "hash": "41017684ffdafcd0797be968c4b6b622"
+  },
+  {
+    "name": "HelloGitHub 月刊",
+    "type": "rss",
+    "category": "开发",
+    "url": "http://hellogithub.com/rss",
+    "version": "1.0",
+    "hash": "5bfede3d806fd3ee578b3218646a4362"
+  },
+  {
+    "name": "潮流周刊",
+    "type": "rss",
+    "category": "开发",
+    "url": "https://weekly.tw93.fun/rss.xml",
+    "version": "1.0",
+    "hash": "951ef5f8788f8c19c543632e946f5428"
+  },
+  {
+    "name": "CSS-Tricks",
+    "type": "rss",
+    "category": "开发",
+    "url": "https://css-tricks.com/feed/",
+    "version": "1.0",
+    "hash": "86e2cc42cc5078615edb74f4b5744c8e"
+  },
+  {
+    "name": "技术小黑屋",
+    "type": "rss",
+    "category": "开发",
+    "url": "https://droidyue.com/atom.xml",
+    "version": "1.0",
+    "hash": "ed6202dd6586918e2477362aa4244ea5"
+  },
+  {
+    "name": "weekly 标签新帖",
+    "type": "rss",
+    "category": "开发",
+    "url": "https://discuss-cn.bestxtools.com/atom/t/weekly/discussions",
+    "version": "1.0",
+    "hash": "96ffef46f100d74c4d3f0facf13f5564"
+  },
+  {
+    "name": "Deepzz's Blog",
+    "type": "rss",
+    "category": "开发",
+    "url": "https://deepzz.com/feed",
+    "version": "1.0",
+    "hash": "86a19da24c43650f72f3a5d24ee7eba3"
+  },
+  {
+    "name": "二丫讲梵",
+    "type": "rss",
+    "category": "开发",
+    "url": "https://wiki.eryajf.net/rss.xml",
+    "version": "1.0",
+    "hash": "58e33bb51ac38e9c294b0a2a516f506e"
+  },
+  {
+    "name": "美团技术团队",
+    "type": "rss",
+    "category": "开发",
+    "url": "https://tech.meituan.com/feed/",
+    "version": "1.0",
+    "hash": "68d85e919484b6b90798139364ee7037"
+  },
+  {
+    "name": "唐巧的博客",
+    "type": "rss",
+    "category": "开发",
+    "url": "http://blog.devtang.com/atom.xml",
+    "version": "1.0",
+    "hash": "f3d986564e1a240dd1cd471361c2b321"
+  },
+  {
+    "name": "Dan Abramov's Overreacted",
+    "type": "rss",
+    "category": "开发",
+    "url": "https://overreacted.io/rss.xml",
+    "version": "1.0",
+    "hash": "b9f68a77f9d31e4a02f0b3d7ac10c372"
+  },
+  {
+    "name": "Tony Bai",
+    "type": "rss",
+    "category": "开发",
+    "url": "http://tonybai.com/feed/",
+    "version": "1.0",
+    "hash": "7aa9031bedf7722fe024bdad5ac998d4"
+  },
+  {
+    "name": "小明明s à domicile",
+    "type": "rss",
+    "category": "开发",
+    "url": "https://www.dongwm.com/atom.xml",
+    "version": "1.0",
+    "hash": "60f6da8a4b9c720c53ed8a9f49b3f591"
+  },
+  {
+    "name": "小胡子哥的个人网站",
+    "type": "rss",
+    "category": "开发",
+    "url": "http://www.barretlee.com/rss2.xml",
+    "version": "1.0",
+    "hash": "bbf9d48021e145bf5079879b9c9a5beb"
+  },
+  {
+    "name": "Anthony Fu",
+    "type": "rss",
+    "category": "开发",
+    "url": "https://antfu.me/feed.xml",
+    "version": "1.0",
+    "hash": "306eb0bf01e670c8ed7548068b65eb36"
+  },
+  {
+    "name": "Tiny Projects",
+    "type": "rss",
+    "category": "开发",
+    "url": "https://tinyprojects.dev/feed.xml",
+    "version": "1.0",
+    "hash": "1f362fb3559af12cb0d9c22518839090"
+  },
+  {
+    "name": "全栈应用开发:精益实践",
+    "type": "rss",
+    "category": "开发",
+    "url": "https://www.phodal.com/blog/feeds/rss/",
+    "version": "1.0",
+    "hash": "d202fee6b38e41e6f41332747eff6142"
+  }
+]

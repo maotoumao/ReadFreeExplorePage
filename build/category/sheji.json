@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Decohack",
+    "type": "rss",
+    "category": "设计",
+    "url": "https://www.decohack.com/feed",
+    "version": "1.0",
+    "hash": "8d0d8c3e07d231e266f0e75773575908"
+  },
+  {
+    "name": "优设-UISDC",
+    "type": "rss",
+    "category": "设计",
+    "url": "http://www.uisdc.com/feed",
+    "version": "1.0",
+    "hash": "d866534b7d8589c10634764907eca344"
+  }
+]

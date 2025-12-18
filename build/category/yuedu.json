@@ -1,0 +1,26 @@
+[
+  {
+    "name": "知乎每日精选",
+    "type": "rss",
+    "category": "阅读",
+    "url": "https://www.zhihu.com/rss",
+    "version": "1.0",
+    "hash": "5b4d4e1a40ba2ccef9c84ca31b5f2926"
+  },
+  {
+    "name": "豆瓣最受欢迎的书评",
+    "type": "rss",
+    "category": "阅读",
+    "url": "https://www.douban.com/feed/review/book",
+    "version": "1.0",
+    "hash": "0fac48a01a1d8c3fafc5a5a154bec50c"
+  },
+  {
+    "name": "只读",
+    "type": "rss",
+    "category": "阅读",
+    "url": "https://www.rdonly.com/?feed=rss2",
+    "version": "1.0",
+    "hash": "153217ee777692ae8dd6a551f52a5b96"
+  }
+]
