@@ -1,464 +1,541 @@
-﻿[
+[
     {
-        "name":  "知乎每日精选",
-        "type":  "rss",
-        "category":  "阅读",
-        "url":  "https://www.zhihu.com/rss"
+        "name": "知乎每日精选",
+        "type": "rss",
+        "category": "阅读",
+        "url": "https://www.zhihu.com/rss",
+        "description": "知乎社区每日精选问答。"
     },
     {
-        "name":  "阮一峰的网络日志",
-        "type":  "rss",
-        "category":  "博客",
-        "url":  "https://www.ruanyifeng.com/blog/atom.xml"
+        "name": "阮一峰的网络日志",
+        "type": "rss",
+        "category": "博客",
+        "url": "https://www.ruanyifeng.com/blog/atom.xml",
+        "description": "Ruan YiFeng's Blog"
     },
     {
-        "name":  "少数派",
-        "type":  "rss",
-        "category":  "科技",
-        "url":  "https://sspai.com/feed"
+        "name": "少数派",
+        "type": "rss",
+        "category": "科技",
+        "url": "https://sspai.com/feed",
+        "description": "少数派致力于更好地运用数字产品或科学方法，帮助用户提升工作效率和生活品质"
     },
     {
-        "name":  "酷 壳 – CoolShell",
-        "type":  "rss",
-        "category":  "开发",
-        "url":  "http://coolshell.cn/feed"
+        "name": "酷 壳 – CoolShell",
+        "type": "rss",
+        "category": "开发",
+        "url": "http://coolshell.cn/feed",
+        "description": "享受编程和技术所带来的快乐 - Coding Your Ambition"
     },
     {
-        "name":  "爱范儿",
-        "type":  "rss",
-        "category":  "科技",
-        "url":  "https://www.ifanr.com/feed"
+        "name": "爱范儿",
+        "type": "rss",
+        "category": "科技",
+        "url": "https://www.ifanr.com/feed",
+        "description": "关注明日产品的数字潮牌"
     },
     {
-        "name":  "机核",
-        "type":  "rss",
-        "category":  "游戏",
-        "url":  "https://www.gcores.com/rss"
+        "name": "机核",
+        "type": "rss",
+        "category": "游戏",
+        "url": "https://www.gcores.com/rss",
+        "description": "不止是游戏"
     },
     {
-        "name":  "奇客Solidot",
-        "type":  "rss",
-        "category":  "科技",
-        "url":  "https://www.solidot.org/index.rss"
+        "name": "奇客Solidot",
+        "type": "rss",
+        "category": "科技",
+        "url": "https://www.solidot.org/index.rss",
+        "description": "奇客的知识，重要的东西。"
     },
     {
-        "name":  "云风的 BLOG",
-        "type":  "rss",
-        "category":  "开发",
-        "url":  "http://blog.codingnow.com/atom.xml"
+        "name": "云风的 BLOG",
+        "type": "rss",
+        "category": "开发",
+        "url": "http://blog.codingnow.com/atom.xml",
+        "description": "思绪来得快去得也快，偶尔会在这里停留"
     },
     {
-        "name":  "小众软件",
-        "type":  "rss",
-        "category":  "科技",
-        "url":  "https://www.appinn.com/feed/"
+        "name": "小众软件",
+        "type": "rss",
+        "category": "科技",
+        "url": "https://www.appinn.com/feed/",
+        "description": "分享免费、小巧、实用、有趣、绿色的软件"
     },
     {
-        "name":  "极客公园",
-        "type":  "rss",
-        "category":  "科技",
-        "url":  "http://www.geekpark.net/rss"
+        "name": "极客公园",
+        "type": "rss",
+        "category": "科技",
+        "url": "http://www.geekpark.net/rss",
+        "description": "极客公园"
     },
     {
-        "name":  "构建我的被动收入",
-        "type":  "rss",
-        "category":  "博客",
-        "url":  "https://www.bmpi.dev/index.xml"
+        "name": "构建我的被动收入",
+        "type": "rss",
+        "category": "博客",
+        "url": "https://www.bmpi.dev/index.xml",
+        "description": "记录独立开发与被动收入探索。"
     },
     {
-        "name":  "虎嗅网",
-        "type":  "rss",
-        "category":  "商业",
-        "url":  "https://www.huxiu.com/rss/0.xml"
+        "name": "虎嗅网",
+        "type": "rss",
+        "category": "商业",
+        "url": "https://www.huxiu.com/rss/0.xml",
+        "description": "虎嗅网RSS订阅"
     },
     {
-        "name":  "36氪",
-        "type":  "rss",
-        "category":  "商业",
-        "url":  "https://36kr.com/feed"
+        "name": "36氪",
+        "type": "rss",
+        "category": "商业",
+        "url": "https://36kr.com/feed",
+        "description": "关注互联网创业与科技新闻。"
     },
     {
-        "name":  "太隐",
-        "type":  "rss",
-        "category":  "博客",
-        "url":  "https://wangyurui.com/feed.xml"
+        "name": "太隐",
+        "type": "rss",
+        "category": "博客",
+        "url": "https://wangyurui.com/feed.xml",
+        "description": "一个人的思想发育史就是他的阅读史"
     },
     {
-        "name":  "异次元软件世界",
-        "type":  "rss",
-        "category":  "科技",
-        "url":  "https://feed.iplaysoft.com/"
+        "name": "异次元软件世界",
+        "type": "rss",
+        "category": "科技",
+        "url": "https://feed.iplaysoft.com/",
+        "description": "软件改变生活"
     },
     {
-        "name":  "程序员的喵",
-        "type":  "rss",
-        "category":  "开发",
-        "url":  "https://catcoding.me/atom.xml"
+        "name": "程序员的喵",
+        "type": "rss",
+        "category": "开发",
+        "url": "https://catcoding.me/atom.xml",
+        "description": "喵神的 iOS 开发技术博客。"
     },
     {
-        "name":  "胡涂说",
-        "type":  "rss",
-        "category":  "博客",
-        "url":  "https://hutusi.com/feed.xml"
+        "name": "胡涂说",
+        "type": "rss",
+        "category": "博客",
+        "url": "https://hutusi.com/feed.xml",
+        "description": "hutusi.com"
     },
     {
-        "name":  "oldj\u0027s blog",
-        "type":  "rss",
-        "category":  "博客",
-        "url":  "https://oldj.net/feed"
+        "name": "oldj's blog",
+        "type": "rss",
+        "category": "博客",
+        "url": "https://oldj.net/feed",
+        "description": "老杰的博客"
     },
     {
-        "name":  "Randy\u0027s Blog",
-        "type":  "rss",
-        "category":  "博客",
-        "url":  "https://lutaonan.com/rss.xml"
+        "name": "Randy's Blog",
+        "type": "rss",
+        "category": "博客",
+        "url": "https://lutaonan.com/rss.xml",
+        "description": "About life, technology and reading"
     },
     {
-        "name":  "Draveness",
-        "type":  "rss",
-        "category":  "开发",
-        "url":  "https://draveness.me/feed.xml"
+        "name": "Draveness",
+        "type": "rss",
+        "category": "开发",
+        "url": "https://draveness.me/feed.xml",
+        "description": "面向信仰编程"
     },
     {
-        "name":  "ezindie.com",
-        "type":  "rss",
-        "category":  "商业",
-        "url":  "https://www.ezindie.com/feed/rss.xml"
+        "name": "ezindie.com",
+        "type": "rss",
+        "category": "商业",
+        "url": "https://www.ezindie.com/feed/rss.xml",
+        "description": "让技术变现，做可持续盈利的产品"
     },
     {
-        "name":  "晚晴幽草轩",
-        "type":  "rss",
-        "category":  "博客",
-        "url":  "https://www.jeffjade.com/atom.xml"
+        "name": "晚晴幽草轩",
+        "type": "rss",
+        "category": "博客",
+        "url": "https://www.jeffjade.com/atom.xml",
+        "description": "It's only too late if you decide it is. Get busy living. or get busy dying!"
     },
     {
-        "name":  "IT之家",
-        "type":  "rss",
-        "category":  "科技",
-        "url":  "https://www.ithome.com/rss/"
+        "name": "IT之家",
+        "type": "rss",
+        "category": "科技",
+        "url": "https://www.ithome.com/rss/",
+        "description": "IT之家 - 软媒旗下网站"
     },
     {
-        "name":  "Decohack",
-        "type":  "rss",
-        "category":  "设计",
-        "url":  "https://www.decohack.com/feed"
+        "name": "Decohack",
+        "type": "rss",
+        "category": "设计",
+        "url": "https://www.decohack.com/feed",
+        "description": "独立开发者灵感周刊"
     },
     {
-        "name":  "月光博客",
-        "type":  "rss",
-        "category":  "博客",
-        "url":  "http://www.williamlong.info/rss.xml"
+        "name": "月光博客",
+        "type": "rss",
+        "category": "博客",
+        "url": "http://www.williamlong.info/rss.xml",
+        "description": "关注互联网、科技与社会热点。"
     },
     {
-        "name":  "透明创业实验",
-        "type":  "rss",
-        "category":  "商业",
-        "url":  "https://blog.t9t.io/atom.xml"
+        "name": "透明创业实验",
+        "type": "rss",
+        "category": "商业",
+        "url": "https://blog.t9t.io/atom.xml",
+        "description": "记录创业过程与数据的实验博客。"
     },
     {
-        "name":  "卡瓦邦噶！",
-        "type":  "rss",
-        "category":  "开发",
-        "url":  "https://www.kawabangga.com/feed"
+        "name": "卡瓦邦噶！",
+        "type": "rss",
+        "category": "开发",
+        "url": "https://www.kawabangga.com/feed",
+        "description": "无法自制的人得不到自由。"
     },
     {
-        "name":  "离别歌",
-        "type":  "rss",
-        "category":  "安全",
-        "url":  "https://www.leavesongs.com/feed/"
+        "name": "离别歌",
+        "type": "rss",
+        "category": "安全",
+        "url": "https://www.leavesongs.com/feed/",
+        "description": "phith0n的小站，长期存在与分享关于网络安全与各种编程的原创文章。"
     },
     {
-        "name":  "风雪之隅",
-        "type":  "rss",
-        "category":  "开发",
-        "url":  "http://www.laruence.com/feed"
+        "name": "风雪之隅",
+        "type": "rss",
+        "category": "开发",
+        "url": "http://www.laruence.com/feed",
+        "description": "左手代码右手诗"
     },
     {
-        "name":  "理想生活实验室",
-        "type":  "rss",
-        "category":  "生活",
-        "url":  "https://www.toodaylab.com/feed"
+        "name": "理想生活实验室",
+        "type": "rss",
+        "category": "生活",
+        "url": "https://www.toodaylab.com/feed",
+        "description": "为更理想的生活"
     },
     {
-        "name":  "木遥的窗子",
-        "type":  "rss",
-        "category":  "博客",
-        "url":  "http://blog.farmostwood.net/feed"
+        "name": "木遥的窗子",
+        "type": "rss",
+        "category": "博客",
+        "url": "http://blog.farmostwood.net/feed",
+        "description": "Life is a complex with real and imaginary parts."
     },
     {
-        "name":  "Mac玩儿法",
-        "type":  "rss",
-        "category":  "苹果",
-        "url":  "http://www.waerfa.com/feed"
+        "name": "Mac玩儿法",
+        "type": "rss",
+        "category": "苹果",
+        "url": "http://www.waerfa.com/feed",
+        "description": "专注于 Mac 软件与技巧分享。"
     },
     {
-        "name":  "有赞技术团队",
-        "type":  "rss",
-        "category":  "开发",
-        "url":  "https://tech.youzan.com/rss/"
+        "name": "有赞技术团队",
+        "type": "rss",
+        "category": "开发",
+        "url": "https://tech.youzan.com/rss/",
+        "description": "Thoughts, stories and ideas."
     },
     {
-        "name":  "张鑫旭-鑫空间-鑫生活",
-        "type":  "rss",
-        "category":  "开发",
-        "url":  "https://www.zhangxinxu.com/wordpress/feed/"
+        "name": "张鑫旭-鑫空间-鑫生活",
+        "type": "rss",
+        "category": "开发",
+        "url": "https://www.zhangxinxu.com/wordpress/feed/",
+        "description": "it's my whole life!"
     },
     {
-        "name":  "HelloGitHub 月刊",
-        "type":  "rss",
-        "category":  "开发",
-        "url":  "http://hellogithub.com/rss"
+        "name": "HelloGitHub 月刊",
+        "type": "rss",
+        "category": "开发",
+        "url": "http://hellogithub.com/rss",
+        "description": "HelloGitHub 是一个分享有趣、 入门级开源项目的平台。 希望大家能够在这里找到编程的快乐、 轻松搞定问题的技术方案、 大呼过瘾的开源神器， 顺其自然地开启开源之旅。"
     },
     {
-        "name":  "maxOS",
-        "type":  "rss",
-        "category":  "苹果",
-        "url":  "https://maxoxo.me/rss/"
+        "name": "maxOS",
+        "type": "rss",
+        "category": "苹果",
+        "url": "https://maxoxo.me/rss/",
+        "description": "Eventually everything connects - people, ideas, objects."
     },
     {
-        "name":  "游戏研究社",
-        "type":  "rss",
-        "category":  "游戏",
-        "url":  "https://www.yystv.cn/rss/feed"
+        "name": "游戏研究社",
+        "type": "rss",
+        "category": "游戏",
+        "url": "https://www.yystv.cn/rss/feed",
+        "description": "无论你是游戏死忠，还是轻度的休闲玩家，在这里都能找到感兴趣的东西。"
     },
     {
-        "name":  "轶哥博客",
-        "type":  "rss",
-        "category":  "博客",
-        "url":  "https://www.wyr.me/rss.xml"
+        "name": "轶哥博客",
+        "type": "rss",
+        "category": "博客",
+        "url": "https://www.wyr.me/rss.xml",
+        "description": "一个全栈程序员的技术博客。"
     },
     {
-        "name":  "潮流周刊",
-        "type":  "rss",
-        "category":  "开发",
-        "url":  "https://weekly.tw93.fun/rss.xml"
+        "name": "潮流周刊",
+        "type": "rss",
+        "category": "开发",
+        "url": "https://weekly.tw93.fun/rss.xml",
+        "description": "记录工程师 Tw93 的不枯燥生活"
     },
     {
-        "name":  "GeekPlux",
-        "type":  "rss",
-        "category":  "博客",
-        "url":  "https://geekplux.com/feed.xml"
+        "name": "GeekPlux",
+        "type": "rss",
+        "category": "博客",
+        "url": "https://geekplux.com/feed.xml",
+        "description": "Data Visualization & Full-stack programmer, always exploring"
     },
     {
-        "name":  "CSS-Tricks",
-        "type":  "rss",
-        "category":  "开发",
-        "url":  "https://css-tricks.com/feed/"
+        "name": "CSS-Tricks",
+        "type": "rss",
+        "category": "开发",
+        "url": "https://css-tricks.com/feed/",
+        "description": "专注于 CSS 技术与前端开发。"
     },
     {
-        "name":  "技术小黑屋",
-        "type":  "rss",
-        "category":  "开发",
-        "url":  "https://droidyue.com/atom.xml"
+        "name": "技术小黑屋",
+        "type": "rss",
+        "category": "开发",
+        "url": "https://droidyue.com/atom.xml",
+        "description": "Android 开发与技术分享。"
     },
     {
-        "name":  "MacTalk-池建强的随想录",
-        "type":  "rss",
-        "category":  "苹果",
-        "url":  "http://macshuo.com/?feed=rss2"
+        "name": "MacTalk-池建强的随想录",
+        "type": "rss",
+        "category": "苹果",
+        "url": "http://macshuo.com/?feed=rss2",
+        "description": "让创作成为一种生活方式"
     },
     {
-        "name":  "weekly 标签新帖",
-        "type":  "rss",
-        "category":  "开发",
-        "url":  "https://discuss-cn.bestxtools.com/atom/t/weekly/discussions"
+        "name": "weekly 标签新帖",
+        "type": "rss",
+        "category": "开发",
+        "url": "https://discuss-cn.bestxtools.com/atom/t/weekly/discussions",
+        "description": "开发者周刊聚合。"
     },
     {
-        "name":  "Xuanwo\u0027s Blog",
-        "type":  "rss",
-        "category":  "博客",
-        "url":  "https://xuanwo.io/index.xml"
+        "name": "Xuanwo's Blog",
+        "type": "rss",
+        "category": "博客",
+        "url": "https://xuanwo.io/index.xml",
+        "description": "Recent content on Xuanwo's Blog"
     },
     {
-        "name":  "反斗限免",
-        "type":  "rss",
-        "category":  "科技",
-        "url":  "http://free.apprcn.com/feed/"
+        "name": "反斗限免",
+        "type": "rss",
+        "category": "科技",
+        "url": "http://free.apprcn.com/feed/",
+        "description": "反斗软件旗下软件限免资讯网站"
     },
     {
-        "name":  "扯氮集",
-        "type":  "rss",
-        "category":  "博客",
-        "url":  "http://weiwuhui.com/feed"
+        "name": "扯氮集",
+        "type": "rss",
+        "category": "博客",
+        "url": "http://weiwuhui.com/feed",
+        "description": "多歧为贵 不取苟同"
     },
     {
-        "name":  "Halfrost\u0027s Field",
-        "type":  "rss",
-        "category":  "博客",
-        "url":  "http://halfrost.com/rss/"
+        "name": "Halfrost's Field",
+        "type": "rss",
+        "category": "博客",
+        "url": "http://halfrost.com/rss/",
+        "description": "Explore in every moment of the hard thinking"
     },
     {
-        "name":  "Deepzz\u0027s Blog",
-        "type":  "rss",
-        "category":  "开发",
-        "url":  "https://deepzz.com/feed"
+        "name": "Deepzz's Blog",
+        "type": "rss",
+        "category": "开发",
+        "url": "https://deepzz.com/feed",
+        "description": "唯爱与美食不可辜负😄"
     },
     {
-        "name":  "二丫讲梵",
-        "type":  "rss",
-        "category":  "开发",
-        "url":  "https://wiki.eryajf.net/rss.xml"
+        "name": "二丫讲梵",
+        "type": "rss",
+        "category": "开发",
+        "url": "https://wiki.eryajf.net/rss.xml",
+        "description": "💻学习📝记录🔗分享 学无止境是永远前进的基础，跃然纸上是对知识的总结交代，与众分享则是实现价值的最好方式。"
     },
     {
-        "name":  "美团技术团队",
-        "type":  "rss",
-        "category":  "开发",
-        "url":  "https://tech.meituan.com/feed/"
+        "name": "美团技术团队",
+        "type": "rss",
+        "category": "开发",
+        "url": "https://tech.meituan.com/feed/",
+        "description": "美团技术团队最近更新内容。"
     },
     {
-        "name":  "BAI YUN",
-        "type":  "rss",
-        "category":  "博客",
-        "url":  "https://baiyun.me/feed"
+        "name": "BAI YUN",
+        "type": "rss",
+        "category": "博客",
+        "url": "https://baiyun.me/feed",
+        "description": "Share Tech, Life, and Anything!"
     },
     {
-        "name":  "唐巧的博客",
-        "type":  "rss",
-        "category":  "开发",
-        "url":  "http://blog.devtang.com/atom.xml"
+        "name": "唐巧的博客",
+        "type": "rss",
+        "category": "开发",
+        "url": "http://blog.devtang.com/atom.xml",
+        "description": "记录下自己学习的点滴"
     },
     {
-        "name":  "Dan Abramov\u0027s Overreacted",
-        "type":  "rss",
-        "category":  "开发",
-        "url":  "https://overreacted.io/rss.xml"
+        "name": "Dan Abramov's Overreacted",
+        "type": "rss",
+        "category": "开发",
+        "url": "https://overreacted.io/rss.xml",
+        "description": "React 核心开发者的技术博客。"
     },
     {
-        "name":  "Tony Bai",
-        "type":  "rss",
-        "category":  "开发",
-        "url":  "http://tonybai.com/feed/"
+        "name": "Tony Bai",
+        "type": "rss",
+        "category": "开发",
+        "url": "http://tonybai.com/feed/",
+        "description": "一个程序员的心路历程"
     },
     {
-        "name":  "奔跑中的奶酪",
-        "type":  "rss",
-        "category":  "科技",
-        "url":  "https://www.runningcheese.com/feed"
+        "name": "奔跑中的奶酪",
+        "type": "rss",
+        "category": "科技",
+        "url": "https://www.runningcheese.com/feed",
+        "description": "有智，有趣，有爱"
     },
     {
-        "name":  "卢昌海的个人主页",
-        "type":  "rss",
-        "category":  "科学",
-        "url":  "https://www.changhai.org/feed.xml"
+        "name": "卢昌海的个人主页",
+        "type": "rss",
+        "category": "科学",
+        "url": "https://www.changhai.org/feed.xml",
+        "description": "知名科普作家的科学随笔。"
     },
     {
-        "name":  "疯投圈",
-        "type":  "rss",
-        "category":  "商业",
-        "url":  "https://crazy.capital/feed"
+        "name": "疯投圈",
+        "type": "rss",
+        "category": "商业",
+        "url": "https://crazy.capital/feed",
+        "description": "一起探索好玩的商业世界"
     },
     {
-        "name":  "Engadget 中国",
-        "type":  "rss",
-        "category":  "科技",
-        "url":  "https://cn.engadget.com/rss.xml"
+        "name": "Engadget 中国",
+        "type": "rss",
+        "category": "科技",
+        "url": "https://cn.engadget.com/rss.xml",
+        "description": "全球科技新闻与评测。"
     },
     {
-        "name":  "钛媒体",
-        "type":  "rss",
-        "category":  "科技",
-        "url":  "https://www.tmtpost.com/feed"
+        "name": "钛媒体",
+        "type": "rss",
+        "category": "科技",
+        "url": "https://www.tmtpost.com/feed",
+        "description": "钛媒体致力于成为全球财经科技信息服务平台，形成了“新媒体、全球技术专家网络、科技IP与创意产品服务、科技股数据服务”四大业务板块和“钛媒体国际”业务布局，现已成为国际领先、国内极具影响力的财经信息服务商和新媒体标杆之一。"
     },
     {
-        "name":  "今日话题 - 雪球",
-        "type":  "rss",
-        "category":  "金融",
-        "url":  "https://xueqiu.com/hots/topic/rss"
+        "name": "今日话题 - 雪球",
+        "type": "rss",
+        "category": "金融",
+        "url": "https://xueqiu.com/hots/topic/rss",
+        "description": "雪球是一个社交投资网络，「今日话题」是雪球用户每日发布的投资交流精选。"
     },
     {
-        "name":  "小明明s à domicile",
-        "type":  "rss",
-        "category":  "开发",
-        "url":  "https://www.dongwm.com/atom.xml"
+        "name": "小明明s à domicile",
+        "type": "rss",
+        "category": "开发",
+        "url": "https://www.dongwm.com/atom.xml",
+        "description": "Python 开发者董伟明的博客。"
     },
     {
-        "name":  "小胡子哥的个人网站",
-        "type":  "rss",
-        "category":  "开发",
-        "url":  "http://www.barretlee.com/rss2.xml"
+        "name": "小胡子哥的个人网站",
+        "type": "rss",
+        "category": "开发",
+        "url": "http://www.barretlee.com/rss2.xml",
+        "description": "一个有趣的灵魂 —— 想法，随笔，思考，感叹，瞬间，笔记..."
     },
     {
-        "name":  "小球飞鱼",
-        "type":  "rss",
-        "category":  "博客",
-        "url":  "https://mantyke.icu/index.xml"
+        "name": "小球飞鱼",
+        "type": "rss",
+        "category": "博客",
+        "url": "https://mantyke.icu/index.xml",
+        "description": "Recent content on 小球飞鱼"
     },
     {
-        "name":  "触乐",
-        "type":  "rss",
-        "category":  "游戏",
-        "url":  "http://www.chuapp.com/feed"
+        "name": "触乐",
+        "type": "rss",
+        "category": "游戏",
+        "url": "http://www.chuapp.com/feed",
+        "description": "高品质、有价值、有趣的移动游戏资讯"
     },
     {
-        "name":  "王登科-DK博客",
-        "type":  "rss",
-        "category":  "博客",
-        "url":  "https://greatdk.com/feed"
+        "name": "王登科-DK博客",
+        "type": "rss",
+        "category": "博客",
+        "url": "https://greatdk.com/feed",
+        "description": "记录产品思考与生活。"
     },
     {
-        "name":  "人人都是产品经理",
-        "type":  "rss",
-        "category":  "商业",
-        "url":  "https://www.woshipm.com/feed"
+        "name": "人人都是产品经理",
+        "type": "rss",
+        "category": "商业",
+        "url": "https://www.woshipm.com/feed",
+        "description": "产品经理、产品爱好者学习交流平台"
     },
     {
-        "name":  "豆瓣最受欢迎的书评",
-        "type":  "rss",
-        "category":  "阅读",
-        "url":  "https://www.douban.com/feed/review/book"
+        "name": "豆瓣最受欢迎的书评",
+        "type": "rss",
+        "category": "阅读",
+        "url": "https://www.douban.com/feed/review/book",
+        "description": "豆瓣成员投票选出的最佳书评"
     },
     {
-        "name":  "Anthony Fu",
-        "type":  "rss",
-        "category":  "开发",
-        "url":  "https://antfu.me/feed.xml"
+        "name": "Anthony Fu",
+        "type": "rss",
+        "category": "开发",
+        "url": "https://antfu.me/feed.xml",
+        "description": "Vue 核心团队成员的技术博客。"
     },
     {
-        "name":  "只读",
-        "type":  "rss",
-        "category":  "阅读",
-        "url":  "https://www.rdonly.com/?feed=rss2"
+        "name": "只读",
+        "type": "rss",
+        "category": "阅读",
+        "url": "https://www.rdonly.com/?feed=rss2",
+        "description": "推荐值得阅读的深度文章。"
     },
     {
-        "name":  "优设-UISDC",
-        "type":  "rss",
-        "category":  "设计",
-        "url":  "http://www.uisdc.com/feed"
+        "name": "优设-UISDC",
+        "type": "rss",
+        "category": "设计",
+        "url": "http://www.uisdc.com/feed",
+        "description": "设计师学习与交流平台。"
     },
     {
-        "name":  "笨方法学写作",
-        "type":  "rss",
-        "category":  "博客",
-        "url":  "https://www.cnfeat.com/feed.xml"
+        "name": "笨方法学写作",
+        "type": "rss",
+        "category": "博客",
+        "url": "https://www.cnfeat.com/feed.xml",
+        "description": "feedId:55130722692595719+userId:59030678518927360"
     },
     {
-        "name":  "涛叔",
-        "type":  "rss",
-        "category":  "博客",
-        "url":  "https://taoshu.in/feed.xml"
+        "name": "涛叔",
+        "type": "rss",
+        "category": "博客",
+        "url": "https://taoshu.in/feed.xml",
+        "description": "记录技术与生活的个人博客。"
     },
     {
-        "name":  "西秦公子",
-        "type":  "rss",
-        "category":  "博客",
-        "url":  "https://www.ixiqin.com/feed/"
+        "name": "西秦公子",
+        "type": "rss",
+        "category": "博客",
+        "url": "https://www.ixiqin.com/feed/",
+        "description": "Just Keep Shipping"
     },
     {
-        "name":  "Tiny Projects",
-        "type":  "rss",
-        "category":  "开发",
-        "url":  "https://tinyprojects.dev/feed.xml"
+        "name": "Tiny Projects",
+        "type": "rss",
+        "category": "开发",
+        "url": "https://tinyprojects.dev/feed.xml",
+        "description": "Making one tiny project each week 💡"
     },
     {
-        "name":  "Phoenix\u0027s island",
-        "type":  "rss",
-        "category":  "博客",
-        "url":  "https://blog.phoenixlzx.com/atom.xml"
+        "name": "Phoenix's island",
+        "type": "rss",
+        "category": "博客",
+        "url": "https://blog.phoenixlzx.com/atom.xml",
+        "description": "Sun will shine on the horizon."
     },
     {
-        "name":  "全栈应用开发:精益实践",
-        "type":  "rss",
-        "category":  "开发",
-        "url":  "https://www.phodal.com/blog/feeds/rss/"
+        "name": "全栈应用开发:精益实践",
+        "type": "rss",
+        "category": "开发",
+        "url": "https://www.phodal.com/blog/feeds/rss/",
+        "description": "Blog"
     }
 ]
