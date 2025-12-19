@@ -32,10 +32,6 @@ try {
     const categoriesData = fs.readFileSync(categoriesPath, 'utf8');
     const categories = JSON.parse(categoriesData);
 
-    // 复制 categories.json 到 build/categories.json
-    fs.writeFileSync(path.join(buildDir, 'categories.json'), categoriesData);
-    console.log('已复制 categories.json 到 build/categories.json');
-
     // 创建分类映射：name -> id 和 id -> id
     const categoryMap = {};
     categories.forEach(cat => {
@@ -142,7 +138,26 @@ try {
         console.log('未找到 channels/js 目录，跳过 JS 频道处理。');
     }
 
-    // 4. 写入聚合文件
+    // 4. 过滤并写入 categories.json
+    console.log('正在过滤并写入 categories.json...');
+    const activeCategoryIds = Object.keys(aggregated);
+    const filteredCategories = categories.filter(cat => activeCategoryIds.includes(cat.id));
+    
+    // 如果有 "其他" 分类且有内容，但原始 categories.json 里没有（虽然我们之前加了），确保它存在
+    if (aggregated['qita'] && !filteredCategories.find(c => c.id === 'qita')) {
+        filteredCategories.push({
+            id: "qita",
+            avatar: "📦",
+            name: "其他",
+            description: "未分类的内容和其他精彩资源。"
+        });
+    }
+
+    fs.writeFileSync(path.join(buildDir, 'categories.json'), JSON.stringify(filteredCategories, null, 2), 'utf8');
+    console.log(`已写入 build/categories.json，共 ${filteredCategories.length} 个分类。`);
+
+
+    // 5. 写入聚合文件
     console.log('正在写入聚合文件...');
     Object.keys(aggregated).forEach(catId => {
         const filePath = path.join(buildCategoryDir, `${catId}.json`);
@@ -150,7 +165,7 @@ try {
         console.log(`已创建 ${filePath}`);
     });
 
-    // 5. 处理 top.txt
+    // 6. 处理 top.txt
     console.log('正在处理 top.txt...');
     const topItems = [];
     

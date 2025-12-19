@@ -4,6 +4,7 @@
     "type": "rss",
     "category": "安全",
     "url": "https://www.leavesongs.com/feed/",
+    "description": "phith0n的小站，长期存在与分享关于网络安全与各种编程的原创文章。",
     "version": "1.0",
     "hash": "775ff196662a6c474554af952ddeaafc"
   }

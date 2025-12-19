@@ -4,6 +4,7 @@
     "type": "rss",
     "category": "科学",
     "url": "https://www.changhai.org/feed.xml",
+    "description": "知名科普作家的科学随笔。",
     "version": "1.0",
     "hash": "3b61083439090015325a4449df8c464a"
   }

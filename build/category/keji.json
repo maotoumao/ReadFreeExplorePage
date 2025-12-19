@@ -4,6 +4,7 @@
     "type": "rss",
     "category": "科技",
     "url": "https://sspai.com/feed",
+    "description": "少数派致力于更好地运用数字产品或科学方法，帮助用户提升工作效率和生活品质",
     "version": "1.0",
     "hash": "a501cef8044ca334c2304e54a13864b4"
   },
@@ -12,6 +13,7 @@
     "type": "rss",
     "category": "科技",
     "url": "https://www.ifanr.com/feed",
+    "description": "关注明日产品的数字潮牌",
     "version": "1.0",
     "hash": "64e8cfa91547f401369333394aa6203f"
   },
@@ -20,6 +22,7 @@
     "type": "rss",
     "category": "科技",
     "url": "https://www.solidot.org/index.rss",
+    "description": "奇客的知识，重要的东西。",
     "version": "1.0",
     "hash": "2656743796ac28300205cfec5ff54792"
   },
@@ -28,6 +31,7 @@
     "type": "rss",
     "category": "科技",
     "url": "https://www.appinn.com/feed/",
+    "description": "分享免费、小巧、实用、有趣、绿色的软件",
     "version": "1.0",
     "hash": "7398fec45d0ee018b62ab4733c97996a"
   },
@@ -36,6 +40,7 @@
     "type": "rss",
     "category": "科技",
     "url": "http://www.geekpark.net/rss",
+    "description": "极客公园",
     "version": "1.0",
     "hash": "7ae3c670975ef47969c9d17302d88fc2"
   },
@@ -44,6 +49,7 @@
     "type": "rss",
     "category": "科技",
     "url": "https://feed.iplaysoft.com/",
+    "description": "软件改变生活",
     "version": "1.0",
     "hash": "1d4cd97fd2eb53f502a215e1ee93ad08"
   },
@@ -52,6 +58,7 @@
     "type": "rss",
     "category": "科技",
     "url": "https://www.ithome.com/rss/",
+    "description": "IT之家 - 软媒旗下网站",
     "version": "1.0",
     "hash": "03e811e030653cdc266ee05b570318a7"
   },
@@ -60,6 +67,7 @@
     "type": "rss",
     "category": "科技",
     "url": "http://free.apprcn.com/feed/",
+    "description": "反斗软件旗下软件限免资讯网站",
     "version": "1.0",
     "hash": "dd85ebca76ae5a1276f3387e7264a7a6"
   },
@@ -68,6 +76,7 @@
     "type": "rss",
     "category": "科技",
     "url": "https://www.runningcheese.com/feed",
+    "description": "有智，有趣，有爱",
     "version": "1.0",
     "hash": "5cbc25826e31c77e2dfbe70f7f2bb00c"
   },
@@ -76,6 +85,7 @@
     "type": "rss",
     "category": "科技",
     "url": "https://cn.engadget.com/rss.xml",
+    "description": "全球科技新闻与评测。",
     "version": "1.0",
     "hash": "fbf567c956d978d534407eb61fa6f111"
   },
@@ -84,6 +94,7 @@
     "type": "rss",
     "category": "科技",
     "url": "https://www.tmtpost.com/feed",
+    "description": "钛媒体致力于成为全球财经科技信息服务平台，形成了“新媒体、全球技术专家网络、科技IP与创意产品服务、科技股数据服务”四大业务板块和“钛媒体国际”业务布局，现已成为国际领先、国内极具影响力的财经信息服务商和新媒体标杆之一。",
     "version": "1.0",
     "hash": "c4fb967a0f9149a27e24c0051e5114e1"
   }

@@ -4,6 +4,7 @@
     "type": "rss",
     "category": "商业",
     "url": "https://www.huxiu.com/rss/0.xml",
+    "description": "虎嗅网RSS订阅",
     "version": "1.0",
     "hash": "494c9d268d7aadafb18ae3fb3cdd5cf2"
   },
@@ -12,6 +13,7 @@
     "type": "rss",
     "category": "商业",
     "url": "https://36kr.com/feed",
+    "description": "关注互联网创业与科技新闻。",
     "version": "1.0",
     "hash": "de4e43493bc02ea735d6ef5f841dcdd6"
   },
@@ -20,6 +22,7 @@
     "type": "rss",
     "category": "商业",
     "url": "https://www.ezindie.com/feed/rss.xml",
+    "description": "让技术变现，做可持续盈利的产品",
     "version": "1.0",
     "hash": "221946862c14a2311373715d2ccdc1a5"
   },
@@ -28,6 +31,7 @@
     "type": "rss",
     "category": "商业",
     "url": "https://blog.t9t.io/atom.xml",
+    "description": "记录创业过程与数据的实验博客。",
     "version": "1.0",
     "hash": "0c9bcb2b9e06c6273507b661b0778f75"
   },
@@ -36,6 +40,7 @@
     "type": "rss",
     "category": "商业",
     "url": "https://crazy.capital/feed",
+    "description": "一起探索好玩的商业世界",
     "version": "1.0",
     "hash": "4b7edec737f0d70c8c19bb44359c95da"
   },
@@ -44,6 +49,7 @@
     "type": "rss",
     "category": "商业",
     "url": "https://www.woshipm.com/feed",
+    "description": "产品经理、产品爱好者学习交流平台",
     "version": "1.0",
     "hash": "f39f53c52b0875e39d47b617e2e00331"
   }

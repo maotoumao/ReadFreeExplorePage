@@ -4,6 +4,7 @@
     "type": "rss",
     "category": "设计",
     "url": "https://www.decohack.com/feed",
+    "description": "独立开发者灵感周刊",
     "version": "1.0",
     "hash": "8d0d8c3e07d231e266f0e75773575908"
   },
@@ -12,6 +13,7 @@
     "type": "rss",
     "category": "设计",
     "url": "http://www.uisdc.com/feed",
+    "description": "设计师学习与交流平台。",
     "version": "1.0",
     "hash": "d866534b7d8589c10634764907eca344"
   }

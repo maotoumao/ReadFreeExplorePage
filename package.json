@@ -17,5 +17,8 @@
     "crypto-js": "^4.2.0",
     "dayjs": "^1.11.19",
     "he": "^1.2.0"
+  },
+  "devDependencies": {
+    "rimraf": "^6.1.2"
   }
 }

@@ -4,6 +4,7 @@
     "type": "rss",
     "category": "阅读",
     "url": "https://www.zhihu.com/rss",
+    "description": "知乎社区每日精选问答。",
     "version": "1.0",
     "hash": "5b4d4e1a40ba2ccef9c84ca31b5f2926"
   },
@@ -12,6 +13,7 @@
     "type": "rss",
     "category": "阅读",
     "url": "https://www.douban.com/feed/review/book",
+    "description": "豆瓣成员投票选出的最佳书评",
     "version": "1.0",
     "hash": "0fac48a01a1d8c3fafc5a5a154bec50c"
   },
@@ -20,6 +22,7 @@
     "type": "rss",
     "category": "阅读",
     "url": "https://www.rdonly.com/?feed=rss2",
+    "description": "推荐值得阅读的深度文章。",
     "version": "1.0",
     "hash": "153217ee777692ae8dd6a551f52a5b96"
   }
