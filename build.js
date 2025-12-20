@@ -99,9 +99,12 @@ try {
                 const srcPath = path.join(jsChannelsDir, file);
                 const destPath = path.join(buildJsDir, file);
 
-                // 2.1 复制 JS 文件
-                const fileContent = fs.readFileSync(srcPath);
-                fs.writeFileSync(destPath, fileContent);
+                // 2.1 复制 JS 文件 (读取为字符串并标准化换行符，确保跨平台和 String MD5 一致性)
+                let fileContent = fs.readFileSync(srcPath, 'utf8');
+                // 统一换行符为 \n (LF)
+                fileContent = fileContent.replace(/\r\n/g, '\n');
+                
+                fs.writeFileSync(destPath, fileContent, 'utf8');
                 
                 // 2.2 Require 文件并获取元数据
                 // 清除缓存以确保获取最新内容
@@ -115,6 +118,7 @@ try {
                 }
 
                 // 2.3 新增字段 hash 和 version
+                // 计算标准化后的字符串的 MD5
                 const fileHash = calculateMD5(fileContent);
                 const version = channelModule.version || "1.0";
 
