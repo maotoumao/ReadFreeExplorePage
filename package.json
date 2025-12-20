@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "http-server build -c-1",
     "build": "rimraf build && node build.js"
   },
   "keywords": [],
@@ -19,6 +19,7 @@
     "he": "^1.2.0"
   },
   "devDependencies": {
+    "http-server": "^14.1.1",
     "rimraf": "^6.1.2"
   }
 }

@@ -78,6 +78,43 @@ const channel = {
             const response = await fetch(feed.url);
             const html = await response.text();
             const $doc = $.load(html);
+
+               // 处理 Hexo/Next 主题的代码块
+            $doc("figure.highlight").each((i, el) => {
+                const $figure = $doc(el);
+                const classes = $figure.attr("class").split(/\s+/);
+                let lang = "plaintext";
+                // 通常结构是 highlight language-name 或 highlight name
+                if (classes.length > 1) {
+                    lang = classes[1];
+                }
+
+                const lines = [];
+                $figure.find("td.code .line").each((j, line) => {
+                    lines.push($doc(line).text());
+                });
+                
+                // 如果没有找到 .line，尝试直接获取 pre 的文本
+                let codeText = "";
+                if (lines.length > 0) {
+                    codeText = lines.join("\n");
+                } else {
+                    codeText = $figure.find("td.code pre").text();
+                }
+
+                // 简单的 HTML 转义
+                const escapeHtml = (unsafe) => {
+                    return unsafe
+                        .replace(/&/g, "&amp;")
+                        .replace(/</g, "&lt;")
+                        .replace(/>/g, "&gt;")
+                        .replace(/"/g, "&quot;")
+                        .replace(/'/g, "&#039;");
+                };
+
+                const newHtml = `<pre><code class="language-${lang}">${escapeHtml(codeText)}</code></pre>`;
+                $figure.replaceWith(newHtml);
+            });
             
             const content = $doc(".post-body").html();
             const title = $doc(".post-title").text().trim();
