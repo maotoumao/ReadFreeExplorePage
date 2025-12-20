@@ -1,0 +1,5 @@
+# 默认行为：自动处理换行符
+* text=auto
+
+# 强制 build 目录下的所有文件使用 LF 换行符
+build/** text eol=lf
