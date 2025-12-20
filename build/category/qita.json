@@ -1,0 +1,12 @@
+[
+  {
+    "identifier": "tools.v1v.kinship",
+    "name": "猫头猫小工具",
+    "description": "猫头猫做的小工具合集",
+    "version": "1.0.0",
+    "allowDuplicate": false,
+    "type": "js",
+    "url": "js/catcat-work.js",
+    "hash": "02744884da1b796c425e8f195ec9ffaa"
+  }
+]
