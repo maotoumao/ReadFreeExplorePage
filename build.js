@@ -157,7 +157,9 @@ try {
         });
     }
 
-    fs.writeFileSync(path.join(buildDir, 'categories.json'), JSON.stringify(filteredCategories, null, 2), 'utf8');
+    // 强制使用 \n 换行符
+    const categoriesJson = JSON.stringify(filteredCategories, null, 2).replace(/\r\n/g, '\n');
+    fs.writeFileSync(path.join(buildDir, 'categories.json'), categoriesJson, 'utf8');
     console.log(`已写入 build/categories.json，共 ${filteredCategories.length} 个分类。`);
 
 
@@ -165,7 +167,9 @@ try {
     console.log('正在写入聚合文件...');
     Object.keys(aggregated).forEach(catId => {
         const filePath = path.join(buildCategoryDir, `${catId}.json`);
-        fs.writeFileSync(filePath, JSON.stringify(aggregated[catId], null, 2), 'utf8');
+        // 强制使用 \n 换行符
+        const catJson = JSON.stringify(aggregated[catId], null, 2).replace(/\r\n/g, '\n');
+        fs.writeFileSync(filePath, catJson, 'utf8');
         console.log(`已创建 ${filePath}`);
     });
 
@@ -194,7 +198,9 @@ try {
         });
         
         const topJsonPath = path.join(buildDir, 'top.json');
-        fs.writeFileSync(topJsonPath, JSON.stringify(topItems, null, 2), 'utf8');
+        // 强制使用 \n 换行符
+        const topJson = JSON.stringify(topItems, null, 2).replace(/\r\n/g, '\n');
+        fs.writeFileSync(topJsonPath, topJson, 'utf8');
         console.log(`已创建 ${topJsonPath}`);
     } else {
         console.log('未找到 top.txt，跳过 top.json 生成。');
