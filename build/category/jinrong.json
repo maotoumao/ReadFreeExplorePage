@@ -9,13 +9,13 @@
     "hash": "e5f3fea0c162f1f933264bed01441685"
   },
   {
-    "name": "SilverNeedleLab",
+    "name": "也谈钱",
     "type": "rss",
-    "url": "https://wechat2rss.xlab.app/feed/8defbaee147ce6fc812f5d1eedca61ea22ecf168.xml",
+    "url": "https://wechat2rss.xlab.app/feed/f2fd5af8dc3590b99509f0c501de09066d063028.xml",
     "category": "金融",
-    "description": "SilverNeedleLab (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "description": "一枚工程师的财务自由日志，工资理财也能财务自由。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
     "version": "1.0",
-    "hash": "c1a0c595a5b1bf287ed14459e788dc8f"
+    "hash": "75b243535f2b6887480dcfc333c9ff9d"
   },
   {
     "name": "长赢指数投资",
@@ -27,37 +27,30 @@
     "hash": "0de810ae955a714f8390848102d5de6d"
   },
   {
-    "name": "卢瑟经济学之安生杂谈",
+    "name": "辉哥奇谭",
     "type": "rss",
-    "url": "https://wechat2rss.xlab.app/feed/810c7b56b5341b3767e54b8648dc972c6b1f4fe9.xml",
+    "url": "https://wechat2rss.xlab.app/feed/1b01bd297483509251779f1a02bb90223786a923.xml",
     "category": "金融",
+    "description": "和我一起，探索财富与精神自由之路 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
     "version": "1.0",
-    "hash": "a1a2e13b4b019babf400bd968cb4ef29"
+    "hash": "b151e8dd0f75cdc65ade800225812dbf"
   },
   {
-    "name": "卢瑟经济学安生杂谈",
+    "name": "集思录",
     "type": "rss",
-    "url": "https://wechat2rss.xlab.app/feed/62ec8c2ba29a16a45c8418a6ecd1945cc80eb380.xml",
+    "url": "https://wechat2rss.xlab.app/feed/f75bbb0bffd9fd6e0dda725282202ccc23a2bdff.xml",
     "category": "金融",
+    "description": "投资理财社区 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
     "version": "1.0",
-    "hash": "75f8d50f60102e5650d6a9a614dbe83b"
+    "hash": "76d8612aaf36929d9a303e4943e24c3e"
   },
   {
-    "name": "逻辑与现实经济",
+    "name": "思想钢印",
     "type": "rss",
-    "url": "https://wechat2rss.xlab.app/feed/07cd3971227a35b5c35cd94d1961790dad9a87c7.xml",
+    "url": "https://wechat2rss.xlab.app/feed/a55006fab25a17c43a412246fda317822609f2ea.xml",
     "category": "金融",
-    "description": "逻辑即规律，经济是如何与社会进行资源交易。逻辑与经济的融合，便可以理清交易的脉络与根源博弈，在现有规则下尽可能达成最有利自身的资源交易。我已加入“维权骑士”（rightknights.com）的版权保护计划。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "description": "雪球2020年度十大影响力用户，私募基金经理 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
     "version": "1.0",
-    "hash": "0789f9e7bf8d02cfa99f8e5d196179ec"
-  },
-  {
-    "name": "经济学人双语精读",
-    "type": "rss",
-    "url": "https://wechat2rss.xlab.app/feed/3db1babbdeeb84327cf6b5315e98d5f40925ae13.xml",
-    "category": "金融",
-    "description": "阅读英文报刊，提高阅读理解与写作能力。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
-    "version": "1.0",
-    "hash": "674de5ef2787485c31a8584b26139d04"
+    "hash": "23561f28fbc470c86d1f4333b0eebc35"
   }
 ]

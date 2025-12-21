@@ -9,6 +9,15 @@
     "hash": "5b4d4e1a40ba2ccef9c84ca31b5f2926"
   },
   {
+    "name": "太隐",
+    "type": "rss",
+    "category": "阅读",
+    "url": "https://wangyurui.com/feed.xml",
+    "description": "一个人的思想发育史就是他的阅读史",
+    "version": "1.0",
+    "hash": "23f93aa69dc465f9f5c83f3094798faf"
+  },
+  {
     "name": "豆瓣最受欢迎的书评",
     "type": "rss",
     "category": "阅读",
@@ -18,6 +27,51 @@
     "hash": "0fac48a01a1d8c3fafc5a5a154bec50c"
   },
   {
+    "name": "笨方法学写作",
+    "type": "rss",
+    "category": "阅读",
+    "url": "https://www.cnfeat.com/feed.xml",
+    "description": "feedId:55130722692595719+userId:59030678518927360",
+    "version": "1.0",
+    "hash": "f64d68fe8e8640d749070794204b5911"
+  },
+  {
+    "name": "道哥的黑板报",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/980128c3a0c9ff852a06dd4a2bc3391338e05760.xml",
+    "category": "阅读",
+    "description": "我偶然发现了隐藏在这个世界背后的真相，可惜这里的空白太小了，我没有办法写下来。想知道吗？请每天来看看吧。关注互联网、黑客、创业、技术、历史、文化，可能还有美女哦。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "54ea38639dd4aa1942c0b73ef42c1129"
+  },
+  {
+    "name": "吴鲁加",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/9ce69c7f41d24a340778d34bfc977dd71b40c203.xml",
+    "category": "阅读",
+    "description": "创业者。创业产品知识星球。喜欢阅读、产品、拍摄、写作。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "c34a0a2fcc9f6a2da6bddaca04d9b83f"
+  },
+  {
+    "name": "海边的西赛罗",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/5e25483b324ae2d39510555465b12a2b2dfa4000.xml",
+    "category": "阅读",
+    "description": "我像一个孩子，在海边玩耍。拾起那些美丽的贝壳，拿给你看。然而，真理的大海，永远在你我眼前展开。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "5c04fffad30aba9ce49c3d9838f6d667"
+  },
+  {
+    "name": "先生制造",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/313326d41db4f54b1cc09e7c986a5ac4e5f88ca0.xml",
+    "category": "阅读",
+    "description": "溯洄从之，道阻且长 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "56c0ed4e7bf063e5c4da29a9cee7c0ba"
+  },
+  {
     "name": "莫言读书会",
     "type": "rss",
     "url": "https://wechat2rss.xlab.app/feed/6324f2c5d7c2413541a11589b64d7fcb63417ff7.xml",
@@ -25,5 +79,50 @@
     "description": "本公号定期推送莫言先生授权作品，并开展作品解读、读者交流等活动。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
     "version": "1.0",
     "hash": "4d721e9cb6cf4041f0ff2ffa28efc932"
+  },
+  {
+    "name": "莫言",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/c7f569a306308328f4d9c3ef5143087f13374311.xml",
+    "category": "阅读",
+    "description": "我想和年轻人聊聊天。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "31d25e54e0d3d3f3f9f4af25adde18a8"
+  },
+  {
+    "name": "宋钊的小站",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/667c03c3823e7c2c9da0c197b7b40f5b3ee94f8e.xml",
+    "category": "阅读",
+    "description": "作者宋钊的个人文字分享空间，包括创作的小说、随笔、书评等内容。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "2d30075972bb0ae70ec818427e531f56"
+  },
+  {
+    "name": "广州图书馆",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/b71eecec99bc3b09f1fcf1ff623e5f21f71aa0cf.xml",
+    "category": "阅读",
+    "description": "为读者提供馆藏书目、借阅信息等查询；提供数字阅读、送书上门等服务；提供活动与展览信息查询；使读者更充分地利用广州图书馆各项资源。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "097a5ee87d6e489d2c2edbafcc629a5d"
+  },
+  {
+    "name": "经济学人双语精读",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/3db1babbdeeb84327cf6b5315e98d5f40925ae13.xml",
+    "category": "阅读",
+    "description": "阅读英文报刊，提高阅读理解与写作能力。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "674de5ef2787485c31a8584b26139d04"
+  },
+  {
+    "name": "六镇",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/fd04a2cecf60d2f3a4da34206e11c07aca561715.xml",
+    "category": "阅读",
+    "description": "最近就在这里写作了。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "a45505e7c5df619e1d3e58fa197d1fa9"
   }
 ]

@@ -9,24 +9,6 @@
     "hash": "494c9d268d7aadafb18ae3fb3cdd5cf2"
   },
   {
-    "name": "36氪",
-    "type": "rss",
-    "category": "商业",
-    "url": "https://36kr.com/feed",
-    "description": "关注互联网创业与科技新闻。",
-    "version": "1.0",
-    "hash": "de4e43493bc02ea735d6ef5f841dcdd6"
-  },
-  {
-    "name": "ezindie.com",
-    "type": "rss",
-    "category": "商业",
-    "url": "https://www.ezindie.com/feed/rss.xml",
-    "description": "让技术变现，做可持续盈利的产品",
-    "version": "1.0",
-    "hash": "221946862c14a2311373715d2ccdc1a5"
-  },
-  {
     "name": "透明创业实验",
     "type": "rss",
     "category": "商业",
@@ -52,5 +34,93 @@
     "description": "产品经理、产品爱好者学习交流平台",
     "version": "1.0",
     "hash": "f39f53c52b0875e39d47b617e2e00331"
+  },
+  {
+    "name": "正阳咨询",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/47ea183e577cf1fc9035122675cc567dec908443.xml",
+    "category": "商业",
+    "description": "正阳风控咨询，关注企业和个人风险管理 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "f14b2f1db73ad688ca19b168e22edc00"
+  },
+  {
+    "name": "数工复利",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/9daa406071d03da194ea8a0b35f1982c288ba366.xml",
+    "category": "商业",
+    "description": "通过数据谈财经，说风控，道商业 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "1be0e5eb36ec951316a6b0219da825fe"
+  },
+  {
+    "name": "数说安全",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/b15a925f83a4b108b957f8dd0e8030b6caa7da5e.xml",
+    "category": "商业",
+    "description": "数说安全是专注于网络安全垂直领域的自媒体。我们以数据为基础，结合科学的方法论做行业研究。从企业经营、产品技术、市场营销、资本等多个维度进行深度商业分析，旨在升级认知，洞见趋势。我们希望您在这里，读懂安全！ (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "c7766994dd6671c6230b9dce3376892a"
+  },
+  {
+    "name": "42章经",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/31436fcc3bba8c2c2a9337a163afcb3b5a57a0a0.xml",
+    "category": "商业",
+    "description": "思考事物本质 | 创投圈教科书式必读公号 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "609213a99d545ab4c65a2425cd7f7a97"
+  },
+  {
+    "name": "小火箭",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/ebbf3f8891e7d70626c75dca7b92dd6c075663d5.xml",
+    "category": "商业",
+    "description": "全球航空航天业内人员和深度爱好者们的交流基地。内容由邢强博士一人情怀创制。 小火箭没有体制背景，没有商业运营，唯一可以依赖的就是你啦！ 小火箭出品，必属精品！我已加入“维权骑士”(rightknights.com)的版权保护计划。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "743076328cdcca18e369e981ec04ca4f"
+  },
+  {
+    "name": "卢瑟经济学之安生杂谈",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/810c7b56b5341b3767e54b8648dc972c6b1f4fe9.xml",
+    "category": "商业",
+    "version": "1.0",
+    "hash": "a1a2e13b4b019babf400bd968cb4ef29"
+  },
+  {
+    "name": "卢瑟经济学安生杂谈",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/62ec8c2ba29a16a45c8418a6ecd1945cc80eb380.xml",
+    "category": "商业",
+    "version": "1.0",
+    "hash": "75f8d50f60102e5650d6a9a614dbe83b"
+  },
+  {
+    "name": "红色安生",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/e2379df83a2450a7dd45022f0408c65cdf11563f.xml",
+    "category": "商业",
+    "description": "分析各类经济信息 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "baea73657748d45e78b8263053371342"
+  },
+  {
+    "name": "逻辑与现实经济",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/07cd3971227a35b5c35cd94d1961790dad9a87c7.xml",
+    "category": "商业",
+    "description": "逻辑即规律，经济是如何与社会进行资源交易。逻辑与经济的融合，便可以理清交易的脉络与根源博弈，在现有规则下尽可能达成最有利自身的资源交易。我已加入“维权骑士”（rightknights.com）的版权保护计划。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "0789f9e7bf8d02cfa99f8e5d196179ec"
+  },
+  {
+    "name": "傅盛",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/71257003d43d39b91ff9d38b6f3330c883dc8e0c.xml",
+    "category": "商业",
+    "description": "猎豹移动董事长兼CEO，关注创新创业、人工智能，还有机器人。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "12e531ea25e2bd4706d3aa4a249e3852"
   }
 ]

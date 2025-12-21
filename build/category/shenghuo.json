@@ -7,5 +7,95 @@
     "description": "为更理想的生活",
     "version": "1.0",
     "hash": "d65a8f811d37aa53a703813300c88e5f"
+  },
+  {
+    "name": "张鑫旭-鑫空间-鑫生活",
+    "type": "rss",
+    "category": "生活",
+    "url": "https://www.zhangxinxu.com/wordpress/feed/",
+    "description": "it's my whole life!",
+    "version": "1.0",
+    "hash": "41017684ffdafcd0797be968c4b6b622"
+  },
+  {
+    "name": "潮流周刊",
+    "type": "rss",
+    "category": "生活",
+    "url": "https://weekly.tw93.fun/rss.xml",
+    "description": "记录工程师 Tw93 的不枯燥生活",
+    "version": "1.0",
+    "hash": "951ef5f8788f8c19c543632e946f5428"
+  },
+  {
+    "name": "MacTalk-池建强的随想录",
+    "type": "rss",
+    "category": "生活",
+    "url": "http://macshuo.com/?feed=rss2",
+    "description": "让创作成为一种生活方式",
+    "version": "1.0",
+    "hash": "ed293159ecc2c4d8d47e8fd35ac7920b"
+  },
+  {
+    "name": "Deepzz's Blog",
+    "type": "rss",
+    "category": "生活",
+    "url": "https://deepzz.com/feed",
+    "description": "唯爱与美食不可辜负😄",
+    "version": "1.0",
+    "hash": "86a19da24c43650f72f3a5d24ee7eba3"
+  },
+  {
+    "name": "赵武的自留地",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/1bbf7fc5fac024226f86a1851c682253a7eae63f.xml",
+    "category": "生活",
+    "description": "关注\"赵武的自留地\"，在艰苦的生活中，每天获取一些苦中作乐的正能量，给生活添点彩！ (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "c65d4c0540bf346926a5acdca1861408"
+  },
+  {
+    "name": "丁爸情报分析师的工具箱",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/4fad165589ac854de97e576a6dbcfbd8b9f75320.xml",
+    "category": "生活",
+    "description": "每天为大家精选各类情报分析相关的资源、工具、技巧和资讯，努力成为情报分析师必备的工具箱。外挂机器人“小丁丁”还能陪您聊天，给您查航班、查列车、查天气、查酒店、查美食、查股票、回答您的提问等等。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "84b887c3beba216d34c782b4bba2fd3e"
+  },
+  {
+    "name": "回忆飘如雪",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/fa41acf1a0d9c54d4caf973349e7bd99d5de61c6.xml",
+    "category": "生活",
+    "description": "记录工作生活所思所想 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "bae69022ca3399236caca7241c850001"
+  },
+  {
+    "name": "分类乐色桶",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/5978638470af63bf67edad170b4e8e9eb945b948.xml",
+    "category": "生活",
+    "description": "记录个人生活 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "c51d6049832f298fa646d22d0dec34a1"
+  },
+  {
+    "name": "朴实无华lake2",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/d452e14a90682f0ce670dcce1a041f56593260fc.xml",
+    "category": "生活",
+    "description": "生活就是这么朴实无华，且枯燥 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "878a5a222fc2e8a6da9a76a0c0b7a0b6"
+  },
+  {
+    "name": "胡大一大夫",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/711dd0c42a7a940c7438223ed2ee42131f6d555a.xml",
+    "category": "生活",
+    "description": "医学家、预防医学家、医学教育家、公益助医志愿者——胡大一大夫健康知识传播自媒体。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "1407375e77705dbf500151c526c49dba"
   }
 ]

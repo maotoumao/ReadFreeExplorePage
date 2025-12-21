@@ -9,35 +9,35 @@
     {
         "name": "阮一峰的网络日志",
         "type": "rss",
-        "category": "博客",
+        "category": "boke",
         "url": "https://www.ruanyifeng.com/blog/atom.xml",
         "description": "Ruan YiFeng's Blog"
     },
     {
         "name": "少数派",
         "type": "rss",
-        "category": "科技",
+        "category": "shuma",
         "url": "https://sspai.com/feed",
         "description": "少数派致力于更好地运用数字产品或科学方法，帮助用户提升工作效率和生活品质"
     },
     {
         "name": "酷 壳 – CoolShell",
         "type": "rss",
-        "category": "开发",
+        "category": "kaifa",
         "url": "http://coolshell.cn/feed",
         "description": "享受编程和技术所带来的快乐 - Coding Your Ambition"
     },
     {
         "name": "爱范儿",
         "type": "rss",
-        "category": "科技",
+        "category": "shuma",
         "url": "https://www.ifanr.com/feed",
         "description": "关注明日产品的数字潮牌"
     },
     {
         "name": "机核",
         "type": "rss",
-        "category": "游戏",
+        "category": "youxi",
         "url": "https://www.gcores.com/rss",
         "description": "不止是游戏"
     },
@@ -58,56 +58,56 @@
     {
         "name": "小众软件",
         "type": "rss",
-        "category": "科技",
+        "category": "ruanjian",
         "url": "https://www.appinn.com/feed/",
         "description": "分享免费、小巧、实用、有趣、绿色的软件"
     },
     {
         "name": "极客公园",
         "type": "rss",
-        "category": "科技",
+        "category": "keji",
         "url": "http://www.geekpark.net/rss",
         "description": "极客公园"
     },
     {
         "name": "构建我的被动收入",
         "type": "rss",
-        "category": "博客",
+        "category": "kaifa",
         "url": "https://www.bmpi.dev/index.xml",
         "description": "记录独立开发与被动收入探索。"
     },
     {
         "name": "虎嗅网",
         "type": "rss",
-        "category": "商业",
+        "category": "shangye",
         "url": "https://www.huxiu.com/rss/0.xml",
         "description": "虎嗅网RSS订阅"
     },
     {
         "name": "36氪",
         "type": "rss",
-        "category": "商业",
+        "category": "keji",
         "url": "https://36kr.com/feed",
         "description": "关注互联网创业与科技新闻。"
     },
     {
         "name": "太隐",
         "type": "rss",
-        "category": "博客",
+        "category": "yuedu",
         "url": "https://wangyurui.com/feed.xml",
         "description": "一个人的思想发育史就是他的阅读史"
     },
     {
         "name": "异次元软件世界",
         "type": "rss",
-        "category": "科技",
+        "category": "ruanjian",
         "url": "https://feed.iplaysoft.com/",
         "description": "软件改变生活"
     },
     {
         "name": "程序员的喵",
         "type": "rss",
-        "category": "开发",
+        "category": "kaifa",
         "url": "https://catcoding.me/atom.xml",
         "description": "喵神的 iOS 开发技术博客。"
     },
@@ -121,7 +121,7 @@
     {
         "name": "oldj's blog",
         "type": "rss",
-        "category": "博客",
+        "category": "boke",
         "url": "https://oldj.net/feed",
         "description": "老杰的博客"
     },
@@ -135,14 +135,14 @@
     {
         "name": "Draveness",
         "type": "rss",
-        "category": "开发",
+        "category": "kaifa",
         "url": "https://draveness.me/feed.xml",
         "description": "面向信仰编程"
     },
     {
         "name": "ezindie.com",
         "type": "rss",
-        "category": "商业",
+        "category": "kaifa",
         "url": "https://www.ezindie.com/feed/rss.xml",
         "description": "让技术变现，做可持续盈利的产品"
     },
@@ -163,21 +163,21 @@
     {
         "name": "Decohack",
         "type": "rss",
-        "category": "设计",
+        "category": "kaifa",
         "url": "https://www.decohack.com/feed",
         "description": "独立开发者灵感周刊"
     },
     {
         "name": "月光博客",
         "type": "rss",
-        "category": "博客",
+        "category": "keji",
         "url": "http://www.williamlong.info/rss.xml",
         "description": "关注互联网、科技与社会热点。"
     },
     {
         "name": "透明创业实验",
         "type": "rss",
-        "category": "商业",
+        "category": "shangye",
         "url": "https://blog.t9t.io/atom.xml",
         "description": "记录创业过程与数据的实验博客。"
     },
@@ -191,21 +191,21 @@
     {
         "name": "离别歌",
         "type": "rss",
-        "category": "安全",
+        "category": "anquan",
         "url": "https://www.leavesongs.com/feed/",
         "description": "phith0n的小站，长期存在与分享关于网络安全与各种编程的原创文章。"
     },
     {
         "name": "风雪之隅",
         "type": "rss",
-        "category": "开发",
+        "category": "kaifa",
         "url": "http://www.laruence.com/feed",
         "description": "左手代码右手诗"
     },
     {
         "name": "理想生活实验室",
         "type": "rss",
-        "category": "生活",
+        "category": "shenghuo",
         "url": "https://www.toodaylab.com/feed",
         "description": "为更理想的生活"
     },
@@ -219,28 +219,28 @@
     {
         "name": "Mac玩儿法",
         "type": "rss",
-        "category": "科技",
+        "category": "ruanjian",
         "url": "http://www.waerfa.com/feed",
         "description": "专注于 Mac 软件与技巧分享。"
     },
     {
         "name": "有赞技术团队",
         "type": "rss",
-        "category": "开发",
+        "category": "kaifa",
         "url": "https://tech.youzan.com/rss/",
         "description": "Thoughts, stories and ideas."
     },
     {
         "name": "张鑫旭-鑫空间-鑫生活",
         "type": "rss",
-        "category": "开发",
+        "category": "shenghuo",
         "url": "https://www.zhangxinxu.com/wordpress/feed/",
         "description": "it's my whole life!"
     },
     {
         "name": "HelloGitHub 月刊",
         "type": "rss",
-        "category": "开发",
+        "category": "kaifa",
         "url": "http://hellogithub.com/rss",
         "description": "HelloGitHub 是一个分享有趣、 入门级开源项目的平台。 希望大家能够在这里找到编程的快乐、 轻松搞定问题的技术方案、 大呼过瘾的开源神器， 顺其自然地开启开源之旅。"
     },
@@ -254,56 +254,56 @@
     {
         "name": "游戏研究社",
         "type": "rss",
-        "category": "游戏",
+        "category": "youxi",
         "url": "https://www.yystv.cn/rss/feed",
         "description": "无论你是游戏死忠，还是轻度的休闲玩家，在这里都能找到感兴趣的东西。"
     },
     {
         "name": "轶哥博客",
         "type": "rss",
-        "category": "博客",
+        "category": "kaifa",
         "url": "https://www.wyr.me/rss.xml",
         "description": "一个全栈程序员的技术博客。"
     },
     {
         "name": "潮流周刊",
         "type": "rss",
-        "category": "开发",
+        "category": "shenghuo",
         "url": "https://weekly.tw93.fun/rss.xml",
         "description": "记录工程师 Tw93 的不枯燥生活"
     },
     {
         "name": "GeekPlux",
         "type": "rss",
-        "category": "博客",
+        "category": "sheji",
         "url": "https://geekplux.com/feed.xml",
         "description": "Data Visualization & Full-stack programmer, always exploring"
     },
     {
         "name": "CSS-Tricks",
         "type": "rss",
-        "category": "开发",
+        "category": "kaifa",
         "url": "https://css-tricks.com/feed/",
         "description": "专注于 CSS 技术与前端开发。"
     },
     {
         "name": "技术小黑屋",
         "type": "rss",
-        "category": "开发",
+        "category": "kaifa",
         "url": "https://droidyue.com/atom.xml",
         "description": "Android 开发与技术分享。"
     },
     {
         "name": "MacTalk-池建强的随想录",
         "type": "rss",
-        "category": "科技",
+        "category": "shenghuo",
         "url": "http://macshuo.com/?feed=rss2",
         "description": "让创作成为一种生活方式"
     },
     {
         "name": "weekly 标签新帖",
         "type": "rss",
-        "category": "开发",
+        "category": "kaifa",
         "url": "https://discuss-cn.bestxtools.com/atom/t/weekly/discussions",
         "description": "开发者周刊聚合。"
     },
@@ -317,7 +317,7 @@
     {
         "name": "反斗限免",
         "type": "rss",
-        "category": "科技",
+        "category": "ruanjian",
         "url": "http://free.apprcn.com/feed/",
         "description": "反斗软件旗下软件限免资讯网站"
     },
@@ -338,7 +338,7 @@
     {
         "name": "Deepzz's Blog",
         "type": "rss",
-        "category": "开发",
+        "category": "shenghuo",
         "url": "https://deepzz.com/feed",
         "description": "唯爱与美食不可辜负😄"
     },
@@ -352,35 +352,35 @@
     {
         "name": "美团技术团队",
         "type": "rss",
-        "category": "开发",
+        "category": "kaifa",
         "url": "https://tech.meituan.com/feed/",
         "description": "美团技术团队最近更新内容。"
     },
     {
         "name": "BAI YUN",
         "type": "rss",
-        "category": "博客",
+        "category": "rengongzhineng",
         "url": "https://baiyun.me/feed",
         "description": "Share Tech, Life, and Anything!"
     },
     {
         "name": "唐巧的博客",
         "type": "rss",
-        "category": "开发",
+        "category": "boke",
         "url": "http://blog.devtang.com/atom.xml",
         "description": "记录下自己学习的点滴"
     },
     {
         "name": "Dan Abramov's Overreacted",
         "type": "rss",
-        "category": "开发",
+        "category": "kaifa",
         "url": "https://overreacted.io/rss.xml",
         "description": "React 核心开发者的技术博客。"
     },
     {
         "name": "Tony Bai",
         "type": "rss",
-        "category": "开发",
+        "category": "rengongzhineng",
         "url": "http://tonybai.com/feed/",
         "description": "一个程序员的心路历程"
     },
@@ -394,49 +394,49 @@
     {
         "name": "卢昌海的个人主页",
         "type": "rss",
-        "category": "科技",
+        "category": "keji",
         "url": "https://www.changhai.org/feed.xml",
         "description": "知名科普作家的科学随笔。"
     },
     {
         "name": "疯投圈",
         "type": "rss",
-        "category": "商业",
+        "category": "shangye",
         "url": "https://crazy.capital/feed",
         "description": "一起探索好玩的商业世界"
     },
     {
         "name": "Engadget 中国",
         "type": "rss",
-        "category": "科技",
+        "category": "shuma",
         "url": "https://cn.engadget.com/rss.xml",
         "description": "全球科技新闻与评测。"
     },
     {
         "name": "钛媒体",
         "type": "rss",
-        "category": "科技",
+        "category": "kaifa",
         "url": "https://www.tmtpost.com/feed",
         "description": "钛媒体致力于成为全球财经科技信息服务平台，形成了“新媒体、全球技术专家网络、科技IP与创意产品服务、科技股数据服务”四大业务板块和“钛媒体国际”业务布局，现已成为国际领先、国内极具影响力的财经信息服务商和新媒体标杆之一。"
     },
     {
         "name": "今日话题 - 雪球",
         "type": "rss",
-        "category": "金融",
+        "category": "jinrong",
         "url": "https://xueqiu.com/hots/topic/rss",
         "description": "雪球是一个社交投资网络，「今日话题」是雪球用户每日发布的投资交流精选。"
     },
     {
         "name": "小明明s à domicile",
         "type": "rss",
-        "category": "开发",
+        "category": "kaifa",
         "url": "https://www.dongwm.com/atom.xml",
         "description": "Python 开发者董伟明的博客。"
     },
     {
         "name": "小胡子哥的个人网站",
         "type": "rss",
-        "category": "开发",
+        "category": "boke",
         "url": "http://www.barretlee.com/rss2.xml",
         "description": "一个有趣的灵魂 —— 想法，随笔，思考，感叹，瞬间，笔记..."
     },
@@ -450,14 +450,14 @@
     {
         "name": "触乐",
         "type": "rss",
-        "category": "游戏",
+        "category": "youxi",
         "url": "http://www.chuapp.com/feed",
         "description": "高品质、有价值、有趣的移动游戏资讯"
     },
     {
         "name": "王登科-DK博客",
         "type": "rss",
-        "category": "博客",
+        "category": "boke",
         "url": "https://greatdk.com/feed",
         "description": "记录产品思考与生活。"
     },
@@ -471,35 +471,35 @@
     {
         "name": "豆瓣最受欢迎的书评",
         "type": "rss",
-        "category": "阅读",
+        "category": "yuedu",
         "url": "https://www.douban.com/feed/review/book",
         "description": "豆瓣成员投票选出的最佳书评"
     },
     {
         "name": "Anthony Fu",
         "type": "rss",
-        "category": "开发",
+        "category": "kaifa",
         "url": "https://antfu.me/feed.xml",
         "description": "Vue 核心团队成员的技术博客。"
     },
     {
         "name": "优设-UISDC",
         "type": "rss",
-        "category": "设计",
+        "category": "sheji",
         "url": "http://www.uisdc.com/feed",
         "description": "设计师学习与交流平台。"
     },
     {
         "name": "笨方法学写作",
         "type": "rss",
-        "category": "博客",
+        "category": "yuedu",
         "url": "https://www.cnfeat.com/feed.xml",
         "description": "feedId:55130722692595719+userId:59030678518927360"
     },
     {
         "name": "涛叔",
         "type": "rss",
-        "category": "博客",
+        "category": "boke",
         "url": "https://taoshu.in/feed.xml",
         "description": "记录技术与生活的个人博客。"
     },
@@ -527,7 +527,7 @@
     {
         "name": "全栈应用开发:精益实践",
         "type": "rss",
-        "category": "开发",
+        "category": "kaifa",
         "url": "https://www.phodal.com/blog/feeds/rss/",
         "description": "Blog"
     }
