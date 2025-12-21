@@ -385,13 +385,6 @@
         "description": "一个程序员的心路历程"
     },
     {
-        "name": "奔跑中的奶酪",
-        "type": "rss",
-        "category": "科技",
-        "url": "https://www.runningcheese.com/feed",
-        "description": "有智，有趣，有爱"
-    },
-    {
         "name": "卢昌海的个人主页",
         "type": "rss",
         "category": "科技",
