@@ -81,6 +81,15 @@
     "hash": "5cbc25826e31c77e2dfbe70f7f2bb00c"
   },
   {
+    "name": "卢昌海的个人主页",
+    "type": "rss",
+    "category": "科技",
+    "url": "https://www.changhai.org/feed.xml",
+    "description": "知名科普作家的科学随笔。",
+    "version": "1.0",
+    "hash": "3b61083439090015325a4449df8c464a"
+  },
+  {
     "name": "Engadget 中国",
     "type": "rss",
     "category": "科技",
@@ -103,6 +112,7 @@
     "type": "rss",
     "url": "https://wechat2rss.xlab.app/feed/21b46d78e363b85d6927970267ecea4904f06bc8.xml",
     "category": "科技",
+    "description": "绿盟科技研究通讯-绿盟研究成果发布地，创新、孵化、布道，只玩最酷的安全技术 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
     "version": "1.0",
     "hash": "4f4a6716515ddf800bfa88d17c1761aa"
   },
@@ -111,6 +121,7 @@
     "type": "rss",
     "url": "https://wechat2rss.xlab.app/feed/19e49fc43c29d227aed74edba9830e7e1c71161e.xml",
     "category": "科技",
+    "description": "“守护安全工具成长” 秉持探索与共享的理念，收录更多优质工具。规范安全工具标准，与之共生共赢。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
     "version": "1.0",
     "hash": "3a64bc744bcea3608641589fd619ac46"
   },
@@ -119,6 +130,7 @@
     "type": "rss",
     "url": "https://wechat2rss.xlab.app/feed/0628f5f1764e0d79813846e7706daef229f464a7.xml",
     "category": "科技",
+    "description": "(wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
     "version": "1.0",
     "hash": "d81b9d25781b482742e07aa6c4af1918"
   },
@@ -127,6 +139,7 @@
     "type": "rss",
     "url": "https://wechat2rss.xlab.app/feed/9e9c3c70e598266a1ac993e50458a10a6d853eb7.xml",
     "category": "科技",
+    "description": "慢雾科技是一家专注区块链生态安全的公司，成立于 2018 年 1 月，主要通过“威胁发现到威胁防御一体化因地制宜的安全解决方案”服务了全球许多头部或知名的项目，已有商业客户上千家，客户分布在十几个主要国家与地区。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
     "version": "1.0",
     "hash": "d2825229093864146e75edd3dbc3debe"
   },
@@ -135,6 +148,7 @@
     "type": "rss",
     "url": "https://wechat2rss.xlab.app/feed/742b34be22c0c323804fa9b541aa717571cd8147.xml",
     "category": "科技",
+    "description": "这里分享关于WAF、主机安全等安全产品的知识，欢迎与我交流 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
     "version": "1.0",
     "hash": "ea543acfb62e1047fcc09f4ddadd6706"
   },
@@ -143,6 +157,7 @@
     "type": "rss",
     "url": "https://wechat2rss.xlab.app/feed/8704aa7fd3c472f8c3bbe3c2b553ce9810326202.xml",
     "category": "科技",
+    "description": "GeekPwn，全球首个关注智能生活的安全极客大赛！我们在寻找可能默默无闻但出类拔萃---注定可以改变世界、可以和我们一起保护未来的正能量---顶级 Geek 的思路、敢于 Pwn 破禁锢的你，这里是你的舞台，一起来，做到“极棒”！ (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
     "version": "1.0",
     "hash": "8aef307b82d3a081b6564a1b1930580a"
   },
@@ -151,6 +166,7 @@
     "type": "rss",
     "url": "https://wechat2rss.xlab.app/feed/1a5aec98e71c707c8ca092bc2c255b9d4bac477d.xml",
     "category": "科技",
+    "description": "用极客视角，追踪你最不可错过的科技圈。欢迎同步关注极客公园视频号👇 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
     "version": "1.0",
     "hash": "32a2e732715afb346eae5e6cca262f89"
   },
@@ -159,6 +175,7 @@
     "type": "rss",
     "url": "https://wechat2rss.xlab.app/feed/9b29dedffda96370d7cabfb50c7051efbeaa2554.xml",
     "category": "科技",
+    "description": "北京星阑科技有限公司 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
     "version": "1.0",
     "hash": "6e70bb617b15461bdf5c2c32a4b8c8f2"
   },
@@ -167,6 +184,7 @@
     "type": "rss",
     "url": "https://wechat2rss.xlab.app/feed/2b3d1f9d72a621232894fa96b6ddf218aade7a1f.xml",
     "category": "科技",
+    "description": "长亭科技，专注为企业级用户提供专业的应用安全解决方案。更多信息请访问：https://www.chaitin.cn (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
     "version": "1.0",
     "hash": "e0006282d08267fceb503309291efa2f"
   },
@@ -175,6 +193,7 @@
     "type": "rss",
     "url": "https://wechat2rss.xlab.app/feed/0a0fb079fdb28ad7c49e5a6cbd9cf909c9873d86.xml",
     "category": "科技",
+    "description": "默安科技是一家人工智能时代的创新型网络安全公司，提供的方案、产品与服务贯穿左移开发安全、软件供应链安全、智慧运营安全、云与云原生安全等领域，帮助客户构建基于多种IT环境的下一代安全防护体系，实现安全风险的全生命周期管控。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
     "version": "1.0",
     "hash": "e5a31d678c3dbd57aad22fd7a01606cb"
   },
@@ -183,6 +202,7 @@
     "type": "rss",
     "url": "https://wechat2rss.xlab.app/feed/e666c56abbe20a645da315f389ca6247eed264e2.xml",
     "category": "科技",
+    "description": "More Signal. Less Noise. (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
     "version": "1.0",
     "hash": "cc5980cada22250576d4579e93457c3b"
   },
@@ -191,6 +211,7 @@
     "type": "rss",
     "url": "https://wechat2rss.xlab.app/feed/f7f4ab7bdc8c827727561bd14ed6c26ad0624a6f.xml",
     "category": "科技",
+    "description": "长沙零鉴科技有限公司 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
     "version": "1.0",
     "hash": "090cd6165c3fa317f0261c93582e46f7"
   },
@@ -199,6 +220,7 @@
     "type": "rss",
     "url": "https://wechat2rss.xlab.app/feed/5f1bca42a3e1bc932b1e2609abad8c36d9ad37e1.xml",
     "category": "科技",
+    "description": "围绕系统安全、应用安全和设备安全，专注漏洞挖掘研究，部分涉猎红队技术。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
     "version": "1.0",
     "hash": "393fb96b26b436873ba75c60911da0b4"
   },
@@ -207,6 +229,7 @@
     "type": "rss",
     "url": "https://wechat2rss.xlab.app/feed/bf791d6a822e8f48b4f6aa056e42758479362281.xml",
     "category": "科技",
+    "description": "无用之地，记录安全系统架构和开发的点点滴滴，偶尔也写写我们的生活。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
     "version": "1.0",
     "hash": "545996f69d228d82aa873ef639e4b7af"
   },
@@ -215,6 +238,7 @@
     "type": "rss",
     "url": "https://wechat2rss.xlab.app/feed/0d4ffa4a2127cb603c2da49daa678b0e780fd66b.xml",
     "category": "科技",
+    "description": "DARKNAVY·深蓝，总部新加坡·上海，独立的网络安全研究服务机构，AVSS对抗研判和量化安全的首倡者与推动者。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
     "version": "1.0",
     "hash": "065891c7a947bbad899929d056959386"
   },
@@ -223,6 +247,7 @@
     "type": "rss",
     "url": "https://wechat2rss.xlab.app/feed/51e92aad2728acdd1fda7314be32b16639353001.xml",
     "category": "科技",
+    "description": "专业的人工智能媒体和产业服务平台 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
     "version": "1.0",
     "hash": "3e647daba564ed0e398e5d9e88558985"
   },
@@ -231,6 +256,7 @@
     "type": "rss",
     "url": "https://wechat2rss.xlab.app/feed/574587b13c6f60617fc74605702258ddf4aefac6.xml",
     "category": "科技",
+    "description": "我个人发表文章以及吐槽的地方，涉及面也许很广，不喜请勿喷～ (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
     "version": "1.0",
     "hash": "499ce129d0b44b9a48ed91dd79d4e53d"
   },
@@ -239,6 +265,7 @@
     "type": "rss",
     "url": "https://wechat2rss.xlab.app/feed/6111a6d5ecf28cfdd4fc9b664244c05ddacef15c.xml",
     "category": "科技",
+    "description": "在未来面前，我们都是孩子。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
     "version": "1.0",
     "hash": "23ed163781128f337715724ea4f8f47b"
   },
@@ -247,6 +274,7 @@
     "type": "rss",
     "url": "https://wechat2rss.xlab.app/feed/3261d5a75cfef238650a2cabd4bbf99669c2f334.xml",
     "category": "科技",
+    "description": "推荐有灵魂的电脑软件、手机应用。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
     "version": "1.0",
     "hash": "c7b96dd81cb7cc4f23a1e601fa68ce48"
   },
@@ -255,6 +283,7 @@
     "type": "rss",
     "url": "https://wechat2rss.xlab.app/feed/2fa034e4b97f23d870d5b8e749e805d508761a41.xml",
     "category": "科技",
+    "description": "无线路由器评测、拆机、分享 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
     "version": "1.0",
     "hash": "2006807081f7fc9e48c32e1536a1e0da"
   },
@@ -263,6 +292,7 @@
     "type": "rss",
     "url": "https://wechat2rss.xlab.app/feed/c5f385197ef56f9345db0daf1e46419af8c7d664.xml",
     "category": "科技",
+    "description": "致力于为初学者提供学习路线和基础资料，含慕课和代码、教案等，建议收藏！ (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
     "version": "1.0",
     "hash": "7a309b9646cbc4868d7c05a9932374e7"
   },
@@ -271,6 +301,7 @@
     "type": "rss",
     "url": "https://wechat2rss.xlab.app/feed/b81ffcfff1107b5265cd7e39de610dc7ca72caf4.xml",
     "category": "科技",
+    "description": "探寻CV新知，发现AI价值 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
     "version": "1.0",
     "hash": "b83c979ad142af4d0e25a59afd19ee77"
   },
@@ -279,6 +310,7 @@
     "type": "rss",
     "url": "https://wechat2rss.xlab.app/feed/a1cd365aa14ed7d64cabfc8aa086da40ecaba34d.xml",
     "category": "科技",
+    "description": "低负担解码AI世界，硬核也可爱！聚集超50万AI发烧友、开发者和算法研究员，广泛覆盖互联网大厂中高管、AI公司创始人和机构投资人。强调科班出身和专业级事件拆解，创始团队与作者来自国内外AI实验室和大厂AI核心部门。商务合作：zym5189 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
     "version": "1.0",
     "hash": "7e453bd1006bc551ce0312401e71dc12"
   },
@@ -287,6 +319,7 @@
     "type": "rss",
     "url": "https://wechat2rss.xlab.app/feed/4d620d988cb21cfeefd2263207221f0dc70df9ff.xml",
     "category": "科技",
+    "description": "一个专注于AI领域的开源组织，汇聚了众多优秀学习者，使命-for the learner，和学习者一起成长。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
     "version": "1.0",
     "hash": "5050eae7e819b3d8f9298fb71b824259"
   }

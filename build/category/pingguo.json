@@ -31,6 +31,7 @@
     "type": "rss",
     "url": "https://wechat2rss.xlab.app/feed/9767c848d0a4d5858d8bb565bc762dde94eeeee1.xml",
     "category": "苹果",
+    "description": "不懂就问 不会就学 不熟就练 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
     "version": "1.0",
     "hash": "a7183b253d318f31c99a12159038d98c"
   },
@@ -39,6 +40,7 @@
     "type": "rss",
     "url": "https://wechat2rss.xlab.app/feed/ccbd9e00f08cbd4c34f7f08060cfb5d4179843a5.xml",
     "category": "苹果",
+    "description": "安全技术分享，擅长WEB安全，喜欢对XSS漏洞、逻辑漏洞、业务相关漏洞进行分析和研究。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
     "version": "1.0",
     "hash": "7f7019cc6786c3bbb530ed01880fdc74"
   }
