@@ -16,7 +16,7 @@ const channel = {
     description: "猫头猫的个人博客",
     siteUrl: "https://blog.catcat.work/",
     version: "1.0.0",
-    category: "博客",
+    category: "boke",
     allowDuplicate: false,
     async getFeeds(page, args) {
         load();

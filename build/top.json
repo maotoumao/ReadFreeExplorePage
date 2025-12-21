@@ -5,21 +5,21 @@
     "description": "猫头猫的个人博客",
     "siteUrl": "https://blog.catcat.work/",
     "version": "1.0.0",
-    "category": "其他",
+    "category": "独立博客",
     "allowDuplicate": false,
     "type": "js",
     "url": "js/catcat-blog.js",
-    "hash": "9f544f8758c8d5327a27e93aafa11382"
+    "hash": "55661bc20f080885611f4900479cda56"
   },
   {
     "identifier": "tools.v1v.kinship",
     "name": "猫头猫小工具",
     "description": "猫头猫做的小工具合集",
     "version": "1.0.0",
+    "category": "软件",
     "allowDuplicate": false,
     "type": "js",
     "url": "js/catcat-work.js",
-    "hash": "944c0f0035f725bd0b5b6a502d69684a",
-    "category": "其他"
+    "hash": "78cc778bf42a55e5bf84cb43d1a3430a"
   }
 ]

@@ -1,0 +1,115 @@
+[
+  {
+    "indentifier": "avenuebeads",
+    "name": "片多多",
+    "description": "片多多影视插件",
+    "siteUrl": "https://www.avenuebeads.com",
+    "version": "1.0.0",
+    "category": "娱乐",
+    "supportedFeatures": [
+      "GetCategories",
+      "GetFeeds",
+      "GetFeedDetail",
+      "GetVideoResource"
+    ],
+    "type": "js",
+    "url": "js/avenuebeads.js",
+    "hash": "5e6247b6f17742d8311f0fa96b6c7462"
+  },
+  {
+    "name": "哔哩哔哩排行榜",
+    "description": "Bilibili 热门视频排行榜。",
+    "author": "Bilibili",
+    "logo": "https://www.bilibili.com/favicon.ico",
+    "siteUrl": "https://www.bilibili.com/",
+    "version": "1.0.0",
+    "category": "娱乐",
+    "type": "js",
+    "url": "js/bilibili-ranking.js",
+    "hash": "d8f8c3885256b95b49541c6de0c1843c"
+  },
+  {
+    "name": "DLsite 最新作品",
+    "description": "DLsite 各类最新作品。",
+    "author": "DLsite",
+    "logo": "https://www.dlsite.com/favicon.ico",
+    "siteUrl": "https://www.dlsite.com/",
+    "version": "1.0.0",
+    "category": "娱乐",
+    "type": "js",
+    "url": "js/dlsite-new.js",
+    "hash": "65802f8acf758502b34e4aed3556ff68"
+  },
+  {
+    "name": "动漫之家新闻",
+    "description": "动漫之家新闻资讯。",
+    "author": "DMZJ",
+    "logo": "https://news.dmzj.com/favicon.ico",
+    "siteUrl": "https://news.dmzj.com/",
+    "version": "1.0.0",
+    "category": "娱乐",
+    "type": "js",
+    "url": "js/dmzj-news.js",
+    "hash": "49686ed594c7a142165c911a6612402a"
+  },
+  {
+    "name": "豆瓣电影即将上映",
+    "description": "豆瓣电影即将上映列表。",
+    "author": "Douban",
+    "logo": "https://img3.doubanio.com/favicon.ico",
+    "siteUrl": "https://movie.douban.com/coming",
+    "version": "1.0.0",
+    "category": "娱乐",
+    "type": "js",
+    "url": "js/douban-movie-coming.js",
+    "hash": "7ec8059b989c6f201fc6144f6738582d"
+  },
+  {
+    "name": "豆瓣电影北美票房榜",
+    "description": "豆瓣电影北美票房榜。",
+    "author": "Douban",
+    "logo": "https://img3.doubanio.com/favicon.ico",
+    "siteUrl": "https://movie.douban.com/chart",
+    "version": "1.0.0",
+    "category": "娱乐",
+    "type": "js",
+    "url": "js/douban-ustop.js",
+    "hash": "bc40a237ac3109b251b9cb6abd9ede0e"
+  },
+  {
+    "name": "Fur Affinity Browse",
+    "description": "Fur Affinity 浏览作品。",
+    "author": "Fur Affinity",
+    "logo": "https://www.furaffinity.net/themes/beta/img/banners/fa_logo.png",
+    "siteUrl": "https://www.furaffinity.net/browse/",
+    "version": "1.0.0",
+    "category": "娱乐",
+    "type": "js",
+    "url": "js/furaffinity-browse.js",
+    "hash": "45d48b345011e8fee42bd7ef9ecf5a14"
+  },
+  {
+    "name": "Fur Affinity Home",
+    "description": "Fur Affinity 首页作品。",
+    "author": "Fur Affinity",
+    "logo": "https://www.furaffinity.net/themes/beta/img/banners/fa_logo.png",
+    "siteUrl": "https://www.furaffinity.net/",
+    "version": "1.0.0",
+    "category": "娱乐",
+    "type": "js",
+    "url": "js/furaffinity-home.js",
+    "hash": "89be99ecb042509f8e6e1313aabc8c4e"
+  },
+  {
+    "name": "Konachan",
+    "description": "Konachan 近期热门图片",
+    "author": "Konachan",
+    "logo": "https://konachan.net/favicon.ico",
+    "siteUrl": "https://konachan.net",
+    "version": "1.0.0",
+    "category": "娱乐",
+    "type": "js",
+    "url": "js/konachan.js",
+    "hash": "9972d15b288f1c4c97c746387da72842"
+  }
+]

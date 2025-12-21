@@ -52,5 +52,29 @@
     "description": "雪球2020年度十大影响力用户，私募基金经理 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
     "version": "1.0",
     "hash": "23561f28fbc470c86d1f4333b0eebc35"
+  },
+  {
+    "name": "Finviz News",
+    "description": "Finviz 财经新闻。",
+    "author": "Finviz",
+    "logo": "https://finviz.com/favicon.ico",
+    "siteUrl": "https://finviz.com/news.ashx",
+    "version": "1.0.0",
+    "category": "金融与投资",
+    "type": "js",
+    "url": "js/finviz-news.js",
+    "hash": "ee9a5c9ae2c4fba5334d6bbc5355ae29"
+  },
+  {
+    "name": "Odaily Newsflash",
+    "description": "Odaily星球日报快讯",
+    "author": "Odaily",
+    "logo": "https://www.odaily.news/favicon.ico",
+    "siteUrl": "https://www.odaily.news",
+    "version": "1.0.0",
+    "category": "金融与投资",
+    "type": "js",
+    "url": "js/odaily-newsflash.js",
+    "hash": "278db4a4fb059adc8a6009fefa385810"
   }
 ]

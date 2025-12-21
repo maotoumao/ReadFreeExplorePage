@@ -5,6 +5,7 @@ const channel = {
     name: "猫头猫小工具",
     description: "猫头猫做的小工具合集",
     version: "1.0.0",
+    category: "ruanjian",
     allowDuplicate: false,
     getCategories(){
         return [{

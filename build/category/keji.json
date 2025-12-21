@@ -79,5 +79,65 @@
     "description": "用极客视角，追踪你最不可错过的科技圈。欢迎同步关注极客公园视频号👇 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
     "version": "1.0",
     "hash": "32a2e732715afb346eae5e6cca262f89"
+  },
+  {
+    "name": "36氪资讯",
+    "description": "36氪提供科技、创投等领域的新闻资讯。",
+    "author": "36Kr",
+    "logo": "https://www.36kr.com/favicon.ico",
+    "siteUrl": "https://www.36kr.com/",
+    "version": "1.0.0",
+    "category": "科技",
+    "type": "js",
+    "url": "js/36kr.js",
+    "hash": "ea053eb8158b74666617438c4a447e3d"
+  },
+  {
+    "name": "差评快讯",
+    "description": "差评快讯 - 科技资讯。",
+    "author": "Chaping",
+    "logo": "https://chaping.cn/favicon.ico",
+    "siteUrl": "https://chaping.cn/newsflash",
+    "version": "1.0.0",
+    "category": "科技",
+    "type": "js",
+    "url": "js/chaping-newsflash.js",
+    "hash": "0440d2f3e42c7363be7a95161b19436c"
+  },
+  {
+    "name": "极客公园",
+    "description": "极客公园 GeekPark 科技资讯。",
+    "author": "GeekPark",
+    "logo": "https://geekpark.net/favicon.ico",
+    "siteUrl": "https://geekpark.net/",
+    "version": "1.0.0",
+    "category": "科技",
+    "type": "js",
+    "url": "js/geekpark.js",
+    "hash": "78c82d8fca560f68b2c75f955b650af7"
+  },
+  {
+    "name": "果壳网科学人",
+    "description": "果壳网科学人文章。",
+    "author": "Guokr",
+    "logo": "https://www.guokr.com/favicon.ico",
+    "siteUrl": "https://www.guokr.com/scientific",
+    "version": "1.0.0",
+    "category": "科技",
+    "type": "js",
+    "url": "js/guokr.js",
+    "hash": "a9174e97d12a432f2b8b35eb583b1b9b"
+  },
+  {
+    "name": "Hacker News",
+    "description": "Hacker News 科技新闻。",
+    "author": "YCombinator",
+    "logo": "https://news.ycombinator.com/favicon.ico",
+    "siteUrl": "https://news.ycombinator.com/",
+    "version": "1.0.0",
+    "category": "科技",
+    "type": "js",
+    "url": "js/hackernews.js",
+    "hash": "9884eb47dd5379712706088b9a96c978"
   }
 ]

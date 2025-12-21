@@ -151,5 +151,17 @@
     "description": "我偶然发现了隐藏在这个世界背后的真相，可惜这里的空白太小了，我没有办法写下来。想知道吗？请每天来看看吧。关注互联网、黑客、创业、技术、历史、文化，可能还有美女哦。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
     "version": "1.0",
     "hash": "54ea38639dd4aa1942c0b73ef42c1129"
+  },
+  {
+    "identifier": "blog.catcat.work",
+    "name": "猫头猫的博客",
+    "description": "猫头猫的个人博客",
+    "siteUrl": "https://blog.catcat.work/",
+    "version": "1.0.0",
+    "category": "独立博客",
+    "allowDuplicate": false,
+    "type": "js",
+    "url": "js/catcat-blog.js",
+    "hash": "55661bc20f080885611f4900479cda56"
   }
 ]

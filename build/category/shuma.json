@@ -88,5 +88,53 @@
     "description": "Debug The World，关注科技、数码、汽车、产经、游戏，传播能改变世界的科技互联网信息。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
     "version": "1.0",
     "hash": "bfadf8a40aa2bb29e6806db7a71abf52"
+  },
+  {
+    "name": "酷安热榜",
+    "description": "酷安图文热榜。",
+    "author": "Coolapk",
+    "logo": "https://www.coolapk.com/favicon.ico",
+    "siteUrl": "https://www.coolapk.com/",
+    "version": "1.0.0",
+    "category": "数码",
+    "type": "js",
+    "url": "js/coolapk.js",
+    "hash": "d023520cea157d5965efab1c78069487"
+  },
+  {
+    "name": "数字尾巴鲸闻",
+    "description": "数字尾巴 DGTLE 鲸闻资讯。",
+    "author": "DGTLE",
+    "logo": "https://www.dgtle.com/favicon.ico",
+    "siteUrl": "https://www.dgtle.com/news",
+    "version": "1.0.0",
+    "category": "数码",
+    "type": "js",
+    "url": "js/dgtle.js",
+    "hash": "5945935034bc8497f59a6525c4a4a18d"
+  },
+  {
+    "name": "爱范儿",
+    "description": "爱范儿科技资讯。",
+    "author": "ifanr",
+    "logo": "https://www.ifanr.com/favicon.ico",
+    "siteUrl": "https://www.ifanr.com/",
+    "version": "1.0.0",
+    "category": "数码",
+    "type": "js",
+    "url": "js/ifanr.js",
+    "hash": "5352bde2561d1a81effc2af6cd21222c"
+  },
+  {
+    "name": "IT Home",
+    "description": "IT之家分类资讯",
+    "author": "ITHome",
+    "logo": "https://img.ithome.com/m/images/logo.png",
+    "siteUrl": "https://www.ithome.com",
+    "version": "1.0.0",
+    "category": "数码",
+    "type": "js",
+    "url": "js/ithome.js",
+    "hash": "d3495e33bd7ed60e1a5a1eec0e26d890"
   }
 ]

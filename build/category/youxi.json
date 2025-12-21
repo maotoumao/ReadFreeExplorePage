@@ -1,0 +1,26 @@
+[
+  {
+    "name": "NGA Forum",
+    "description": "NGA 论坛帖子",
+    "author": "NGA",
+    "logo": "https://nga.178.com/favicon.ico",
+    "siteUrl": "https://nga.178.com",
+    "version": "1.0.0",
+    "category": "游戏",
+    "type": "js",
+    "url": "js/nga-forum.js",
+    "hash": "a4e9c99fb5248205aa55edc716e16f7b"
+  },
+  {
+    "name": "PSNine",
+    "description": "PSNine 最新游戏",
+    "author": "PSNine",
+    "logo": "https://www.psnine.com/favicon.ico",
+    "siteUrl": "https://www.psnine.com",
+    "version": "1.0.0",
+    "category": "游戏",
+    "type": "js",
+    "url": "js/psnine-game.js",
+    "hash": "c8653d8b22724b155a93444e5855636c"
+  }
+]

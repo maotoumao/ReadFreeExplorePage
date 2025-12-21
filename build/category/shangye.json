@@ -95,5 +95,17 @@
     "description": "猎豹移动董事长兼CEO，关注创新创业、人工智能，还有机器人。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
     "version": "1.0",
     "hash": "12e531ea25e2bd4706d3aa4a249e3852"
+  },
+  {
+    "name": "虎嗅资讯",
+    "description": "虎嗅网商业资讯。",
+    "author": "Huxiu",
+    "logo": "https://www.huxiu.com/favicon.ico",
+    "siteUrl": "https://www.huxiu.com/",
+    "version": "1.0.0",
+    "category": "商业",
+    "type": "js",
+    "url": "js/huxiu.js",
+    "hash": "66943b171ce5ba13014b6822f92b477a"
   }
 ]

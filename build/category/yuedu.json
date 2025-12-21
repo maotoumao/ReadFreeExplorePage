@@ -115,5 +115,41 @@
     "description": "最近就在这里写作了。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
     "version": "1.0",
     "hash": "a45505e7c5df619e1d3e58fa197d1fa9"
+  },
+  {
+    "name": "豆瓣热门图书",
+    "description": "豆瓣热门图书排行榜。",
+    "author": "Douban",
+    "logo": "https://img3.doubanio.com/favicon.ico",
+    "siteUrl": "https://m.douban.com/book/",
+    "version": "1.0.0",
+    "category": "阅读",
+    "type": "js",
+    "url": "js/douban-book-rank.js",
+    "hash": "2013ebfd078abc540b78c33836300a57"
+  },
+  {
+    "name": "Qidian Free",
+    "description": "起点限时免费",
+    "author": "Qidian",
+    "logo": "https://www.qidian.com/favicon.ico",
+    "siteUrl": "https://www.qidian.com",
+    "version": "1.0.0",
+    "category": "阅读",
+    "type": "js",
+    "url": "js/qidian-free.js",
+    "hash": "639a2f85e33b38d6dfab09f4f9a512e0"
+  },
+  {
+    "name": "知乎日报",
+    "description": "知乎日报，每天3次，每次7分钟。",
+    "author": "Zhihu",
+    "logo": "http://static.daily.zhihu.com/img/new_home_v3/mobile_top_logo.png",
+    "siteUrl": "https://daily.zhihu.com/",
+    "version": "1.0.0",
+    "category": "阅读",
+    "type": "js",
+    "url": "js/zhihu-daily.js",
+    "hash": "7c2ab72b68915c54ef1308f62071567d"
   }
 ]

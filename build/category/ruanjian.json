@@ -358,5 +358,39 @@
     "description": "关注复杂科学与人工智能的前沿进展、书籍资料、工具文献、交叉前沿等，同时也发布集智俱乐部、集智学园举办的各类讲座、课程等活动相关信息。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
     "version": "1.0",
     "hash": "6e116a2f8b520d020829a7f96c691de4"
+  },
+  {
+    "name": "AppStore 限免应用",
+    "description": "AppSo 每日精品限免/促销应用。",
+    "author": "AppSo",
+    "logo": "https://app.so/favicon.ico",
+    "siteUrl": "http://app.so/xianmian/",
+    "version": "1.0.0",
+    "category": "软件",
+    "type": "js",
+    "url": "js/appstore-xianmian.js",
+    "hash": "a8b809122bd263f329e08f4de848d446"
+  },
+  {
+    "identifier": "tools.v1v.kinship",
+    "name": "猫头猫小工具",
+    "description": "猫头猫做的小工具合集",
+    "version": "1.0.0",
+    "category": "软件",
+    "allowDuplicate": false,
+    "type": "js",
+    "url": "js/catcat-work.js",
+    "hash": "78cc778bf42a55e5bf84cb43d1a3430a"
+  },
+  {
+    "identifier": "musicfree.update",
+    "name": "MusicFree 更新",
+    "description": "MusicFree 软件更新日志",
+    "version": "0.0.1",
+    "category": "软件",
+    "author": "Copilot",
+    "type": "js",
+    "url": "js/musicfree-update.js",
+    "hash": "6c69720edb625286f1b4e8fbfbeb3d16"
   }
 ]

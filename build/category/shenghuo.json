@@ -88,5 +88,65 @@
     "description": "上海市医疗器械化妆品审评核查中心官方公众号，提供新闻报道、政策法规、答疑解惑、企业服务等功能。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
     "version": "1.0",
     "hash": "49a1cd0edbc3d81cb32a51cb5616fe0d"
+  },
+  {
+    "name": "百度热搜榜单",
+    "description": "百度实时热搜榜单。",
+    "author": "Baidu",
+    "logo": "https://www.baidu.com/favicon.ico",
+    "siteUrl": "https://top.baidu.com/",
+    "version": "1.0.0",
+    "category": "生活",
+    "type": "js",
+    "url": "js/baidu-top.js",
+    "hash": "84f038d7a9dd5919d4644bba9f7d8c5a"
+  },
+  {
+    "name": "Bing 每日壁纸",
+    "description": "Bing 每日壁纸更新。",
+    "author": "Microsoft",
+    "logo": "https://cn.bing.com/favicon.ico",
+    "siteUrl": "https://cn.bing.com/",
+    "version": "1.0.0",
+    "category": "生活",
+    "type": "js",
+    "url": "js/bing-wallpaper.js",
+    "hash": "08eb4a4d9bf14582ec6c985426d2c610"
+  },
+  {
+    "name": "中国地震台网",
+    "description": "中国地震台网地震信息。",
+    "author": "CEIC",
+    "logo": "http://www.ceic.ac.cn/favicon.ico",
+    "siteUrl": "http://www.ceic.ac.cn/",
+    "version": "1.0.0",
+    "category": "生活",
+    "type": "js",
+    "url": "js/earthquake-ceic.js",
+    "hash": "021f0e12be114a10892a78e1d7d82e58"
+  },
+  {
+    "name": "Hupu BBS",
+    "description": "虎扑社区",
+    "author": "Hupu",
+    "logo": "https://w1.hoopchina.com.cn/images/pc/old/favicon.ico",
+    "siteUrl": "https://bbs.hupu.com",
+    "version": "1.0.0",
+    "category": "生活",
+    "type": "js",
+    "url": "js/hupu.js",
+    "hash": "0d0de7006191ea2e055d598706e495fc"
+  },
+  {
+    "name": "新浪滚动新闻",
+    "description": "新浪新闻滚动频道，提供最新的即时新闻资讯。",
+    "author": "Sina",
+    "logo": "https://news.sina.com.cn/favicon.ico",
+    "siteUrl": "https://news.sina.com.cn/",
+    "version": "1.0.0",
+    "category": "生活",
+    "type": "js",
+    "url": "js/sina-rollnews.js",
+    "hash": "281f4f2140fdb613e63eeee1403b38d9"
   }
 ]
