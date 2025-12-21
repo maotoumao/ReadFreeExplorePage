@@ -9,15 +9,6 @@
     "hash": "db3b36461e0c0cbd78596a5bfb70a4a9"
   },
   {
-    "name": "矛和盾的故事",
-    "type": "rss",
-    "url": "https://wechat2rss.xlab.app/feed/308da52e82d7f7bc2a9f6a5f63633c5567b7af08.xml",
-    "category": "逆向工程",
-    "description": "“知其白守其黑，用手中的矛铸心中的盾\", 逆向、安全、加固、风控、分享。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
-    "version": "1.0",
-    "hash": "e879df6ddc9f893a9b96fb8c6734a29b"
-  },
-  {
     "name": "软件安全与逆向分析",
     "type": "rss",
     "url": "https://wechat2rss.xlab.app/feed/021e3a28dfa435253d1b5610e6678205ea0919b6.xml",
@@ -25,33 +16,6 @@
     "description": "分享最前沿的软件安全与逆向分析技术与资讯。包括Windows、macOS、iOS、Android、Linux等平台。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
     "version": "1.0",
     "hash": "b90c6988f5519b1a3a1c9a635cb99123"
-  },
-  {
-    "name": "debugeeker",
-    "type": "rss",
-    "url": "https://wechat2rss.xlab.app/feed/7772ec79ac327394596861ae412fc25a823e09d0.xml",
-    "category": "逆向工程",
-    "description": "像奶牛一样分享奶牛，不对，是安全技术。生如草芥，璨若星河 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
-    "version": "1.0",
-    "hash": "89337c64273654a1bd73074359139527"
-  },
-  {
-    "name": "汉客儿安全笔记",
-    "type": "rss",
-    "url": "https://wechat2rss.xlab.app/feed/71f7fe130360b40edf3b22e222ca2a147912893d.xml",
-    "category": "逆向工程",
-    "description": "操作系统、漏洞、逆向破解技术分享，欢迎关注交流 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
-    "version": "1.0",
-    "hash": "c7bee61ceff1df2c44cb1561ef063b4c"
-  },
-  {
-    "name": "物联网IoT安全",
-    "type": "rss",
-    "url": "https://wechat2rss.xlab.app/feed/ca637daa3c408cbd4eb29972e4449809ed238374.xml",
-    "category": "逆向工程",
-    "description": "我们是一个专注于物联网IOT安全 固件逆向 近源攻击 硬件破解的公众号，与我们一起学习进步。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
-    "version": "1.0",
-    "hash": "728e38a11e2c79f74a8824ab82c10662"
   },
   {
     "name": "逆熵重生",

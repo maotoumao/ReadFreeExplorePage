@@ -1,14 +1,5 @@
 [
   {
-    "name": "酷 壳 – CoolShell",
-    "type": "rss",
-    "category": "开发与设计",
-    "url": "http://coolshell.cn/feed",
-    "description": "享受编程和技术所带来的快乐 - Coding Your Ambition",
-    "version": "1.0",
-    "hash": "f6ab279749ae82e52f087530c57489ca"
-  },
-  {
     "name": "云风的 BLOG",
     "type": "rss",
     "category": "开发与设计",
@@ -34,15 +25,6 @@
     "description": "喵神的 iOS 开发技术博客。",
     "version": "1.0",
     "hash": "7290fe5fff265e7331d4db2ed6f98344"
-  },
-  {
-    "name": "Draveness",
-    "type": "rss",
-    "category": "开发与设计",
-    "url": "https://draveness.me/feed.xml",
-    "description": "面向信仰编程",
-    "version": "1.0",
-    "hash": "c0e86a0b460c7dbd8cab2119297ed214"
   },
   {
     "name": "ezindie.com",
@@ -72,24 +54,6 @@
     "hash": "88ae42f237591d16267d7e9be0de9878"
   },
   {
-    "name": "风雪之隅",
-    "type": "rss",
-    "category": "开发与设计",
-    "url": "http://www.laruence.com/feed",
-    "description": "左手代码右手诗",
-    "version": "1.0",
-    "hash": "6cf4a28a3fee98948ff35670a8416809"
-  },
-  {
-    "name": "有赞技术团队",
-    "type": "rss",
-    "category": "开发与设计",
-    "url": "https://tech.youzan.com/rss/",
-    "description": "Thoughts, stories and ideas.",
-    "version": "1.0",
-    "hash": "62ea6388270e06b0c1a59e32083ab55a"
-  },
-  {
     "name": "HelloGitHub 月刊",
     "type": "rss",
     "category": "开发与设计",
@@ -97,15 +61,6 @@
     "description": "HelloGitHub 是一个分享有趣、 入门级开源项目的平台。 希望大家能够在这里找到编程的快乐、 轻松搞定问题的技术方案、 大呼过瘾的开源神器， 顺其自然地开启开源之旅。",
     "version": "1.0",
     "hash": "5bfede3d806fd3ee578b3218646a4362"
-  },
-  {
-    "name": "轶哥博客",
-    "type": "rss",
-    "category": "开发与设计",
-    "url": "https://www.wyr.me/rss.xml",
-    "description": "一个全栈程序员的技术博客。",
-    "version": "1.0",
-    "hash": "0d8e2538ad12dac79ea09111a3b26817"
   },
   {
     "name": "GeekPlux",
@@ -117,6 +72,15 @@
     "hash": "156f7836c6ba29cf0b993e0033c4eb7f"
   },
   {
+    "name": "轶哥博客",
+    "type": "rss",
+    "category": "开发与设计",
+    "url": "https://www.wyr.me/rss.xml",
+    "description": "一个全栈程序员的技术博客。",
+    "version": "1.0",
+    "hash": "0d8e2538ad12dac79ea09111a3b26817"
+  },
+  {
     "name": "CSS-Tricks",
     "type": "rss",
     "category": "开发与设计",
@@ -126,15 +90,6 @@
     "hash": "86e2cc42cc5078615edb74f4b5744c8e"
   },
   {
-    "name": "技术小黑屋",
-    "type": "rss",
-    "category": "开发与设计",
-    "url": "https://droidyue.com/atom.xml",
-    "description": "Android 开发与技术分享。",
-    "version": "1.0",
-    "hash": "ed6202dd6586918e2477362aa4244ea5"
-  },
-  {
     "name": "weekly 标签新帖",
     "type": "rss",
     "category": "开发与设计",
@@ -142,6 +97,15 @@
     "description": "开发者周刊聚合。",
     "version": "1.0",
     "hash": "96ffef46f100d74c4d3f0facf13f5564"
+  },
+  {
+    "name": "技术小黑屋",
+    "type": "rss",
+    "category": "开发与设计",
+    "url": "https://droidyue.com/atom.xml",
+    "description": "Android 开发与技术分享。",
+    "version": "1.0",
+    "hash": "ed6202dd6586918e2477362aa4244ea5"
   },
   {
     "name": "二丫讲梵",
@@ -189,15 +153,6 @@
     "hash": "d866534b7d8589c10634764907eca344"
   },
   {
-    "name": "Tiny Projects",
-    "type": "rss",
-    "category": "开发与设计",
-    "url": "https://tinyprojects.dev/feed.xml",
-    "description": "Making one tiny project each week 💡",
-    "version": "1.0",
-    "hash": "1f362fb3559af12cb0d9c22518839090"
-  },
-  {
     "name": "全栈应用开发:精益实践",
     "type": "rss",
     "category": "开发与设计",
@@ -205,15 +160,6 @@
     "description": "Blog",
     "version": "1.0",
     "hash": "d202fee6b38e41e6f41332747eff6142"
-  },
-  {
-    "name": "安全乐观主义",
-    "type": "rss",
-    "url": "https://wechat2rss.xlab.app/feed/99e8a156f4f0a3b45bb206945e55cb193672da81.xml",
-    "category": "开发与设计",
-    "description": "实践分享企业在建设安全开发生命周期各阶段及流程中的优秀实践，内容涉及代码审计、业界对标、系统工程化心得、国外资料分享，搭建应用安全交流平台。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
-    "version": "1.0",
-    "hash": "ec619318c39bd71664136a7eff44992b"
   },
   {
     "name": "代码卫士",
@@ -234,15 +180,6 @@
     "hash": "2f8f8c3e9dfef5400e7ac5b76c46b992"
   },
   {
-    "name": "真没什么逻辑",
-    "type": "rss",
-    "url": "https://wechat2rss.xlab.app/feed/347c1a20a1a8ff2b789e454e938addadc85b2c4b.xml",
-    "category": "开发与设计",
-    "description": "系统设计、微服务架构和云原生技术 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
-    "version": "1.0",
-    "hash": "bd3e3e472c98b82394008620c540228c"
-  },
-  {
     "name": "Red0",
     "type": "rss",
     "url": "https://wechat2rss.xlab.app/feed/8c432d74f325c5c6347230d4dc546ecc33c949cd.xml",
@@ -259,24 +196,6 @@
     "description": "关注刑事证据科学前沿发展，传递电子物证技术最新趋势 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
     "version": "1.0",
     "hash": "0fc2e855444c2671de29bf07238331d9"
-  },
-  {
-    "name": "电子数据取证与鉴定",
-    "type": "rss",
-    "url": "https://wechat2rss.xlab.app/feed/aa202e8b44eec0847ad9ab2bece74addfede9894.xml",
-    "category": "开发与设计",
-    "description": "介绍电子数据取证与鉴定的基础知识、法律法规、技术标准及检验方法、检验流程、取证和鉴定的工具等。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
-    "version": "1.0",
-    "hash": "42e9c50ed31b4d193eeed7f73f95b9fc"
-  },
-  {
-    "name": "落水轩",
-    "type": "rss",
-    "url": "https://wechat2rss.xlab.app/feed/09d2ae436c3aa6166353d53502096e1a957a808a.xml",
-    "category": "开发与设计",
-    "description": "不谈技术，只说故事。喝完这杯，还有三杯 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
-    "version": "1.0",
-    "hash": "1322d06369d6643654eddbc097a136c9"
   },
   {
     "name": "字节跳动技术团队",
@@ -297,15 +216,6 @@
     "hash": "7bbcae282eb1fcb58d1eeffa52f977e3"
   },
   {
-    "name": "Rapid7",
-    "type": "rss",
-    "url": "https://wechat2rss.xlab.app/feed/0060dbbf4244fc99ca332d9aa76acfe89ba7b415.xml",
-    "category": "开发与设计",
-    "description": "定期发送产品相关技术文章，关键更新推送，解决方案分享等 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
-    "version": "1.0",
-    "hash": "dcaec28e3a0409df693c750678ea8ad5"
-  },
-  {
     "name": "技术猫屋",
     "type": "rss",
     "url": "https://wechat2rss.xlab.app/feed/c48bba56bd4329af4db5c7b0eacf3d2f1c43c8df.xml",
@@ -324,24 +234,6 @@
     "hash": "7c9a83d81c10e21ac4e501a18886fa75"
   },
   {
-    "name": "俗世吧",
-    "type": "rss",
-    "url": "https://wechat2rss.xlab.app/feed/892464522627f503ae525d1df3c2690bca98b424.xml",
-    "category": "开发与设计",
-    "description": "日记本，也搞不好会发技术。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
-    "version": "1.0",
-    "hash": "da66a33c5fbf18c273b834d033994f66"
-  },
-  {
-    "name": "头像哥老草",
-    "type": "rss",
-    "url": "https://wechat2rss.xlab.app/feed/9ab5d73a93405f75a182b073fcc04e22f24b412d.xml",
-    "category": "开发与设计",
-    "description": "从一个LYB的角度看实战技术 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
-    "version": "1.0",
-    "hash": "767f3dc84b643105a9a499276e9a0ea4"
-  },
-  {
     "name": "钱塘门外的互联网散修",
     "type": "rss",
     "url": "https://wechat2rss.xlab.app/feed/bf791d6a822e8f48b4f6aa056e42758479362281.xml",
@@ -349,15 +241,6 @@
     "description": "无用之地，记录安全系统架构和开发的点点滴滴，偶尔也写写我们的生活。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
     "version": "1.0",
     "hash": "545996f69d228d82aa873ef639e4b7af"
-  },
-  {
-    "name": "鸟哥谈安全",
-    "type": "rss",
-    "url": "https://wechat2rss.xlab.app/feed/564971d18e4771aa4494c8b930dc912b04e6743d.xml",
-    "category": "开发与设计",
-    "description": "全面深入解读安全架构、前沿安全技术、安全报告解读、安全趋势详解。做业内最专业、看透“安全本质”的纯安全分享公众号。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
-    "version": "1.0",
-    "hash": "7af9145fa93f086d7a381d548948d01c"
   },
   {
     "name": "迪哥讲事",
@@ -414,24 +297,6 @@
     "hash": "d89cd4f94cd0261c958c88b0d3e30e19"
   },
   {
-    "name": "腾讯技术工程",
-    "type": "rss",
-    "url": "https://wechat2rss.xlab.app/feed/9685937b45fe9c7a526dbc32e4f24ba879a65b9a.xml",
-    "category": "开发与设计",
-    "description": "腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
-    "version": "1.0",
-    "hash": "66a8a3250f66b081f5f2fd7f7c5e5f3d"
-  },
-  {
-    "name": "爱奇艺技术产品团队",
-    "type": "rss",
-    "url": "https://wechat2rss.xlab.app/feed/16a4ec12a83a52e1f6e941bce030a4d64ee26c47.xml",
-    "category": "开发与设计",
-    "description": "爱奇艺的技术产品团队 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
-    "version": "1.0",
-    "hash": "766dcc896e7f866906b9d894ff167009"
-  },
-  {
     "name": "小米技术",
     "type": "rss",
     "url": "https://wechat2rss.xlab.app/feed/20bc9c3251b3c4f73d3b53aa1f1ab853d05d4cbc.xml",
@@ -450,6 +315,24 @@
     "hash": "d456e9b211351d4dd76e2b229bc3e977"
   },
   {
+    "name": "爱奇艺技术产品团队",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/16a4ec12a83a52e1f6e941bce030a4d64ee26c47.xml",
+    "category": "开发与设计",
+    "description": "爱奇艺的技术产品团队 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "766dcc896e7f866906b9d894ff167009"
+  },
+  {
+    "name": "腾讯技术工程",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/9685937b45fe9c7a526dbc32e4f24ba879a65b9a.xml",
+    "category": "开发与设计",
+    "description": "腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "66a8a3250f66b081f5f2fd7f7c5e5f3d"
+  },
+  {
     "name": "觉学社",
     "type": "rss",
     "url": "https://wechat2rss.xlab.app/feed/238759eb3e9d042d4e1ef515cfc3686c977c6ddd.xml",
@@ -457,15 +340,6 @@
     "description": "因觉学，求绝学。 这是《Rust 编程之道》作者张汉东的个人公众号，专注于 Rust 语言，欢迎交流和咨询。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
     "version": "1.0",
     "hash": "fbae5ea6b882d06bd97c9100e14662ce"
-  },
-  {
-    "name": "哔哩哔哩技术",
-    "type": "rss",
-    "url": "https://wechat2rss.xlab.app/feed/434235d4815fdb8447ff3127fc053ceb8b3aada6.xml",
-    "category": "开发与设计",
-    "description": "提供B站相关技术的介绍和讲解 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
-    "version": "1.0",
-    "hash": "122fcdb0edf4635ae7a46af6e9bfc895"
   },
   {
     "name": "Android 开发者",
@@ -477,13 +351,13 @@
     "hash": "f05b700d1ff779a389f9b684182ebc06"
   },
   {
-    "name": "阿里云开发者",
+    "name": "哔哩哔哩技术",
     "type": "rss",
-    "url": "https://wechat2rss.xlab.app/feed/c74ed6db00cfbf16f2a048a165b4453f982681f0.xml",
+    "url": "https://wechat2rss.xlab.app/feed/434235d4815fdb8447ff3127fc053ceb8b3aada6.xml",
     "category": "开发与设计",
-    "description": "阿里巴巴官方技术号，关于阿里的技术创新均呈现于此。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "description": "提供B站相关技术的介绍和讲解 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
     "version": "1.0",
-    "hash": "d447100a3e643ea12525558db0a20c7d"
+    "hash": "122fcdb0edf4635ae7a46af6e9bfc895"
   },
   {
     "name": "阿里技术",
@@ -493,6 +367,15 @@
     "description": "阿里技术官方号，阿里的硬核技术、前沿创新、开源项目都在这里。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
     "version": "1.0",
     "hash": "9a49334ee83ebe0bafc02b5575c5d0de"
+  },
+  {
+    "name": "阿里云开发者",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/c74ed6db00cfbf16f2a048a165b4453f982681f0.xml",
+    "category": "开发与设计",
+    "description": "阿里巴巴官方技术号，关于阿里的技术创新均呈现于此。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "d447100a3e643ea12525558db0a20c7d"
   },
   {
     "name": "落日间",

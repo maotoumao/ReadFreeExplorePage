@@ -72,24 +72,6 @@
     "hash": "bae69022ca3399236caca7241c850001"
   },
   {
-    "name": "分类乐色桶",
-    "type": "rss",
-    "url": "https://wechat2rss.xlab.app/feed/5978638470af63bf67edad170b4e8e9eb945b948.xml",
-    "category": "生活",
-    "description": "记录个人生活 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
-    "version": "1.0",
-    "hash": "c51d6049832f298fa646d22d0dec34a1"
-  },
-  {
-    "name": "朴实无华lake2",
-    "type": "rss",
-    "url": "https://wechat2rss.xlab.app/feed/d452e14a90682f0ce670dcce1a041f56593260fc.xml",
-    "category": "生活",
-    "description": "生活就是这么朴实无华，且枯燥 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
-    "version": "1.0",
-    "hash": "878a5a222fc2e8a6da9a76a0c0b7a0b6"
-  },
-  {
     "name": "胡大一大夫",
     "type": "rss",
     "url": "https://wechat2rss.xlab.app/feed/711dd0c42a7a940c7438223ed2ee42131f6d555a.xml",

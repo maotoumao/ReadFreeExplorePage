@@ -9,15 +9,6 @@
     "hash": "ecd49f24ed004dba17cd6c4558abd61c"
   },
   {
-    "name": "胡涂说",
-    "type": "rss",
-    "category": "独立博客",
-    "url": "https://hutusi.com/feed.xml",
-    "description": "hutusi.com",
-    "version": "1.0",
-    "hash": "fa8cf8b657ce5d039282ef4cdd9d26de"
-  },
-  {
     "name": "oldj's blog",
     "type": "rss",
     "category": "独立博客",
@@ -27,6 +18,15 @@
     "hash": "77dcb31c0ff7421d93fbb638f00a14c4"
   },
   {
+    "name": "胡涂说",
+    "type": "rss",
+    "category": "独立博客",
+    "url": "https://hutusi.com/feed.xml",
+    "description": "hutusi.com",
+    "version": "1.0",
+    "hash": "fa8cf8b657ce5d039282ef4cdd9d26de"
+  },
+  {
     "name": "Randy's Blog",
     "type": "rss",
     "category": "独立博客",
@@ -34,15 +34,6 @@
     "description": "About life, technology and reading",
     "version": "1.0",
     "hash": "fcfa3fdda888df5d25b9f78f72feb89e"
-  },
-  {
-    "name": "晚晴幽草轩",
-    "type": "rss",
-    "category": "独立博客",
-    "url": "https://www.jeffjade.com/atom.xml",
-    "description": "It's only too late if you decide it is. Get busy living. or get busy dying!",
-    "version": "1.0",
-    "hash": "12117aa77d0a233750527fa0100ecb86"
   },
   {
     "name": "木遥的窗子",
@@ -81,15 +72,6 @@
     "hash": "f8369097a0c9d342349de6744ebaf8c1"
   },
   {
-    "name": "BAI YUN",
-    "type": "rss",
-    "category": "独立博客",
-    "url": "https://baiyun.me/feed",
-    "description": "Share Tech, Life, and Anything!",
-    "version": "1.0",
-    "hash": "af3f2d1fdb3b8402e0d79b84a76e80fc"
-  },
-  {
     "name": "唐巧的博客",
     "type": "rss",
     "category": "独立博客",
@@ -99,6 +81,15 @@
     "hash": "f3d986564e1a240dd1cd471361c2b321"
   },
   {
+    "name": "BAI YUN",
+    "type": "rss",
+    "category": "独立博客",
+    "url": "https://baiyun.me/feed",
+    "description": "Share Tech, Life, and Anything!",
+    "version": "1.0",
+    "hash": "af3f2d1fdb3b8402e0d79b84a76e80fc"
+  },
+  {
     "name": "Tony Bai",
     "type": "rss",
     "category": "独立博客",
@@ -106,15 +97,6 @@
     "description": "一个程序员的心路历程",
     "version": "1.0",
     "hash": "7aa9031bedf7722fe024bdad5ac998d4"
-  },
-  {
-    "name": "小胡子哥的个人网站",
-    "type": "rss",
-    "category": "独立博客",
-    "url": "http://www.barretlee.com/rss2.xml",
-    "description": "一个有趣的灵魂 —— 想法，随笔，思考，感叹，瞬间，笔记...",
-    "version": "1.0",
-    "hash": "bbf9d48021e145bf5079879b9c9a5beb"
   },
   {
     "name": "小球飞鱼",
@@ -144,15 +126,6 @@
     "hash": "306eb0bf01e670c8ed7548068b65eb36"
   },
   {
-    "name": "涛叔",
-    "type": "rss",
-    "category": "独立博客",
-    "url": "https://taoshu.in/feed.xml",
-    "description": "记录技术与生活的个人博客。",
-    "version": "1.0",
-    "hash": "89f7e2e8176b096145110678420cfed7"
-  },
-  {
     "name": "西秦公子",
     "type": "rss",
     "category": "独立博客",
@@ -162,13 +135,13 @@
     "hash": "9e7d6e59c19ef12960449f9c27461188"
   },
   {
-    "name": "Phoenix's island",
+    "name": "涛叔",
     "type": "rss",
     "category": "独立博客",
-    "url": "https://blog.phoenixlzx.com/atom.xml",
-    "description": "Sun will shine on the horizon.",
+    "url": "https://taoshu.in/feed.xml",
+    "description": "记录技术与生活的个人博客。",
     "version": "1.0",
-    "hash": "cdd35cc41e2586f852ab02a1ac79f0a8"
+    "hash": "89f7e2e8176b096145110678420cfed7"
   },
   {
     "name": "道哥的黑板报",

@@ -9,15 +9,6 @@
     "hash": "e5f3fea0c162f1f933264bed01441685"
   },
   {
-    "name": "也谈钱",
-    "type": "rss",
-    "url": "https://wechat2rss.xlab.app/feed/f2fd5af8dc3590b99509f0c501de09066d063028.xml",
-    "category": "金融与投资",
-    "description": "一枚工程师的财务自由日志，工资理财也能财务自由。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
-    "version": "1.0",
-    "hash": "75b243535f2b6887480dcfc333c9ff9d"
-  },
-  {
     "name": "长赢指数投资",
     "type": "rss",
     "url": "https://wechat2rss.xlab.app/feed/1f35edb36dfda13906f958fc3047e59ce9c234fe.xml",
@@ -25,6 +16,15 @@
     "description": "指数化投资适合绝大多数人。利用市场估值与投资者情绪的变化，对指数长期持有，低买高卖，是普通投资者在资本市场获得财富的最佳方式。本公众号定期给出投资指数ETF的建议，过往投资成绩出色，值得你拥有。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
     "version": "1.0",
     "hash": "0de810ae955a714f8390848102d5de6d"
+  },
+  {
+    "name": "也谈钱",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/f2fd5af8dc3590b99509f0c501de09066d063028.xml",
+    "category": "金融与投资",
+    "description": "一枚工程师的财务自由日志，工资理财也能财务自由。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "75b243535f2b6887480dcfc333c9ff9d"
   },
   {
     "name": "辉哥奇谭",

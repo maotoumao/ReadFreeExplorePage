@@ -18,15 +18,6 @@
     "hash": "0c9bcb2b9e06c6273507b661b0778f75"
   },
   {
-    "name": "疯投圈",
-    "type": "rss",
-    "category": "商业",
-    "url": "https://crazy.capital/feed",
-    "description": "一起探索好玩的商业世界",
-    "version": "1.0",
-    "hash": "4b7edec737f0d70c8c19bb44359c95da"
-  },
-  {
     "name": "钛媒体",
     "type": "rss",
     "category": "商业",
@@ -36,6 +27,15 @@
     "hash": "c4fb967a0f9149a27e24c0051e5114e1"
   },
   {
+    "name": "疯投圈",
+    "type": "rss",
+    "category": "商业",
+    "url": "https://crazy.capital/feed",
+    "description": "一起探索好玩的商业世界",
+    "version": "1.0",
+    "hash": "4b7edec737f0d70c8c19bb44359c95da"
+  },
+  {
     "name": "人人都是产品经理",
     "type": "rss",
     "category": "商业",
@@ -43,24 +43,6 @@
     "description": "产品经理、产品爱好者学习交流平台",
     "version": "1.0",
     "hash": "f39f53c52b0875e39d47b617e2e00331"
-  },
-  {
-    "name": "正阳咨询",
-    "type": "rss",
-    "url": "https://wechat2rss.xlab.app/feed/47ea183e577cf1fc9035122675cc567dec908443.xml",
-    "category": "商业",
-    "description": "正阳风控咨询，关注企业和个人风险管理 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
-    "version": "1.0",
-    "hash": "f14b2f1db73ad688ca19b168e22edc00"
-  },
-  {
-    "name": "数工复利",
-    "type": "rss",
-    "url": "https://wechat2rss.xlab.app/feed/9daa406071d03da194ea8a0b35f1982c288ba366.xml",
-    "category": "商业",
-    "description": "通过数据谈财经，说风控，道商业 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
-    "version": "1.0",
-    "hash": "1be0e5eb36ec951316a6b0219da825fe"
   },
   {
     "name": "数说安全",
@@ -81,15 +63,6 @@
     "hash": "609213a99d545ab4c65a2425cd7f7a97"
   },
   {
-    "name": "小火箭",
-    "type": "rss",
-    "url": "https://wechat2rss.xlab.app/feed/ebbf3f8891e7d70626c75dca7b92dd6c075663d5.xml",
-    "category": "商业",
-    "description": "全球航空航天业内人员和深度爱好者们的交流基地。内容由邢强博士一人情怀创制。 小火箭没有体制背景，没有商业运营，唯一可以依赖的就是你啦！ 小火箭出品，必属精品！我已加入“维权骑士”(rightknights.com)的版权保护计划。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
-    "version": "1.0",
-    "hash": "743076328cdcca18e369e981ec04ca4f"
-  },
-  {
     "name": "卢瑟经济学之安生杂谈",
     "type": "rss",
     "url": "https://wechat2rss.xlab.app/feed/810c7b56b5341b3767e54b8648dc972c6b1f4fe9.xml",
@@ -104,15 +77,6 @@
     "category": "商业",
     "version": "1.0",
     "hash": "75f8d50f60102e5650d6a9a614dbe83b"
-  },
-  {
-    "name": "红色安生",
-    "type": "rss",
-    "url": "https://wechat2rss.xlab.app/feed/e2379df83a2450a7dd45022f0408c65cdf11563f.xml",
-    "category": "商业",
-    "description": "分析各类经济信息 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
-    "version": "1.0",
-    "hash": "baea73657748d45e78b8263053371342"
   },
   {
     "name": "逻辑与现实经济",

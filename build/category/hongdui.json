@@ -1,14 +1,5 @@
 [
   {
-    "name": "EnjoyHacking",
-    "type": "rss",
-    "url": "https://wechat2rss.xlab.app/feed/257bba53d8f6b6485ac41c0f8cd6fdb0f52840b5.xml",
-    "category": "红队攻防",
-    "description": "分享一些网络安全攻防对抗的趣事 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
-    "version": "1.0",
-    "hash": "8453cfc5655f755bd76ac62f03c00311"
-  },
-  {
     "name": "有价值炮灰",
     "type": "rss",
     "url": "https://wechat2rss.xlab.app/feed/ca9e6f3e905e64301c6f00a21f2e3f135df1e691.xml",
@@ -16,15 +7,6 @@
     "description": "explore, exploit, expose (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
     "version": "1.0",
     "hash": "3db0ba9022e6d59872e834112859f8b1"
-  },
-  {
-    "name": "闻道解惑",
-    "type": "rss",
-    "url": "https://wechat2rss.xlab.app/feed/f2035369bae011cc72f020f8ba009ea2dfdf0355.xml",
-    "category": "红队攻防",
-    "description": "记录渗透测试过程中点滴积累和心得 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
-    "version": "1.0",
-    "hash": "02344d7bdfbba62076cea024a21e0f4d"
   },
   {
     "name": "白帽100安全攻防实验室",
@@ -52,15 +34,6 @@
     "description": "雷神众测，专注于渗透测试技术及全球最新网络攻击技术的分析。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
     "version": "1.0",
     "hash": "24ff1237be84baf71303ebe45f621a7c"
-  },
-  {
-    "name": "红队防线",
-    "type": "rss",
-    "url": "https://wechat2rss.xlab.app/feed/5d5dbfc442f65c9345f4d77cb84e2593d2a0c397.xml",
-    "category": "红队攻防",
-    "description": "没有章法，便是最好的章法 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
-    "version": "1.0",
-    "hash": "3ff7e31d5808d75eadbb367cc4656428"
   },
   {
     "name": "代码审计SDL",
@@ -126,15 +99,6 @@
     "hash": "00c668192ae00bc96f26b2ce8957d965"
   },
   {
-    "name": "NEO攻防队",
-    "type": "rss",
-    "url": "https://wechat2rss.xlab.app/feed/a093f5ce01f9dd8377ef4e2554648965b4f5dedd.xml",
-    "category": "红队攻防",
-    "description": "分享安全攻防领域所学、所想、所思。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
-    "version": "1.0",
-    "hash": "c1de33d615496568dda7647dc43913f5"
-  },
-  {
     "name": "安全攻防团队",
     "type": "rss",
     "url": "https://wechat2rss.xlab.app/feed/85da1127d3027be44cf4f3a7b3198c622f8fbe1b.xml",
@@ -142,33 +106,6 @@
     "description": "Tencent A&D Team 关注安全前沿攻防技术研究。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
     "version": "1.0",
     "hash": "745123253bafae2d086f9721624879ec"
-  },
-  {
-    "name": "木星安全实验室",
-    "type": "rss",
-    "url": "https://wechat2rss.xlab.app/feed/273e7f746e228d3686d6f2fa59a0df5ef906dd23.xml",
-    "category": "红队攻防",
-    "description": "木星安全实验室（MxLab），由中国网安·广州三零卫士于2018年底成立，汇聚国内多名红队攻防专家组建而成，深耕红队攻防研究、漏洞挖掘与利用、内网渗透等，拥有强大的红队攻防能力，是一支锋利的网安之“矛”，以攻促防。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
-    "version": "1.0",
-    "hash": "98c151c7bf06709be1b2f4888a95101c"
-  },
-  {
-    "name": "MS509",
-    "type": "rss",
-    "url": "https://wechat2rss.xlab.app/feed/55d7dabccad3e569e3c9fc2a14a07dd86d7b6666.xml",
-    "category": "红队攻防",
-    "description": "MS509为中国网安开展互联网攻防技术研究的专业团队，当前主攻方向包括WEB安全、移动安全、二进制安全等。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
-    "version": "1.0",
-    "hash": "7341dbe8b89b1d08533e43349ac996dd"
-  },
-  {
-    "name": "冷渗透",
-    "type": "rss",
-    "url": "https://wechat2rss.xlab.app/feed/c23cb9dcbc234e732381ea10aa3d2fe1394ab36d.xml",
-    "category": "红队攻防",
-    "description": "专注于Cyber Phshing 网络钓鱼研究，记录非常规思路的hackdom。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
-    "version": "1.0",
-    "hash": "efdd8d28535421c90ae65f40b8b0b6da"
   },
   {
     "name": "复旦白泽战队",
@@ -207,22 +144,13 @@
     "hash": "5ce9cd8e2184f9aa7001034b2082f86f"
   },
   {
-    "name": "花指令安全实验室",
+    "name": "娜璋AI安全之家",
     "type": "rss",
-    "url": "https://wechat2rss.xlab.app/feed/1c1f6eeede24a34f08ac362de07be36f79a7e986.xml",
+    "url": "https://wechat2rss.xlab.app/feed/ac86a71f04b6d10cc5a87ec9ecc8c94fff5d80d1.xml",
     "category": "红队攻防",
-    "description": "专注于AD域渗透和免杀的优质红队平台 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "description": "武大博士，北理本硕，贵大老师，CSDN和华为云博客专家。专注于网络安全和AI技术，含Web渗透、系统安全、大数据分析等。近14年分享原创博客900余篇，开源项目100余个，感谢关注。欢迎付费咨询和关注星球“网络攻防和AI安全之家”。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
     "version": "1.0",
-    "hash": "7e7cf667a6996b69edb81c5477a39791"
-  },
-  {
-    "name": "花茶安全攻防Team",
-    "type": "rss",
-    "url": "https://wechat2rss.xlab.app/feed/67968324b3147407bc172b38832acd931955e743.xml",
-    "category": "红队攻防",
-    "description": "网络空间安全|前沿技术研究|新颖知识分享|安全培训服务 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
-    "version": "1.0",
-    "hash": "f39c5b0cd1cd1b1de5c2763ad6ca3ce4"
+    "hash": "6c261027bc2abee6432efbc0dcd67e2c"
   },
   {
     "name": "默安玄甲实验室",
@@ -232,15 +160,6 @@
     "description": "玄甲实验室是默安科技旗下的攻防技术研究团队，由长期在一线的攻防专家组成，致力于Web渗透，APT攻防、对抗，红队工程化，从底层原理到一线实战进行技术研究，深入还原攻与防的技术本质。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
     "version": "1.0",
     "hash": "546f332714cc17a3014a17021d056f98"
-  },
-  {
-    "name": "娜璋AI安全之家",
-    "type": "rss",
-    "url": "https://wechat2rss.xlab.app/feed/ac86a71f04b6d10cc5a87ec9ecc8c94fff5d80d1.xml",
-    "category": "红队攻防",
-    "description": "武大博士，北理本硕，贵大老师，CSDN和华为云博客专家。专注于网络安全和AI技术，含Web渗透、系统安全、大数据分析等。近14年分享原创博客900余篇，开源项目100余个，感谢关注。欢迎付费咨询和关注星球“网络攻防和AI安全之家”。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
-    "version": "1.0",
-    "hash": "6c261027bc2abee6432efbc0dcd67e2c"
   },
   {
     "name": "赛博回忆录",
@@ -270,15 +189,6 @@
     "hash": "729cfde2d975ef415961a61530644cf9"
   },
   {
-    "name": "f undefined",
-    "type": "rss",
-    "url": "https://wechat2rss.xlab.app/feed/5f1bca42a3e1bc932b1e2609abad8c36d9ad37e1.xml",
-    "category": "红队攻防",
-    "description": "围绕系统安全、应用安全和设备安全，专注漏洞挖掘研究，部分涉猎红队技术。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
-    "version": "1.0",
-    "hash": "393fb96b26b436873ba75c60911da0b4"
-  },
-  {
     "name": "夏虫知冰",
     "type": "rss",
     "url": "https://wechat2rss.xlab.app/feed/6f5a7b292b4b0232ccf1c8e2b7819b98dcdb173a.xml",
@@ -304,14 +214,5 @@
     "description": "攻击者视角驱动的应用安全建设实践 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
     "version": "1.0",
     "hash": "2232f9c4f0c088d843657198af2ae94f"
-  },
-  {
-    "name": "ADLab",
-    "type": "rss",
-    "url": "https://wechat2rss.xlab.app/feed/16f16b9f4eb45442a824a52e3ddb040941a49f68.xml",
-    "category": "红队攻防",
-    "description": "启明星辰积极防御实验室（ADLab）成立于1999年，致力于攻防技术人员培养、网络安全、信息安全深层攻防技术研究，开拓安全领域前瞻性技术研究，发现计算机及网络系统中存在的各种安全缺陷，帮助用户获得全面、持久的安全。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
-    "version": "1.0",
-    "hash": "e1648f977edf5c57add915b566635277"
   }
 ]

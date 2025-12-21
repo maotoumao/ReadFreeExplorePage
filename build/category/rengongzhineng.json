@@ -1,14 +1,5 @@
 [
   {
-    "name": "PaiSecTeam",
-    "type": "rss",
-    "url": "https://wechat2rss.xlab.app/feed/7528d5257a3331281075aa520209d782adf7bb12.xml",
-    "category": "人工智能",
-    "description": "Penetration Testing & Red Teaming & Security (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
-    "version": "1.0",
-    "hash": "9f326d916cdf1bf4753dd821b5e82f3f"
-  },
-  {
     "name": "凌晨一点零三分",
     "type": "rss",
     "url": "https://wechat2rss.xlab.app/feed/02330475f466041c89e4db3abdf4ce9b1311a6cb.xml",
@@ -45,15 +36,6 @@
     "hash": "3e647daba564ed0e398e5d9e88558985"
   },
   {
-    "name": "机器学习初学者",
-    "type": "rss",
-    "url": "https://wechat2rss.xlab.app/feed/c5f385197ef56f9345db0daf1e46419af8c7d664.xml",
-    "category": "人工智能",
-    "description": "致力于为初学者提供学习路线和基础资料，含慕课和代码、教案等，建议收藏！ (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
-    "version": "1.0",
-    "hash": "7a309b9646cbc4868d7c05a9932374e7"
-  },
-  {
     "name": "我爱计算机视觉",
     "type": "rss",
     "url": "https://wechat2rss.xlab.app/feed/b81ffcfff1107b5265cd7e39de610dc7ca72caf4.xml",
@@ -61,6 +43,15 @@
     "description": "探寻CV新知，发现AI价值 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
     "version": "1.0",
     "hash": "b83c979ad142af4d0e25a59afd19ee77"
+  },
+  {
+    "name": "机器学习初学者",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/c5f385197ef56f9345db0daf1e46419af8c7d664.xml",
+    "category": "人工智能",
+    "description": "致力于为初学者提供学习路线和基础资料，含慕课和代码、教案等，建议收藏！ (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "7a309b9646cbc4868d7c05a9932374e7"
   },
   {
     "name": "PaperWeekly",
@@ -90,15 +81,6 @@
     "hash": "5050eae7e819b3d8f9298fb71b824259"
   },
   {
-    "name": "新智元",
-    "type": "rss",
-    "url": "https://wechat2rss.xlab.app/feed/ede30346413ea70dbef5d485ea5cbb95cca446e7.xml",
-    "category": "人工智能",
-    "description": "智能+中国主平台，致力于推动中国从互联网+迈向智能+新纪元。重点关注人工智能、机器人等前沿领域发展，关注人机融合、人工智能和机器人革命对人类社会与文明进化的影响，领航中国新智能时代。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
-    "version": "1.0",
-    "hash": "681ce1cec4f7ef243b9ae71195e81d47"
-  },
-  {
     "name": "量子位",
     "type": "rss",
     "url": "https://wechat2rss.xlab.app/feed/7131b577c61365cb47e81000738c10d872685908.xml",
@@ -106,5 +88,14 @@
     "description": "追踪人工智能新趋势，关注科技行业新突破 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
     "version": "1.0",
     "hash": "f0d3e8ef8b6e24fe6b67cc44de9d64d1"
+  },
+  {
+    "name": "新智元",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/ede30346413ea70dbef5d485ea5cbb95cca446e7.xml",
+    "category": "人工智能",
+    "description": "智能+中国主平台，致力于推动中国从互联网+迈向智能+新纪元。重点关注人工智能、机器人等前沿领域发展，关注人机融合、人工智能和机器人革命对人类社会与文明进化的影响，领航中国新智能时代。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "681ce1cec4f7ef243b9ae71195e81d47"
   }
 ]
