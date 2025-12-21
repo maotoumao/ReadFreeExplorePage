@@ -3,7 +3,7 @@ const path = require('path');
 const crypto = require('crypto');
 
 const categoriesPath = path.join(__dirname, 'channels', 'categories.json');
-const rssPath = path.join(__dirname, 'channels', 'rss', 'index.json');
+const rssDir = path.join(__dirname, 'channels', 'rss');
 const jsChannelsDir = path.join(__dirname, 'channels', 'js');
 const buildDir = path.join(__dirname, 'build');
 const buildCategoryDir = path.join(buildDir, 'category');
@@ -68,26 +68,44 @@ try {
 
     // 2. 处理 RSS 频道
     console.log('正在处理 RSS 频道...');
-    let rssData = fs.readFileSync(rssPath, 'utf8');
-    // 移除 BOM
-    if (rssData.charCodeAt(0) === 0xFEFF) {
-        rssData = rssData.slice(1);
-    }
-    const rssItems = JSON.parse(rssData);
+    if (fs.existsSync(rssDir)) {
+        const rssFiles = fs.readdirSync(rssDir);
 
-    rssItems.forEach(item => {
-        // RSS 特有处理
-        item.version = "1.0";
-        if (item.url) {
-            item.hash = calculateMD5(item.url);
-            rssLookup[item.url] = item; // 添加到查找表
-        } else {
-            console.warn(`警告: RSS 条目 "${item.name}" 缺少 URL，无法计算 hash。`);
-            item.hash = "";
-        }
-        
-        addToAggregated(item, 'RSS');
-    });
+        rssFiles.forEach(file => {
+            if (path.extname(file) === '.json') {
+                const filePath = path.join(rssDir, file);
+                let rssData = fs.readFileSync(filePath, 'utf8');
+                // 移除 BOM
+                if (rssData.charCodeAt(0) === 0xFEFF) {
+                    rssData = rssData.slice(1);
+                }
+                
+                try {
+                    const rssItems = JSON.parse(rssData);
+                    // 确保是数组
+                    const items = Array.isArray(rssItems) ? rssItems : [rssItems];
+
+                    items.forEach(item => {
+                        // RSS 特有处理
+                        item.version = "1.0";
+                        if (item.url) {
+                            item.hash = calculateMD5(item.url);
+                            rssLookup[item.url] = item; // 添加到查找表
+                        } else {
+                            console.warn(`警告: RSS 条目 "${item.name}" (在 ${file} 中) 缺少 URL，无法计算 hash。`);
+                            item.hash = "";
+                        }
+                        
+                        addToAggregated(item, `RSS: ${file}`);
+                    });
+                } catch (e) {
+                    console.error(`错误: 解析 RSS JSON 文件 ${file} 失败:`, e);
+                }
+            }
+        });
+    } else {
+        console.log('未找到 channels/rss 目录，跳过 RSS 频道处理。');
+    }
 
     // 3. 处理 JS 频道
     console.log('正在处理 JS 频道...');
