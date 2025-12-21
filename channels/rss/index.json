@@ -1,4 +1,4 @@
-﻿[
+[
     {
         "name": "知乎每日精选",
         "type": "rss",
@@ -219,7 +219,7 @@
     {
         "name": "Mac玩儿法",
         "type": "rss",
-        "category": "苹果",
+        "category": "科技",
         "url": "http://www.waerfa.com/feed",
         "description": "专注于 Mac 软件与技巧分享。"
     },
@@ -247,7 +247,7 @@
     {
         "name": "maxOS",
         "type": "rss",
-        "category": "苹果",
+        "category": "科技",
         "url": "https://maxoxo.me/rss/",
         "description": "Eventually everything connects - people, ideas, objects."
     },
@@ -296,7 +296,7 @@
     {
         "name": "MacTalk-池建强的随想录",
         "type": "rss",
-        "category": "苹果",
+        "category": "科技",
         "url": "http://macshuo.com/?feed=rss2",
         "description": "让创作成为一种生活方式"
     },

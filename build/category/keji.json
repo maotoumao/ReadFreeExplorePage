@@ -63,6 +63,33 @@
     "hash": "03e811e030653cdc266ee05b570318a7"
   },
   {
+    "name": "Mac玩儿法",
+    "type": "rss",
+    "category": "科技",
+    "url": "http://www.waerfa.com/feed",
+    "description": "专注于 Mac 软件与技巧分享。",
+    "version": "1.0",
+    "hash": "a90db5f95fad1dbe42eb8adf8425b304"
+  },
+  {
+    "name": "maxOS",
+    "type": "rss",
+    "category": "科技",
+    "url": "https://maxoxo.me/rss/",
+    "description": "Eventually everything connects - people, ideas, objects.",
+    "version": "1.0",
+    "hash": "137183652557e65ae4595389c4f73286"
+  },
+  {
+    "name": "MacTalk-池建强的随想录",
+    "type": "rss",
+    "category": "科技",
+    "url": "http://macshuo.com/?feed=rss2",
+    "description": "让创作成为一种生活方式",
+    "version": "1.0",
+    "hash": "ed293159ecc2c4d8d47e8fd35ac7920b"
+  },
+  {
     "name": "反斗限免",
     "type": "rss",
     "category": "科技",
@@ -225,6 +252,15 @@
     "hash": "393fb96b26b436873ba75c60911da0b4"
   },
   {
+    "name": "bluE0x00",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/9767c848d0a4d5858d8bb565bc762dde94eeeee1.xml",
+    "category": "科技",
+    "description": "不懂就问 不会就学 不熟就练 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "a7183b253d318f31c99a12159038d98c"
+  },
+  {
     "name": "钱塘门外的互联网散修",
     "type": "rss",
     "url": "https://wechat2rss.xlab.app/feed/bf791d6a822e8f48b4f6aa056e42758479362281.xml",
@@ -241,6 +277,15 @@
     "description": "DARKNAVY·深蓝，总部新加坡·上海，独立的网络安全研究服务机构，AVSS对抗研判和量化安全的首倡者与推动者。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
     "version": "1.0",
     "hash": "065891c7a947bbad899929d056959386"
+  },
+  {
+    "name": "不忘初心px1624",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/ccbd9e00f08cbd4c34f7f08060cfb5d4179843a5.xml",
+    "category": "科技",
+    "description": "安全技术分享，擅长WEB安全，喜欢对XSS漏洞、逻辑漏洞、业务相关漏洞进行分析和研究。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "7f7019cc6786c3bbb530ed01880fdc74"
   },
   {
     "name": "机器之心",
