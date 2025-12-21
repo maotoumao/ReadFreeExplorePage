@@ -64,7 +64,16 @@ async function getFeeds(page, {category, extra, filter}) {
     };
 }
 
+
+async function getFeedDetail(feed) {
+    return {
+        content: feed.url,
+        type: "webpage"
+    };
+}
+
 module.exports = {
+    getFeedDetail,
     name: "爱范儿",
     description: "爱范儿科技资讯。",
     author: "ifanr",

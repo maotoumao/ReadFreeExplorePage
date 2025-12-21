@@ -49,7 +49,16 @@ async function getFeeds(page, {category, extra, filter}) {
   };
 }
 
+
+async function getFeedDetail(feed) {
+    return {
+        content: feed.url,
+        type: "webpage"
+    };
+}
+
 module.exports = {
+    getFeedDetail,
     name: "Gitee Releases",
     description: "Gitee 仓库发行版更新。",
     author: "Gitee",

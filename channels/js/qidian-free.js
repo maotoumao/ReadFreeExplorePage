@@ -94,7 +94,16 @@ async function getFeeds(page, {category, extra, filter}) {
     };
 }
 
+
+async function getFeedDetail(feed) {
+    return {
+        content: feed.url,
+        type: "webpage"
+    };
+}
+
 module.exports = {
+    getFeedDetail,
     name: "Qidian Free",
     description: "起点限时免费",
     author: "Qidian",

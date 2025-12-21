@@ -91,7 +91,16 @@ async function getFeeds(page, {category, extra, filter}) {
   };
 }
 
+
+async function getFeedDetail(feed) {
+    return {
+        content: feed.url,
+        type: "webpage"
+    };
+}
+
 module.exports = {
+    getFeedDetail,
     name: "DLsite 最新作品",
     description: "DLsite 各类最新作品。",
     author: "DLsite",

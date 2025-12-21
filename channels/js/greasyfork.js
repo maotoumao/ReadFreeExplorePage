@@ -82,7 +82,16 @@ async function getFeeds(page, {category, extra, filter}) {
   };
 }
 
+
+async function getFeedDetail(feed) {
+    return {
+        content: feed.url,
+        type: "webpage"
+    };
+}
+
 module.exports = {
+    getFeedDetail,
     name: "Greasyfork Scripts",
     description: "Greasyfork 脚本更新。",
     author: "Greasyfork",

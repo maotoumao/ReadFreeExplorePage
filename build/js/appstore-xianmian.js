@@ -60,7 +60,16 @@ async function getFeeds(page, {category, extra, filter}) {
   };
 }
 
+
+async function getFeedDetail(feed) {
+    return {
+        content: feed.url,
+        type: "webpage"
+    };
+}
+
 module.exports = {
+    getFeedDetail,
     name: "AppStore 限免应用",
     description: "AppSo 每日精品限免/促销应用。",
     author: "AppSo",

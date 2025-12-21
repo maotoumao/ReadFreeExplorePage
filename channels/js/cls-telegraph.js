@@ -100,7 +100,16 @@ async function getFeeds(page, {category, extra, filter}) {
     };
 }
 
+
+async function getFeedDetail(feed) {
+    return {
+        content: feed.url,
+        type: "webpage"
+    };
+}
+
 module.exports = {
+    getFeedDetail,
     name: "财联社电报",
     description: "财联社电报，提供24小时滚动财经新闻。",
     author: "Cailianpress",

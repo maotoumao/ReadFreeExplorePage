@@ -71,7 +71,16 @@ async function getFeeds(page, {category, extra, filter}) {
   };
 }
 
+
+async function getFeedDetail(feed) {
+    return {
+        content: feed.url,
+        type: "webpage"
+    };
+}
+
 module.exports = {
+    getFeedDetail,
     name: "动漫之家新闻",
     description: "动漫之家新闻资讯。",
     author: "DMZJ",

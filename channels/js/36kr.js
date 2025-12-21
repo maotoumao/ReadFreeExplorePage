@@ -83,7 +83,16 @@ async function getFeeds(page, {category, extra, filter}) {
     };
 }
 
+
+async function getFeedDetail(feed) {
+    return {
+        content: feed.url,
+        type: "webpage"
+    };
+}
+
 module.exports = {
+    getFeedDetail,
     name: "36氪资讯",
     description: "36氪提供科技、创投等领域的新闻资讯。",
     author: "36Kr",

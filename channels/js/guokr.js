@@ -74,7 +74,16 @@ async function getFeeds(page, {category, extra, filter}) {
     };
 }
 
+
+async function getFeedDetail(feed) {
+    return {
+        content: feed.url,
+        type: "webpage"
+    };
+}
+
 module.exports = {
+    getFeedDetail,
     name: "果壳网科学人",
     description: "果壳网科学人文章。",
     author: "Guokr",

@@ -126,7 +126,7 @@
     "category": "阅读",
     "type": "js",
     "url": "js/douban-book-rank.js",
-    "hash": "2013ebfd078abc540b78c33836300a57"
+    "hash": "957d7e4129405d39a862026706530d12"
   },
   {
     "name": "Qidian Free",
@@ -138,7 +138,7 @@
     "category": "阅读",
     "type": "js",
     "url": "js/qidian-free.js",
-    "hash": "639a2f85e33b38d6dfab09f4f9a512e0"
+    "hash": "5c98401eca2ddfa0ee0069a01219e717"
   },
   {
     "name": "知乎日报",
@@ -150,6 +150,6 @@
     "category": "阅读",
     "type": "js",
     "url": "js/zhihu-daily.js",
-    "hash": "7c2ab72b68915c54ef1308f62071567d"
+    "hash": "3cb3e7fcd8309b9ba88d49e08eb389dc"
   }
 ]

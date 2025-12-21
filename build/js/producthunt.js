@@ -68,7 +68,16 @@ async function getFeeds(page, {category, extra, filter}) {
     };
 }
 
+
+async function getFeedDetail(feed) {
+    return {
+        content: feed.url,
+        type: "webpage"
+    };
+}
+
 module.exports = {
+    getFeedDetail,
     name: "Product Hunt",
     description: "Product Hunt 今日热门",
     author: "Product Hunt",

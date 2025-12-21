@@ -450,7 +450,7 @@
     "category": "开发与设计",
     "type": "js",
     "url": "js/aws-blogs.js",
-    "hash": "27320a446ab71f141b90203d7c4d1025"
+    "hash": "3e761910e43251957c004150c680eedf"
   },
   {
     "name": "Codeforces Contests",
@@ -462,7 +462,7 @@
     "category": "开发与设计",
     "type": "js",
     "url": "js/codeforces-contests.js",
-    "hash": "1529ec06b20b4691568b89cb4eff4f88"
+    "hash": "51088f2dfbbbc3cc5f6b69d0936b4271"
   },
   {
     "name": "Gitee Releases",
@@ -474,7 +474,7 @@
     "category": "开发与设计",
     "type": "js",
     "url": "js/gitee-releases.js",
-    "hash": "6ab49e99bdaf4fb88f44b2781622b514"
+    "hash": "7f193946bde00ce80aa0a0aabf0488bd"
   },
   {
     "name": "GitHub Issues",
@@ -486,7 +486,7 @@
     "category": "开发与设计",
     "type": "js",
     "url": "js/github-issue.js",
-    "hash": "95c51a5b92716e1d6020fd520e4fe33b"
+    "hash": "e5904cd62b9e66d24a218f885420a699"
   },
   {
     "name": "Greasyfork Scripts",
@@ -498,7 +498,7 @@
     "category": "开发与设计",
     "type": "js",
     "url": "js/greasyfork.js",
-    "hash": "2a75622de52abcf1222763b442aae977"
+    "hash": "b35a2319a61893e93158afdea0d623db"
   },
   {
     "name": "HackMD Profile",
@@ -510,7 +510,7 @@
     "category": "开发与设计",
     "type": "js",
     "url": "js/hackmd-profile.js",
-    "hash": "f4af31c758f0951697a9bedfbecd74f4"
+    "hash": "ae570d68705a5425985f2284b712bce4"
   },
   {
     "name": "HelloGitHub",
@@ -522,7 +522,7 @@
     "category": "开发与设计",
     "type": "js",
     "url": "js/hellogithub.js",
-    "hash": "ff46d4c5848be22207a9c7787eb59b3a"
+    "hash": "4d19c8c383c1b248aaef3930ffb5549f"
   },
   {
     "name": "InfoQ",
@@ -534,7 +534,7 @@
     "category": "开发与设计",
     "type": "js",
     "url": "js/infoq.js",
-    "hash": "3d5e3fa169ac470cb7fe6e1c90224e9e"
+    "hash": "f49b4e6819fe86f74173772f0af52199"
   },
   {
     "name": "Juejin Trending",
@@ -546,7 +546,7 @@
     "category": "开发与设计",
     "type": "js",
     "url": "js/juejin-trending.js",
-    "hash": "b72ac2840841f9edc2e5d253b8374622"
+    "hash": "44209d2d5d32e579cc83ca96e267ecc4"
   },
   {
     "name": "LeetCode CN Daily",
@@ -558,7 +558,7 @@
     "category": "开发与设计",
     "type": "js",
     "url": "js/leetcode-daily-cn.js",
-    "hash": "53de6054a02a70a8b326f756ef06074e"
+    "hash": "8ab28bd17c2976e6f7e9d0871608bf1c"
   },
   {
     "name": "LeetCode Daily",
@@ -570,7 +570,7 @@
     "category": "开发与设计",
     "type": "js",
     "url": "js/leetcode-daily-en.js",
-    "hash": "f7de43f82b6422dff861d6023105af13"
+    "hash": "115eac9ebd3d920c63094db4e5eca460"
   },
   {
     "name": "Microsoft MCR",
@@ -582,7 +582,7 @@
     "category": "开发与设计",
     "type": "js",
     "url": "js/microsoft-mcr.js",
-    "hash": "4ec9cb5e66750d5259370f865cb4390a"
+    "hash": "64a8fed3285a0288bce3c5322a1b36cc"
   },
   {
     "name": "Nowcoder Schedule",
@@ -594,7 +594,7 @@
     "category": "开发与设计",
     "type": "js",
     "url": "js/nowcoder-schedule.js",
-    "hash": "2318aae073c00ef2b4e95a3e6a393025"
+    "hash": "6229bc49314bbdf4f6e9d40688067975"
   },
   {
     "name": "OSChina",
@@ -606,6 +606,6 @@
     "category": "开发与设计",
     "type": "js",
     "url": "js/oschina.js",
-    "hash": "1aafdd0ffa1e5c7a6ed4855200b80b78"
+    "hash": "8393da59e9ce6a7f6ea761d6be0d8ba5"
   }
 ]

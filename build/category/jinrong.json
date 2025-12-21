@@ -63,7 +63,7 @@
     "category": "金融与投资",
     "type": "js",
     "url": "js/finviz-news.js",
-    "hash": "ee9a5c9ae2c4fba5334d6bbc5355ae29"
+    "hash": "3a0b1802fb8b983e640c277ec62a85c4"
   },
   {
     "name": "Odaily Newsflash",
@@ -75,6 +75,6 @@
     "category": "金融与投资",
     "type": "js",
     "url": "js/odaily-newsflash.js",
-    "hash": "278db4a4fb059adc8a6009fefa385810"
+    "hash": "e0e91eda0f795d4ee9830febe6fc7d96"
   }
 ]

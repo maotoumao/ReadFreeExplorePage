@@ -99,7 +99,7 @@
     "category": "生活",
     "type": "js",
     "url": "js/baidu-top.js",
-    "hash": "84f038d7a9dd5919d4644bba9f7d8c5a"
+    "hash": "bbc882fabf4cb2f30d82deecd50daf13"
   },
   {
     "name": "Bing 每日壁纸",
@@ -111,7 +111,7 @@
     "category": "生活",
     "type": "js",
     "url": "js/bing-wallpaper.js",
-    "hash": "08eb4a4d9bf14582ec6c985426d2c610"
+    "hash": "ff0775da656d3baffc3b57bf26e1185f"
   },
   {
     "name": "中国地震台网",
@@ -123,7 +123,7 @@
     "category": "生活",
     "type": "js",
     "url": "js/earthquake-ceic.js",
-    "hash": "021f0e12be114a10892a78e1d7d82e58"
+    "hash": "c911834dac250812fbaff3f3a0902b03"
   },
   {
     "name": "Hupu BBS",
@@ -135,7 +135,7 @@
     "category": "生活",
     "type": "js",
     "url": "js/hupu.js",
-    "hash": "0d0de7006191ea2e055d598706e495fc"
+    "hash": "a1496650fb880f773191488eb4392789"
   },
   {
     "name": "新浪滚动新闻",
@@ -147,6 +147,6 @@
     "category": "生活",
     "type": "js",
     "url": "js/sina-rollnews.js",
-    "hash": "281f4f2140fdb613e63eeee1403b38d9"
+    "hash": "a4a7e613df4a9341baa3aaf36cf06b62"
   }
 ]

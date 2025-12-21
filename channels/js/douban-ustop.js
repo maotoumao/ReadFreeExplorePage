@@ -49,7 +49,16 @@ async function getFeeds(page, {category, extra, filter}) {
     };
 }
 
+
+async function getFeedDetail(feed) {
+    return {
+        content: feed.url,
+        type: "webpage"
+    };
+}
+
 module.exports = {
+    getFeedDetail,
     name: "豆瓣电影北美票房榜",
     description: "豆瓣电影北美票房榜。",
     author: "Douban",

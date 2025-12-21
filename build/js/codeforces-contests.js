@@ -56,7 +56,16 @@ async function getFeeds(page, {category, extra, filter}) {
   };
 }
 
+
+async function getFeedDetail(feed) {
+    return {
+        content: feed.url,
+        type: "webpage"
+    };
+}
+
 module.exports = {
+    getFeedDetail,
     name: "Codeforces Contests",
     description: "Codeforces 即将开始的比赛。",
     author: "Codeforces",

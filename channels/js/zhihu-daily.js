@@ -79,7 +79,16 @@ async function getFeeds(page, {category, extra, filter}) {
   };
 }
 
+
+async function getFeedDetail(feed) {
+    return {
+        content: feed.url,
+        type: "webpage"
+    };
+}
+
 module.exports = {
+    getFeedDetail,
     name: "知乎日报",
     description: "知乎日报，每天3次，每次7分钟。",
     author: "Zhihu",

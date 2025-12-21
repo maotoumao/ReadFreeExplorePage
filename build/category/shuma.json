@@ -90,18 +90,6 @@
     "hash": "bfadf8a40aa2bb29e6806db7a71abf52"
   },
   {
-    "name": "酷安热榜",
-    "description": "酷安图文热榜。",
-    "author": "Coolapk",
-    "logo": "https://www.coolapk.com/favicon.ico",
-    "siteUrl": "https://www.coolapk.com/",
-    "version": "1.0.0",
-    "category": "数码",
-    "type": "js",
-    "url": "js/coolapk.js",
-    "hash": "d023520cea157d5965efab1c78069487"
-  },
-  {
     "name": "数字尾巴鲸闻",
     "description": "数字尾巴 DGTLE 鲸闻资讯。",
     "author": "DGTLE",
@@ -111,7 +99,7 @@
     "category": "数码",
     "type": "js",
     "url": "js/dgtle.js",
-    "hash": "5945935034bc8497f59a6525c4a4a18d"
+    "hash": "d2ecc9d4015fdb894aeda17f777183a4"
   },
   {
     "name": "爱范儿",
@@ -123,7 +111,7 @@
     "category": "数码",
     "type": "js",
     "url": "js/ifanr.js",
-    "hash": "5352bde2561d1a81effc2af6cd21222c"
+    "hash": "19976f3eb1e8569fae9404df904fba9b"
   },
   {
     "name": "IT Home",
@@ -135,6 +123,6 @@
     "category": "数码",
     "type": "js",
     "url": "js/ithome.js",
-    "hash": "d3495e33bd7ed60e1a5a1eec0e26d890"
+    "hash": "75375d0790b31957872ed44aa79d4b83"
   }
 ]

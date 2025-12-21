@@ -54,7 +54,16 @@ async function getFeeds(page, {category, extra, filter}) {
   };
 }
 
+
+async function getFeedDetail(feed) {
+    return {
+        content: feed.url,
+        type: "webpage"
+    };
+}
+
 module.exports = {
+    getFeedDetail,
     name: "Civitai Models",
     description: "Civitai 最新发布的 AI 模型。",
     author: "Civitai",

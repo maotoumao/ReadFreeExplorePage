@@ -103,7 +103,16 @@ async function getFeeds(page, {category, extra, filter}) {
     };
 }
 
+
+async function getFeedDetail(feed) {
+    return {
+        content: feed.url,
+        type: "webpage"
+    };
+}
+
 module.exports = {
+    getFeedDetail,
     name: "cnBeta 头条",
     description: "cnBeta 科技新闻头条。",
     author: "cnBeta",

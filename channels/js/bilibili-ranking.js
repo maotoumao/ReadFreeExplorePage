@@ -83,7 +83,16 @@ async function getFeeds(page, {category, extra, filter}) {
     };
 }
 
+
+async function getFeedDetail(feed) {
+    return {
+        content: feed.url,
+        type: "webpage"
+    };
+}
+
 module.exports = {
+    getFeedDetail,
     name: "哔哩哔哩排行榜",
     description: "Bilibili 热门视频排行榜。",
     author: "Bilibili",

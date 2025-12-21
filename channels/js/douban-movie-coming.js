@@ -58,7 +58,16 @@ async function getFeeds(page, {category, extra, filter}) {
     };
 }
 
+
+async function getFeedDetail(feed) {
+    return {
+        content: feed.url,
+        type: "webpage"
+    };
+}
+
 module.exports = {
+    getFeedDetail,
     name: "豆瓣电影即将上映",
     description: "豆瓣电影即将上映列表。",
     author: "Douban",

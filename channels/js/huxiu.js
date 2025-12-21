@@ -96,7 +96,16 @@ async function getFeeds(page, {category, extra, filter}) {
     };
 }
 
+
+async function getFeedDetail(feed) {
+    return {
+        content: feed.url,
+        type: "webpage"
+    };
+}
+
 module.exports = {
+    getFeedDetail,
     name: "虎嗅资讯",
     description: "虎嗅网商业资讯。",
     author: "Huxiu",

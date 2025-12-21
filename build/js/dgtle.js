@@ -94,7 +94,16 @@ async function getFeeds(page, {category, extra, filter}) {
     };
 }
 
+
+async function getFeedDetail(feed) {
+    return {
+        content: feed.url,
+        type: "webpage"
+    };
+}
+
 module.exports = {
+    getFeedDetail,
     name: "数字尾巴鲸闻",
     description: "数字尾巴 DGTLE 鲸闻资讯。",
     author: "DGTLE",

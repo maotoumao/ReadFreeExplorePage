@@ -45,7 +45,16 @@ async function getFeeds(page, {category, extra, filter}) {
   };
 }
 
+
+async function getFeedDetail(feed) {
+    return {
+        content: feed.url,
+        type: "webpage"
+    };
+}
+
 module.exports = {
+    getFeedDetail,
     name: "差评快讯",
     description: "差评快讯 - 科技资讯。",
     author: "Chaping",

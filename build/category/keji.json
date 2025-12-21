@@ -90,7 +90,7 @@
     "category": "科技",
     "type": "js",
     "url": "js/36kr.js",
-    "hash": "ea053eb8158b74666617438c4a447e3d"
+    "hash": "ea7cf425b5a797c222f886f0c192f0a8"
   },
   {
     "name": "差评快讯",
@@ -102,7 +102,7 @@
     "category": "科技",
     "type": "js",
     "url": "js/chaping-newsflash.js",
-    "hash": "0440d2f3e42c7363be7a95161b19436c"
+    "hash": "653dcfd902e424182adc3b61f7725737"
   },
   {
     "name": "极客公园",
@@ -114,7 +114,7 @@
     "category": "科技",
     "type": "js",
     "url": "js/geekpark.js",
-    "hash": "78c82d8fca560f68b2c75f955b650af7"
+    "hash": "ce08d34933acec6ea2640b44d05c3815"
   },
   {
     "name": "果壳网科学人",
@@ -126,7 +126,7 @@
     "category": "科技",
     "type": "js",
     "url": "js/guokr.js",
-    "hash": "a9174e97d12a432f2b8b35eb583b1b9b"
+    "hash": "0bf224f90cf5e4036ae303ba535a1856"
   },
   {
     "name": "Hacker News",
@@ -138,6 +138,6 @@
     "category": "科技",
     "type": "js",
     "url": "js/hackernews.js",
-    "hash": "9884eb47dd5379712706088b9a96c978"
+    "hash": "5c079b919126125b31d50e9ff3bb5590"
   }
 ]

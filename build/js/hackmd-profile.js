@@ -38,7 +38,16 @@ async function getFeeds(page, {category, extra, filter}) {
     };
 }
 
+
+async function getFeedDetail(feed) {
+    return {
+        content: feed.url,
+        type: "webpage"
+    };
+}
+
 module.exports = {
+    getFeedDetail,
     name: "HackMD Profile",
     description: "HackMD 用户/团队 Profile 文档",
     author: "HackMD",

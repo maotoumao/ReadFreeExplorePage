@@ -49,7 +49,16 @@ async function getFeeds(page, {category, extra, filter}) {
   };
 }
 
+
+async function getFeedDetail(feed) {
+    return {
+        content: feed.url,
+        type: "webpage"
+    };
+}
+
 module.exports = {
+    getFeedDetail,
     name: "HelloGitHub",
     description: "HelloGitHub 开源项目推荐。",
     author: "HelloGitHub",

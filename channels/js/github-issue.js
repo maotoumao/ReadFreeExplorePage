@@ -83,7 +83,16 @@ async function getFeeds(page, {category, extra, filter}) {
     };
 }
 
+
+async function getFeedDetail(feed) {
+    return {
+        content: feed.url,
+        type: "webpage"
+    };
+}
+
 module.exports = {
+    getFeedDetail,
     name: "GitHub Issues",
     description: "GitHub 仓库 Issues",
     author: "GitHub",

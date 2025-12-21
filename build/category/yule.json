@@ -26,7 +26,7 @@
     "category": "娱乐",
     "type": "js",
     "url": "js/bilibili-ranking.js",
-    "hash": "d8f8c3885256b95b49541c6de0c1843c"
+    "hash": "ef672f6634131a6f4db60fee49bb8503"
   },
   {
     "name": "DLsite 最新作品",
@@ -38,7 +38,7 @@
     "category": "娱乐",
     "type": "js",
     "url": "js/dlsite-new.js",
-    "hash": "65802f8acf758502b34e4aed3556ff68"
+    "hash": "374696437652c6640ffaf518490f39fb"
   },
   {
     "name": "动漫之家新闻",
@@ -50,7 +50,7 @@
     "category": "娱乐",
     "type": "js",
     "url": "js/dmzj-news.js",
-    "hash": "49686ed594c7a142165c911a6612402a"
+    "hash": "5c1e6afb001aecba8ca17d6341ce2216"
   },
   {
     "name": "豆瓣电影即将上映",
@@ -62,7 +62,7 @@
     "category": "娱乐",
     "type": "js",
     "url": "js/douban-movie-coming.js",
-    "hash": "7ec8059b989c6f201fc6144f6738582d"
+    "hash": "617813308fac8c2da0cfe54b4bf1e22a"
   },
   {
     "name": "豆瓣电影北美票房榜",
@@ -74,7 +74,7 @@
     "category": "娱乐",
     "type": "js",
     "url": "js/douban-ustop.js",
-    "hash": "bc40a237ac3109b251b9cb6abd9ede0e"
+    "hash": "a711899a477eac76c479b315143b2691"
   },
   {
     "name": "Fur Affinity Browse",
@@ -86,7 +86,7 @@
     "category": "娱乐",
     "type": "js",
     "url": "js/furaffinity-browse.js",
-    "hash": "45d48b345011e8fee42bd7ef9ecf5a14"
+    "hash": "051b6888f7b5af51af1889fcd536c962"
   },
   {
     "name": "Fur Affinity Home",
@@ -98,7 +98,7 @@
     "category": "娱乐",
     "type": "js",
     "url": "js/furaffinity-home.js",
-    "hash": "89be99ecb042509f8e6e1313aabc8c4e"
+    "hash": "e52d31448fe6a841e920a4fd4bb3c311"
   },
   {
     "name": "Konachan",
@@ -110,6 +110,6 @@
     "category": "娱乐",
     "type": "js",
     "url": "js/konachan.js",
-    "hash": "9972d15b288f1c4c97c746387da72842"
+    "hash": "8005d33ebce61ef21603884f842d35cc"
   }
 ]

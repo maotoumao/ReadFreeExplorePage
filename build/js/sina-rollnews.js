@@ -91,7 +91,16 @@ async function getFeeds(page, {category, extra, filter}) {
     };
 }
 
+
+async function getFeedDetail(feed) {
+    return {
+        content: feed.url,
+        type: "webpage"
+    };
+}
+
 module.exports = {
+    getFeedDetail,
     name: "新浪滚动新闻",
     description: "新浪新闻滚动频道，提供最新的即时新闻资讯。",
     author: "Sina",

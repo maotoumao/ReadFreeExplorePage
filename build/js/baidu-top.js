@@ -67,7 +67,16 @@ async function getFeeds(page, {category, extra, filter}) {
     };
 }
 
+
+async function getFeedDetail(feed) {
+    return {
+        content: feed.url,
+        type: "webpage"
+    };
+}
+
 module.exports = {
+    getFeedDetail,
     name: "百度热搜榜单",
     description: "百度实时热搜榜单。",
     author: "Baidu",
