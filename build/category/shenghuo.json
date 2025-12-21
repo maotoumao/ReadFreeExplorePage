@@ -97,5 +97,14 @@
     "description": "医学家、预防医学家、医学教育家、公益助医志愿者——胡大一大夫健康知识传播自媒体。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
     "version": "1.0",
     "hash": "1407375e77705dbf500151c526c49dba"
+  },
+  {
+    "name": "上海器审",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/7a292852e873eabf64cc2b76e0d883bae4306517.xml",
+    "category": "生活",
+    "description": "上海市医疗器械化妆品审评核查中心官方公众号，提供新闻报道、政策法规、答疑解惑、企业服务等功能。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "49a1cd0edbc3d81cb32a51cb5616fe0d"
   }
 ]

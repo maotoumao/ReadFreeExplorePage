@@ -2,7 +2,7 @@
   {
     "name": "今日话题 - 雪球",
     "type": "rss",
-    "category": "金融",
+    "category": "金融与投资",
     "url": "https://xueqiu.com/hots/topic/rss",
     "description": "雪球是一个社交投资网络，「今日话题」是雪球用户每日发布的投资交流精选。",
     "version": "1.0",
@@ -12,7 +12,7 @@
     "name": "也谈钱",
     "type": "rss",
     "url": "https://wechat2rss.xlab.app/feed/f2fd5af8dc3590b99509f0c501de09066d063028.xml",
-    "category": "金融",
+    "category": "金融与投资",
     "description": "一枚工程师的财务自由日志，工资理财也能财务自由。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
     "version": "1.0",
     "hash": "75b243535f2b6887480dcfc333c9ff9d"
@@ -21,7 +21,7 @@
     "name": "长赢指数投资",
     "type": "rss",
     "url": "https://wechat2rss.xlab.app/feed/1f35edb36dfda13906f958fc3047e59ce9c234fe.xml",
-    "category": "金融",
+    "category": "金融与投资",
     "description": "指数化投资适合绝大多数人。利用市场估值与投资者情绪的变化，对指数长期持有，低买高卖，是普通投资者在资本市场获得财富的最佳方式。本公众号定期给出投资指数ETF的建议，过往投资成绩出色，值得你拥有。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
     "version": "1.0",
     "hash": "0de810ae955a714f8390848102d5de6d"
@@ -30,7 +30,7 @@
     "name": "辉哥奇谭",
     "type": "rss",
     "url": "https://wechat2rss.xlab.app/feed/1b01bd297483509251779f1a02bb90223786a923.xml",
-    "category": "金融",
+    "category": "金融与投资",
     "description": "和我一起，探索财富与精神自由之路 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
     "version": "1.0",
     "hash": "b151e8dd0f75cdc65ade800225812dbf"
@@ -39,7 +39,7 @@
     "name": "集思录",
     "type": "rss",
     "url": "https://wechat2rss.xlab.app/feed/f75bbb0bffd9fd6e0dda725282202ccc23a2bdff.xml",
-    "category": "金融",
+    "category": "金融与投资",
     "description": "投资理财社区 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
     "version": "1.0",
     "hash": "76d8612aaf36929d9a303e4943e24c3e"
@@ -48,7 +48,7 @@
     "name": "思想钢印",
     "type": "rss",
     "url": "https://wechat2rss.xlab.app/feed/a55006fab25a17c43a412246fda317822609f2ea.xml",
-    "category": "金融",
+    "category": "金融与投资",
     "description": "雪球2020年度十大影响力用户，私募基金经理 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
     "version": "1.0",
     "hash": "23561f28fbc470c86d1f4333b0eebc35"

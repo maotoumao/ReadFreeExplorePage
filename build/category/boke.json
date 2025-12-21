@@ -2,7 +2,7 @@
   {
     "name": "阮一峰的网络日志",
     "type": "rss",
-    "category": "博客",
+    "category": "独立博客",
     "url": "https://www.ruanyifeng.com/blog/atom.xml",
     "description": "Ruan YiFeng's Blog",
     "version": "1.0",
@@ -11,7 +11,7 @@
   {
     "name": "胡涂说",
     "type": "rss",
-    "category": "博客",
+    "category": "独立博客",
     "url": "https://hutusi.com/feed.xml",
     "description": "hutusi.com",
     "version": "1.0",
@@ -20,7 +20,7 @@
   {
     "name": "oldj's blog",
     "type": "rss",
-    "category": "博客",
+    "category": "独立博客",
     "url": "https://oldj.net/feed",
     "description": "老杰的博客",
     "version": "1.0",
@@ -29,7 +29,7 @@
   {
     "name": "Randy's Blog",
     "type": "rss",
-    "category": "博客",
+    "category": "独立博客",
     "url": "https://lutaonan.com/rss.xml",
     "description": "About life, technology and reading",
     "version": "1.0",
@@ -38,7 +38,7 @@
   {
     "name": "晚晴幽草轩",
     "type": "rss",
-    "category": "博客",
+    "category": "独立博客",
     "url": "https://www.jeffjade.com/atom.xml",
     "description": "It's only too late if you decide it is. Get busy living. or get busy dying!",
     "version": "1.0",
@@ -47,7 +47,7 @@
   {
     "name": "木遥的窗子",
     "type": "rss",
-    "category": "博客",
+    "category": "独立博客",
     "url": "http://blog.farmostwood.net/feed",
     "description": "Life is a complex with real and imaginary parts.",
     "version": "1.0",
@@ -56,7 +56,7 @@
   {
     "name": "Xuanwo's Blog",
     "type": "rss",
-    "category": "博客",
+    "category": "独立博客",
     "url": "https://xuanwo.io/index.xml",
     "description": "Recent content on Xuanwo's Blog",
     "version": "1.0",
@@ -65,7 +65,7 @@
   {
     "name": "扯氮集",
     "type": "rss",
-    "category": "博客",
+    "category": "独立博客",
     "url": "http://weiwuhui.com/feed",
     "description": "多歧为贵 不取苟同",
     "version": "1.0",
@@ -74,7 +74,7 @@
   {
     "name": "Halfrost's Field",
     "type": "rss",
-    "category": "博客",
+    "category": "独立博客",
     "url": "http://halfrost.com/rss/",
     "description": "Explore in every moment of the hard thinking",
     "version": "1.0",
@@ -83,7 +83,7 @@
   {
     "name": "唐巧的博客",
     "type": "rss",
-    "category": "博客",
+    "category": "独立博客",
     "url": "http://blog.devtang.com/atom.xml",
     "description": "记录下自己学习的点滴",
     "version": "1.0",
@@ -92,7 +92,7 @@
   {
     "name": "小胡子哥的个人网站",
     "type": "rss",
-    "category": "博客",
+    "category": "独立博客",
     "url": "http://www.barretlee.com/rss2.xml",
     "description": "一个有趣的灵魂 —— 想法，随笔，思考，感叹，瞬间，笔记...",
     "version": "1.0",
@@ -101,7 +101,7 @@
   {
     "name": "小球飞鱼",
     "type": "rss",
-    "category": "博客",
+    "category": "独立博客",
     "url": "https://mantyke.icu/index.xml",
     "description": "Recent content on 小球飞鱼",
     "version": "1.0",
@@ -110,7 +110,7 @@
   {
     "name": "王登科-DK博客",
     "type": "rss",
-    "category": "博客",
+    "category": "独立博客",
     "url": "https://greatdk.com/feed",
     "description": "记录产品思考与生活。",
     "version": "1.0",
@@ -119,7 +119,7 @@
   {
     "name": "涛叔",
     "type": "rss",
-    "category": "博客",
+    "category": "独立博客",
     "url": "https://taoshu.in/feed.xml",
     "description": "记录技术与生活的个人博客。",
     "version": "1.0",
@@ -128,7 +128,7 @@
   {
     "name": "西秦公子",
     "type": "rss",
-    "category": "博客",
+    "category": "独立博客",
     "url": "https://www.ixiqin.com/feed/",
     "description": "Just Keep Shipping",
     "version": "1.0",
@@ -137,22 +137,10 @@
   {
     "name": "Phoenix's island",
     "type": "rss",
-    "category": "博客",
+    "category": "独立博客",
     "url": "https://blog.phoenixlzx.com/atom.xml",
     "description": "Sun will shine on the horizon.",
     "version": "1.0",
     "hash": "cdd35cc41e2586f852ab02a1ac79f0a8"
-  },
-  {
-    "identifier": "blog.catcat.work",
-    "name": "猫头猫的博客",
-    "description": "猫头猫的个人博客",
-    "siteUrl": "https://blog.catcat.work/",
-    "version": "1.0.0",
-    "category": "博客",
-    "allowDuplicate": false,
-    "type": "js",
-    "url": "js/catcat-blog.js",
-    "hash": "9f544f8758c8d5327a27e93aafa11382"
   }
 ]

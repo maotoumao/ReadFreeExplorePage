@@ -1,8 +1,8 @@
-[
+﻿[
     {
         "name": "知乎每日精选",
         "type": "rss",
-        "category": "阅读",
+        "category": "yuedu",
         "url": "https://www.zhihu.com/rss",
         "description": "知乎社区每日精选问答。"
     },
@@ -37,21 +37,21 @@
     {
         "name": "机核",
         "type": "rss",
-        "category": "youxi",
+        "category": "shuma",
         "url": "https://www.gcores.com/rss",
         "description": "不止是游戏"
     },
     {
         "name": "奇客Solidot",
         "type": "rss",
-        "category": "科技",
+        "category": "keji",
         "url": "https://www.solidot.org/index.rss",
         "description": "奇客的知识，重要的东西。"
     },
     {
         "name": "云风的 BLOG",
         "type": "rss",
-        "category": "开发",
+        "category": "kaifa",
         "url": "http://blog.codingnow.com/atom.xml",
         "description": "思绪来得快去得也快，偶尔会在这里停留"
     },
@@ -114,7 +114,7 @@
     {
         "name": "胡涂说",
         "type": "rss",
-        "category": "博客",
+        "category": "boke",
         "url": "https://hutusi.com/feed.xml",
         "description": "hutusi.com"
     },
@@ -128,7 +128,7 @@
     {
         "name": "Randy's Blog",
         "type": "rss",
-        "category": "博客",
+        "category": "boke",
         "url": "https://lutaonan.com/rss.xml",
         "description": "About life, technology and reading"
     },
@@ -149,14 +149,14 @@
     {
         "name": "晚晴幽草轩",
         "type": "rss",
-        "category": "博客",
+        "category": "boke",
         "url": "https://www.jeffjade.com/atom.xml",
         "description": "It's only too late if you decide it is. Get busy living. or get busy dying!"
     },
     {
         "name": "IT之家",
         "type": "rss",
-        "category": "科技",
+        "category": "keji",
         "url": "https://www.ithome.com/rss/",
         "description": "IT之家 - 软媒旗下网站"
     },
@@ -184,7 +184,7 @@
     {
         "name": "卡瓦邦噶！",
         "type": "rss",
-        "category": "开发",
+        "category": "kaifa",
         "url": "https://www.kawabangga.com/feed",
         "description": "无法自制的人得不到自由。"
     },
@@ -212,7 +212,7 @@
     {
         "name": "木遥的窗子",
         "type": "rss",
-        "category": "博客",
+        "category": "boke",
         "url": "http://blog.farmostwood.net/feed",
         "description": "Life is a complex with real and imaginary parts."
     },
@@ -247,14 +247,14 @@
     {
         "name": "maxOS",
         "type": "rss",
-        "category": "科技",
+        "category": "keji",
         "url": "https://maxoxo.me/rss/",
         "description": "Eventually everything connects - people, ideas, objects."
     },
     {
         "name": "游戏研究社",
         "type": "rss",
-        "category": "youxi",
+        "category": "shuma",
         "url": "https://www.yystv.cn/rss/feed",
         "description": "无论你是游戏死忠，还是轻度的休闲玩家，在这里都能找到感兴趣的东西。"
     },
@@ -275,7 +275,7 @@
     {
         "name": "GeekPlux",
         "type": "rss",
-        "category": "sheji",
+        "category": "kaifa",
         "url": "https://geekplux.com/feed.xml",
         "description": "Data Visualization & Full-stack programmer, always exploring"
     },
@@ -310,7 +310,7 @@
     {
         "name": "Xuanwo's Blog",
         "type": "rss",
-        "category": "博客",
+        "category": "boke",
         "url": "https://xuanwo.io/index.xml",
         "description": "Recent content on Xuanwo's Blog"
     },
@@ -324,14 +324,14 @@
     {
         "name": "扯氮集",
         "type": "rss",
-        "category": "博客",
+        "category": "boke",
         "url": "http://weiwuhui.com/feed",
         "description": "多歧为贵 不取苟同"
     },
     {
         "name": "Halfrost's Field",
         "type": "rss",
-        "category": "博客",
+        "category": "boke",
         "url": "http://halfrost.com/rss/",
         "description": "Explore in every moment of the hard thinking"
     },
@@ -345,7 +345,7 @@
     {
         "name": "二丫讲梵",
         "type": "rss",
-        "category": "开发",
+        "category": "kaifa",
         "url": "https://wiki.eryajf.net/rss.xml",
         "description": "💻学习📝记录🔗分享 学无止境是永远前进的基础，跃然纸上是对知识的总结交代，与众分享则是实现价值的最好方式。"
     },
@@ -387,7 +387,7 @@
     {
         "name": "奔跑中的奶酪",
         "type": "rss",
-        "category": "科技",
+        "category": "keji",
         "url": "https://www.runningcheese.com/feed",
         "description": "有智，有趣，有爱"
     },
@@ -415,7 +415,7 @@
     {
         "name": "钛媒体",
         "type": "rss",
-        "category": "kaifa",
+        "category": "shangye",
         "url": "https://www.tmtpost.com/feed",
         "description": "钛媒体致力于成为全球财经科技信息服务平台，形成了“新媒体、全球技术专家网络、科技IP与创意产品服务、科技股数据服务”四大业务板块和“钛媒体国际”业务布局，现已成为国际领先、国内极具影响力的财经信息服务商和新媒体标杆之一。"
     },
@@ -443,14 +443,14 @@
     {
         "name": "小球飞鱼",
         "type": "rss",
-        "category": "博客",
+        "category": "boke",
         "url": "https://mantyke.icu/index.xml",
         "description": "Recent content on 小球飞鱼"
     },
     {
         "name": "触乐",
         "type": "rss",
-        "category": "youxi",
+        "category": "shuma",
         "url": "http://www.chuapp.com/feed",
         "description": "高品质、有价值、有趣的移动游戏资讯"
     },
@@ -464,7 +464,7 @@
     {
         "name": "人人都是产品经理",
         "type": "rss",
-        "category": "商业",
+        "category": "shangye",
         "url": "https://www.woshipm.com/feed",
         "description": "产品经理、产品爱好者学习交流平台"
     },
@@ -485,7 +485,7 @@
     {
         "name": "优设-UISDC",
         "type": "rss",
-        "category": "sheji",
+        "category": "kaifa",
         "url": "http://www.uisdc.com/feed",
         "description": "设计师学习与交流平台。"
     },
@@ -506,21 +506,21 @@
     {
         "name": "西秦公子",
         "type": "rss",
-        "category": "博客",
+        "category": "boke",
         "url": "https://www.ixiqin.com/feed/",
         "description": "Just Keep Shipping"
     },
     {
         "name": "Tiny Projects",
         "type": "rss",
-        "category": "开发",
+        "category": "kaifa",
         "url": "https://tinyprojects.dev/feed.xml",
         "description": "Making one tiny project each week 💡"
     },
     {
         "name": "Phoenix's island",
         "type": "rss",
-        "category": "博客",
+        "category": "boke",
         "url": "https://blog.phoenixlzx.com/atom.xml",
         "description": "Sun will shine on the horizon."
     },
