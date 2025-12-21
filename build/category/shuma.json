@@ -99,7 +99,7 @@
     "category": "数码",
     "type": "js",
     "url": "js/dgtle.js",
-    "hash": "d2ecc9d4015fdb894aeda17f777183a4"
+    "hash": "b059066c0a03fad8dfcaa32a5c70a8d7"
   },
   {
     "name": "爱范儿",
@@ -111,7 +111,7 @@
     "category": "数码",
     "type": "js",
     "url": "js/ifanr.js",
-    "hash": "19976f3eb1e8569fae9404df904fba9b"
+    "hash": "89511eb2b25e57cb4ee2982bc607890c"
   },
   {
     "name": "IT Home",
@@ -123,6 +123,6 @@
     "category": "数码",
     "type": "js",
     "url": "js/ithome.js",
-    "hash": "75375d0790b31957872ed44aa79d4b83"
+    "hash": "41ead7d08b7939c951fc6b21ce30bf32"
   }
 ]

@@ -81,7 +81,6 @@ async function getFeeds(page, {category, extra, filter}) {
 async function getFeedDetail(feed) {
     return {
         content: feed.url,
-        type: "webpage"
     };
 }
 

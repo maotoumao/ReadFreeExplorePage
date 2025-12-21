@@ -17,42 +17,6 @@
     "hash": "5e6247b6f17742d8311f0fa96b6c7462"
   },
   {
-    "name": "哔哩哔哩排行榜",
-    "description": "Bilibili 热门视频排行榜。",
-    "author": "Bilibili",
-    "logo": "https://www.bilibili.com/favicon.ico",
-    "siteUrl": "https://www.bilibili.com/",
-    "version": "1.0.0",
-    "category": "娱乐",
-    "type": "js",
-    "url": "js/bilibili-ranking.js",
-    "hash": "ef672f6634131a6f4db60fee49bb8503"
-  },
-  {
-    "name": "DLsite 最新作品",
-    "description": "DLsite 各类最新作品。",
-    "author": "DLsite",
-    "logo": "https://www.dlsite.com/favicon.ico",
-    "siteUrl": "https://www.dlsite.com/",
-    "version": "1.0.0",
-    "category": "娱乐",
-    "type": "js",
-    "url": "js/dlsite-new.js",
-    "hash": "374696437652c6640ffaf518490f39fb"
-  },
-  {
-    "name": "动漫之家新闻",
-    "description": "动漫之家新闻资讯。",
-    "author": "DMZJ",
-    "logo": "https://news.dmzj.com/favicon.ico",
-    "siteUrl": "https://news.dmzj.com/",
-    "version": "1.0.0",
-    "category": "娱乐",
-    "type": "js",
-    "url": "js/dmzj-news.js",
-    "hash": "5c1e6afb001aecba8ca17d6341ce2216"
-  },
-  {
     "name": "豆瓣电影即将上映",
     "description": "豆瓣电影即将上映列表。",
     "author": "Douban",
@@ -62,19 +26,7 @@
     "category": "娱乐",
     "type": "js",
     "url": "js/douban-movie-coming.js",
-    "hash": "617813308fac8c2da0cfe54b4bf1e22a"
-  },
-  {
-    "name": "豆瓣电影北美票房榜",
-    "description": "豆瓣电影北美票房榜。",
-    "author": "Douban",
-    "logo": "https://img3.doubanio.com/favicon.ico",
-    "siteUrl": "https://movie.douban.com/chart",
-    "version": "1.0.0",
-    "category": "娱乐",
-    "type": "js",
-    "url": "js/douban-ustop.js",
-    "hash": "a711899a477eac76c479b315143b2691"
+    "hash": "8320f6d9d3f9fae4079763273cbbe7eb"
   },
   {
     "name": "Fur Affinity Browse",
@@ -86,7 +38,7 @@
     "category": "娱乐",
     "type": "js",
     "url": "js/furaffinity-browse.js",
-    "hash": "051b6888f7b5af51af1889fcd536c962"
+    "hash": "0eb24ded6e359825bd1a8fb778e948a3"
   },
   {
     "name": "Fur Affinity Home",
@@ -98,18 +50,6 @@
     "category": "娱乐",
     "type": "js",
     "url": "js/furaffinity-home.js",
-    "hash": "e52d31448fe6a841e920a4fd4bb3c311"
-  },
-  {
-    "name": "Konachan",
-    "description": "Konachan 近期热门图片",
-    "author": "Konachan",
-    "logo": "https://konachan.net/favicon.ico",
-    "siteUrl": "https://konachan.net",
-    "version": "1.0.0",
-    "category": "娱乐",
-    "type": "js",
-    "url": "js/konachan.js",
-    "hash": "8005d33ebce61ef21603884f842d35cc"
+    "hash": "b5021f32d3d26b9dd1118f90c170cd43"
   }
 ]

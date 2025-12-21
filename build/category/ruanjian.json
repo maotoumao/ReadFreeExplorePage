@@ -360,18 +360,6 @@
     "hash": "6e116a2f8b520d020829a7f96c691de4"
   },
   {
-    "name": "AppStore 限免应用",
-    "description": "AppSo 每日精品限免/促销应用。",
-    "author": "AppSo",
-    "logo": "https://app.so/favicon.ico",
-    "siteUrl": "http://app.so/xianmian/",
-    "version": "1.0.0",
-    "category": "软件",
-    "type": "js",
-    "url": "js/appstore-xianmian.js",
-    "hash": "7800877f2038875f15395b51ef995bc6"
-  },
-  {
     "identifier": "tools.v1v.kinship",
     "name": "猫头猫小工具",
     "description": "猫头猫做的小工具合集",

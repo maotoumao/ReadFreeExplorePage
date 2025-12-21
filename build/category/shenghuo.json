@@ -90,18 +90,6 @@
     "hash": "49a1cd0edbc3d81cb32a51cb5616fe0d"
   },
   {
-    "name": "百度热搜榜单",
-    "description": "百度实时热搜榜单。",
-    "author": "Baidu",
-    "logo": "https://www.baidu.com/favicon.ico",
-    "siteUrl": "https://top.baidu.com/",
-    "version": "1.0.0",
-    "category": "生活",
-    "type": "js",
-    "url": "js/baidu-top.js",
-    "hash": "bbc882fabf4cb2f30d82deecd50daf13"
-  },
-  {
     "name": "Bing 每日壁纸",
     "description": "Bing 每日壁纸更新。",
     "author": "Microsoft",
@@ -111,19 +99,7 @@
     "category": "生活",
     "type": "js",
     "url": "js/bing-wallpaper.js",
-    "hash": "ff0775da656d3baffc3b57bf26e1185f"
-  },
-  {
-    "name": "中国地震台网",
-    "description": "中国地震台网地震信息。",
-    "author": "CEIC",
-    "logo": "http://www.ceic.ac.cn/favicon.ico",
-    "siteUrl": "http://www.ceic.ac.cn/",
-    "version": "1.0.0",
-    "category": "生活",
-    "type": "js",
-    "url": "js/earthquake-ceic.js",
-    "hash": "c911834dac250812fbaff3f3a0902b03"
+    "hash": "cf2ca34403518173aac19ee7864901ae"
   },
   {
     "name": "Hupu BBS",
@@ -135,7 +111,7 @@
     "category": "生活",
     "type": "js",
     "url": "js/hupu.js",
-    "hash": "a1496650fb880f773191488eb4392789"
+    "hash": "f03dad0416583601fe885ba37855600f"
   },
   {
     "name": "新浪滚动新闻",
@@ -147,6 +123,6 @@
     "category": "生活",
     "type": "js",
     "url": "js/sina-rollnews.js",
-    "hash": "a4a7e613df4a9341baa3aaf36cf06b62"
+    "hash": "337ab1b15bd627bced2e335aa029cb0d"
   }
 ]

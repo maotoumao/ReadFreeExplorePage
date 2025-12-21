@@ -90,19 +90,7 @@
     "category": "科技",
     "type": "js",
     "url": "js/36kr.js",
-    "hash": "ea7cf425b5a797c222f886f0c192f0a8"
-  },
-  {
-    "name": "差评快讯",
-    "description": "差评快讯 - 科技资讯。",
-    "author": "Chaping",
-    "logo": "https://chaping.cn/favicon.ico",
-    "siteUrl": "https://chaping.cn/newsflash",
-    "version": "1.0.0",
-    "category": "科技",
-    "type": "js",
-    "url": "js/chaping-newsflash.js",
-    "hash": "653dcfd902e424182adc3b61f7725737"
+    "hash": "bef6e8152a13e741af1e9fb47d1d9eda"
   },
   {
     "name": "极客公园",
@@ -114,7 +102,7 @@
     "category": "科技",
     "type": "js",
     "url": "js/geekpark.js",
-    "hash": "ce08d34933acec6ea2640b44d05c3815"
+    "hash": "d6528b413d4a92bd5b1112b7516ed77a"
   },
   {
     "name": "果壳网科学人",
@@ -126,18 +114,6 @@
     "category": "科技",
     "type": "js",
     "url": "js/guokr.js",
-    "hash": "0bf224f90cf5e4036ae303ba535a1856"
-  },
-  {
-    "name": "Hacker News",
-    "description": "Hacker News 科技新闻。",
-    "author": "YCombinator",
-    "logo": "https://news.ycombinator.com/favicon.ico",
-    "siteUrl": "https://news.ycombinator.com/",
-    "version": "1.0.0",
-    "category": "科技",
-    "type": "js",
-    "url": "js/hackernews.js",
-    "hash": "5c079b919126125b31d50e9ff3bb5590"
+    "hash": "82e5b463c2a81435a7d58005c4f4907c"
   }
 ]

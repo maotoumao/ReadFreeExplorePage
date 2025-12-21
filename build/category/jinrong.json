@@ -63,18 +63,6 @@
     "category": "金融与投资",
     "type": "js",
     "url": "js/finviz-news.js",
-    "hash": "3a0b1802fb8b983e640c277ec62a85c4"
-  },
-  {
-    "name": "Odaily Newsflash",
-    "description": "Odaily星球日报快讯",
-    "author": "Odaily",
-    "logo": "https://www.odaily.news/favicon.ico",
-    "siteUrl": "https://www.odaily.news",
-    "version": "1.0.0",
-    "category": "金融与投资",
-    "type": "js",
-    "url": "js/odaily-newsflash.js",
-    "hash": "e0e91eda0f795d4ee9830febe6fc7d96"
+    "hash": "62df78f8960b7e60d2b598bb9d213e29"
   }
 ]

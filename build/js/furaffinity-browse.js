@@ -2,7 +2,6 @@ const axios = require('axios');const modes = {    'sfw': 'Safe',    'nsfw': 'Adu
 async function getFeedDetail(feed) {
     return {
         content: feed.url,
-        type: "webpage"
     };
 }
 

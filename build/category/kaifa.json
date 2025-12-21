@@ -441,18 +441,6 @@
     "hash": "3748d3a32da5758477d8f733f9bf4363"
   },
   {
-    "name": "AWS Blog",
-    "description": "AWS 官方博客更新。",
-    "author": "AWS",
-    "logo": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
-    "siteUrl": "https://aws.amazon.com/blogs/",
-    "version": "1.0.0",
-    "category": "开发与设计",
-    "type": "js",
-    "url": "js/aws-blogs.js",
-    "hash": "3e761910e43251957c004150c680eedf"
-  },
-  {
     "name": "Codeforces Contests",
     "description": "Codeforces 即将开始的比赛。",
     "author": "Codeforces",
@@ -462,7 +450,7 @@
     "category": "开发与设计",
     "type": "js",
     "url": "js/codeforces-contests.js",
-    "hash": "51088f2dfbbbc3cc5f6b69d0936b4271"
+    "hash": "c948fafc728350bb568075089cf357b1"
   },
   {
     "name": "Gitee Releases",
@@ -474,7 +462,7 @@
     "category": "开发与设计",
     "type": "js",
     "url": "js/gitee-releases.js",
-    "hash": "7f193946bde00ce80aa0a0aabf0488bd"
+    "hash": "790e7be8eee7b9e2fb2740e6c4a349ee"
   },
   {
     "name": "GitHub Issues",
@@ -486,31 +474,7 @@
     "category": "开发与设计",
     "type": "js",
     "url": "js/github-issue.js",
-    "hash": "e5904cd62b9e66d24a218f885420a699"
-  },
-  {
-    "name": "Greasyfork Scripts",
-    "description": "Greasyfork 脚本更新。",
-    "author": "Greasyfork",
-    "logo": "https://greasyfork.org/vite/assets/blacklogo96-CxYTSM_T.png",
-    "siteUrl": "https://greasyfork.org/",
-    "version": "1.0.0",
-    "category": "开发与设计",
-    "type": "js",
-    "url": "js/greasyfork.js",
-    "hash": "b35a2319a61893e93158afdea0d623db"
-  },
-  {
-    "name": "HackMD Profile",
-    "description": "HackMD 用户/团队 Profile 文档",
-    "author": "HackMD",
-    "logo": "https://hackmd.io/favicon.png",
-    "siteUrl": "https://hackmd.io",
-    "version": "1.0.0",
-    "category": "开发与设计",
-    "type": "js",
-    "url": "js/hackmd-profile.js",
-    "hash": "ae570d68705a5425985f2284b712bce4"
+    "hash": "0d780e65bb58cde0e99b14ae84f05497"
   },
   {
     "name": "HelloGitHub",
@@ -522,7 +486,7 @@
     "category": "开发与设计",
     "type": "js",
     "url": "js/hellogithub.js",
-    "hash": "4d19c8c383c1b248aaef3930ffb5549f"
+    "hash": "d12745928b9f6f1050597a40de0e3a78"
   },
   {
     "name": "InfoQ",
@@ -534,7 +498,7 @@
     "category": "开发与设计",
     "type": "js",
     "url": "js/infoq.js",
-    "hash": "f49b4e6819fe86f74173772f0af52199"
+    "hash": "b7a5213c86cb2d511bbc9e49fda1f37e"
   },
   {
     "name": "Juejin Trending",
@@ -546,7 +510,7 @@
     "category": "开发与设计",
     "type": "js",
     "url": "js/juejin-trending.js",
-    "hash": "44209d2d5d32e579cc83ca96e267ecc4"
+    "hash": "e021def7ee94928756634f08f7fc13e1"
   },
   {
     "name": "LeetCode CN Daily",
@@ -558,7 +522,7 @@
     "category": "开发与设计",
     "type": "js",
     "url": "js/leetcode-daily-cn.js",
-    "hash": "8ab28bd17c2976e6f7e9d0871608bf1c"
+    "hash": "2eef27129ff585917e386d2c722e9f99"
   },
   {
     "name": "LeetCode Daily",
@@ -570,7 +534,7 @@
     "category": "开发与设计",
     "type": "js",
     "url": "js/leetcode-daily-en.js",
-    "hash": "115eac9ebd3d920c63094db4e5eca460"
+    "hash": "17e5965c8eb78cc1cb0d2a31d7166ed9"
   },
   {
     "name": "Microsoft MCR",
@@ -582,7 +546,7 @@
     "category": "开发与设计",
     "type": "js",
     "url": "js/microsoft-mcr.js",
-    "hash": "64a8fed3285a0288bce3c5322a1b36cc"
+    "hash": "e2448a86aee500058d8710195d1c8d5b"
   },
   {
     "name": "Nowcoder Schedule",
@@ -594,7 +558,7 @@
     "category": "开发与设计",
     "type": "js",
     "url": "js/nowcoder-schedule.js",
-    "hash": "6229bc49314bbdf4f6e9d40688067975"
+    "hash": "4678e4f4a851692c47210dcc5eb0e84d"
   },
   {
     "name": "OSChina",
@@ -606,6 +570,6 @@
     "category": "开发与设计",
     "type": "js",
     "url": "js/oschina.js",
-    "hash": "8393da59e9ce6a7f6ea761d6be0d8ba5"
+    "hash": "9d545fe89039b8ad9e2bf540abd76a67"
   }
 ]

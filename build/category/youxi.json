@@ -9,7 +9,7 @@
     "category": "游戏",
     "type": "js",
     "url": "js/nga-forum.js",
-    "hash": "b9bef87f6aa0fbbe083b157d6e44ba2b"
+    "hash": "8e86d5467c7eae1fe0331537c4fa3ad5"
   },
   {
     "name": "PSNine",
@@ -21,6 +21,6 @@
     "category": "游戏",
     "type": "js",
     "url": "js/psnine-game.js",
-    "hash": "f737c81b7d0aacbb47c5ebfe9d457d87"
+    "hash": "ba7da822707142e944b1ff2a65242083"
   }
 ]
