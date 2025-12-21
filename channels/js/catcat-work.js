@@ -6,6 +6,13 @@ const channel = {
     description: "猫头猫做的小工具合集",
     version: "1.0.0",
     allowDuplicate: false,
+    getCategories(){
+        return [{
+            id: "default",
+            name: "默认",
+            type: "social"
+        }]
+    },
     async getFeeds() {
         const data = [{
             id: "http://tools.v1v.fun/kinship/",
