@@ -16,5 +16,13 @@
     "description": "设计师学习与交流平台。",
     "version": "1.0",
     "hash": "d866534b7d8589c10634764907eca344"
+  },
+  {
+    "name": "阿里云设计中心",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/31e04606d37f684059e23a8fd3e05f1db0186495.xml",
+    "category": "设计",
+    "version": "1.0",
+    "hash": "3748d3a32da5758477d8f733f9bf4363"
   }
 ]

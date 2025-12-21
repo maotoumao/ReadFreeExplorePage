@@ -18,12 +18,11 @@
     "hash": "0fac48a01a1d8c3fafc5a5a154bec50c"
   },
   {
-    "name": "只读",
+    "name": "莫言读书会",
     "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/6324f2c5d7c2413541a11589b64d7fcb63417ff7.xml",
     "category": "阅读",
-    "url": "https://www.rdonly.com/?feed=rss2",
-    "description": "推荐值得阅读的深度文章。",
     "version": "1.0",
-    "hash": "153217ee777692ae8dd6a551f52a5b96"
+    "hash": "4d721e9cb6cf4041f0ff2ffa28efc932"
   }
 ]

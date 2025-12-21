@@ -1,4 +1,4 @@
-[
+﻿[
     {
         "name": "知乎每日精选",
         "type": "rss",
@@ -481,13 +481,6 @@
         "category": "开发",
         "url": "https://antfu.me/feed.xml",
         "description": "Vue 核心团队成员的技术博客。"
-    },
-    {
-        "name": "只读",
-        "type": "rss",
-        "category": "阅读",
-        "url": "https://www.rdonly.com/?feed=rss2",
-        "description": "推荐值得阅读的深度文章。"
     },
     {
         "name": "优设-UISDC",

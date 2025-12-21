@@ -34,9 +34,11 @@ try {
 
     // 创建分类映射：name -> id 和 id -> id
     const categoryMap = {};
+    const categoryIdToNameMap = {};
     categories.forEach(cat => {
         if (cat.id) {
             categoryMap[cat.id] = cat.id;
+            categoryIdToNameMap[cat.id] = cat.name;
         }
         if (cat.name) {
             categoryMap[cat.name] = cat.id;
@@ -58,6 +60,11 @@ try {
         if (!catId) {
             console.warn(`警告: 条目 "${item.name}" (${sourceName}) 的分类 "${catKey}" 未在 categories.json 中找到。归类到 "其他"。`);
             catId = 'qita';
+        }
+
+        // 统一将 category 字段修改为分类名称 (Name)
+        if (categoryIdToNameMap[catId]) {
+            item.category = categoryIdToNameMap[catId];
         }
 
         if (!aggregated[catId]) {

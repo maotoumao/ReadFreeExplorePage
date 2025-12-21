@@ -97,5 +97,197 @@
     "description": "钛媒体致力于成为全球财经科技信息服务平台，形成了“新媒体、全球技术专家网络、科技IP与创意产品服务、科技股数据服务”四大业务板块和“钛媒体国际”业务布局，现已成为国际领先、国内极具影响力的财经信息服务商和新媒体标杆之一。",
     "version": "1.0",
     "hash": "c4fb967a0f9149a27e24c0051e5114e1"
+  },
+  {
+    "name": "绿盟科技研究通讯",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/21b46d78e363b85d6927970267ecea4904f06bc8.xml",
+    "category": "科技",
+    "version": "1.0",
+    "hash": "4f4a6716515ddf800bfa88d17c1761aa"
+  },
+  {
+    "name": "xray社区",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/19e49fc43c29d227aed74edba9830e7e1c71161e.xml",
+    "category": "科技",
+    "version": "1.0",
+    "hash": "3a64bc744bcea3608641589fd619ac46"
+  },
+  {
+    "name": "绿盟科技金融事业部",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/0628f5f1764e0d79813846e7706daef229f464a7.xml",
+    "category": "科技",
+    "version": "1.0",
+    "hash": "d81b9d25781b482742e07aa6c4af1918"
+  },
+  {
+    "name": "慢雾科技",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/9e9c3c70e598266a1ac993e50458a10a6d853eb7.xml",
+    "category": "科技",
+    "version": "1.0",
+    "hash": "d2825229093864146e75edd3dbc3debe"
+  },
+  {
+    "name": "leveryd",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/742b34be22c0c323804fa9b541aa717571cd8147.xml",
+    "category": "科技",
+    "version": "1.0",
+    "hash": "ea543acfb62e1047fcc09f4ddadd6706"
+  },
+  {
+    "name": "GeekPwn",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/8704aa7fd3c472f8c3bbe3c2b553ce9810326202.xml",
+    "category": "科技",
+    "version": "1.0",
+    "hash": "8aef307b82d3a081b6564a1b1930580a"
+  },
+  {
+    "name": "极客公园",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/1a5aec98e71c707c8ca092bc2c255b9d4bac477d.xml",
+    "category": "科技",
+    "version": "1.0",
+    "hash": "32a2e732715afb346eae5e6cca262f89"
+  },
+  {
+    "name": "星阑科技",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/9b29dedffda96370d7cabfb50c7051efbeaa2554.xml",
+    "category": "科技",
+    "version": "1.0",
+    "hash": "6e70bb617b15461bdf5c2c32a4b8c8f2"
+  },
+  {
+    "name": "长亭科技",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/2b3d1f9d72a621232894fa96b6ddf218aade7a1f.xml",
+    "category": "科技",
+    "version": "1.0",
+    "hash": "e0006282d08267fceb503309291efa2f"
+  },
+  {
+    "name": "默安科技",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/0a0fb079fdb28ad7c49e5a6cbd9cf909c9873d86.xml",
+    "category": "科技",
+    "version": "1.0",
+    "hash": "e5a31d678c3dbd57aad22fd7a01606cb"
+  },
+  {
+    "name": "Viola后花园",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/e666c56abbe20a645da315f389ca6247eed264e2.xml",
+    "category": "科技",
+    "version": "1.0",
+    "hash": "cc5980cada22250576d4579e93457c3b"
+  },
+  {
+    "name": "零鉴科技",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/f7f4ab7bdc8c827727561bd14ed6c26ad0624a6f.xml",
+    "category": "科技",
+    "version": "1.0",
+    "hash": "090cd6165c3fa317f0261c93582e46f7"
+  },
+  {
+    "name": "f undefined",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/5f1bca42a3e1bc932b1e2609abad8c36d9ad37e1.xml",
+    "category": "科技",
+    "version": "1.0",
+    "hash": "393fb96b26b436873ba75c60911da0b4"
+  },
+  {
+    "name": "钱塘门外的互联网散修",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/bf791d6a822e8f48b4f6aa056e42758479362281.xml",
+    "category": "科技",
+    "version": "1.0",
+    "hash": "545996f69d228d82aa873ef639e4b7af"
+  },
+  {
+    "name": "DarkNavy",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/0d4ffa4a2127cb603c2da49daa678b0e780fd66b.xml",
+    "category": "科技",
+    "version": "1.0",
+    "hash": "065891c7a947bbad899929d056959386"
+  },
+  {
+    "name": "机器之心",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/51e92aad2728acdd1fda7314be32b16639353001.xml",
+    "category": "科技",
+    "version": "1.0",
+    "hash": "3e647daba564ed0e398e5d9e88558985"
+  },
+  {
+    "name": "老高的互联网杂谈",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/574587b13c6f60617fc74605702258ddf4aefac6.xml",
+    "category": "科技",
+    "version": "1.0",
+    "hash": "499ce129d0b44b9a48ed91dd79d4e53d"
+  },
+  {
+    "name": "浅黑科技",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/6111a6d5ecf28cfdd4fc9b664244c05ddacef15c.xml",
+    "category": "科技",
+    "version": "1.0",
+    "hash": "23ed163781128f337715724ea4f8f47b"
+  },
+  {
+    "name": "小众软件",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/3261d5a75cfef238650a2cabd4bbf99669c2f334.xml",
+    "category": "科技",
+    "version": "1.0",
+    "hash": "c7b96dd81cb7cc4f23a1e601fa68ce48"
+  },
+  {
+    "name": "路由器评测",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/2fa034e4b97f23d870d5b8e749e805d508761a41.xml",
+    "category": "科技",
+    "version": "1.0",
+    "hash": "2006807081f7fc9e48c32e1536a1e0da"
+  },
+  {
+    "name": "机器学习初学者",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/c5f385197ef56f9345db0daf1e46419af8c7d664.xml",
+    "category": "科技",
+    "version": "1.0",
+    "hash": "7a309b9646cbc4868d7c05a9932374e7"
+  },
+  {
+    "name": "我爱计算机视觉",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/b81ffcfff1107b5265cd7e39de610dc7ca72caf4.xml",
+    "category": "科技",
+    "version": "1.0",
+    "hash": "b83c979ad142af4d0e25a59afd19ee77"
+  },
+  {
+    "name": "夕小瑶科技说",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/a1cd365aa14ed7d64cabfc8aa086da40ecaba34d.xml",
+    "category": "科技",
+    "version": "1.0",
+    "hash": "7e453bd1006bc551ce0312401e71dc12"
+  },
+  {
+    "name": "Datawhale",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/4d620d988cb21cfeefd2263207221f0dc70df9ff.xml",
+    "category": "科技",
+    "version": "1.0",
+    "hash": "5050eae7e819b3d8f9298fb71b824259"
   }
 ]

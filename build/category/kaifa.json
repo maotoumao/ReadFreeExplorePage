@@ -214,5 +214,149 @@
     "description": "Blog",
     "version": "1.0",
     "hash": "d202fee6b38e41e6f41332747eff6142"
+  },
+  {
+    "name": "代码卫士",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/77cfc87fa0e7200d7ef74c8956eca2e44fd6a4ec.xml",
+    "category": "开发",
+    "version": "1.0",
+    "hash": "e738788f0257c443d3a1614ddd5d587c"
+  },
+  {
+    "name": "Red0",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/8c432d74f325c5c6347230d4dc546ecc33c949cd.xml",
+    "category": "开发",
+    "version": "1.0",
+    "hash": "ab37104201d88091ef416011ffcae949"
+  },
+  {
+    "name": "字节跳动技术团队",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/4025ea55575daf8bfd8227e68b28d9638b073267.xml",
+    "category": "开发",
+    "version": "1.0",
+    "hash": "080d1698f98faa9d09029e5a17f372b0"
+  },
+  {
+    "name": "美团技术团队",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/eb4d04149424a874693a51c6fdda0dba8673f5e4.xml",
+    "category": "开发",
+    "version": "1.0",
+    "hash": "7bbcae282eb1fcb58d1eeffa52f977e3"
+  },
+  {
+    "name": "青藤技术服务",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/1063f6d607a637eb0ddc129b58bd081820dd31cb.xml",
+    "category": "开发",
+    "version": "1.0",
+    "hash": "7922af0d7e25f10ee4de959f5a5c0455"
+  },
+  {
+    "name": "技术猫屋",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/c48bba56bd4329af4db5c7b0eacf3d2f1c43c8df.xml",
+    "category": "开发",
+    "version": "1.0",
+    "hash": "bd036b0f792a342de77414c6e99f47f4"
+  },
+  {
+    "name": "LoRexxar自留地",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/629b8dab22be680d1ae8b1b0e597043a7d0757b7.xml",
+    "category": "开发",
+    "version": "1.0",
+    "hash": "08a88c1c7e1868e79a171b72e4b33783"
+  },
+  {
+    "name": "ChainReactor",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/3f75ff947e69e405fc675d0f698988fc56876fc2.xml",
+    "category": "开发",
+    "version": "1.0",
+    "hash": "272c433f7a8a33ea4c044bbdc0dc254c"
+  },
+  {
+    "name": "奇安信技术研究院",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/77a8d89f12dcb0aa75a19731e474a63427089081.xml",
+    "category": "开发",
+    "version": "1.0",
+    "hash": "d89cd4f94cd0261c958c88b0d3e30e19"
+  },
+  {
+    "name": "腾讯技术工程",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/9685937b45fe9c7a526dbc32e4f24ba879a65b9a.xml",
+    "category": "开发",
+    "version": "1.0",
+    "hash": "66a8a3250f66b081f5f2fd7f7c5e5f3d"
+  },
+  {
+    "name": "爱奇艺技术产品团队",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/16a4ec12a83a52e1f6e941bce030a4d64ee26c47.xml",
+    "category": "开发",
+    "version": "1.0",
+    "hash": "766dcc896e7f866906b9d894ff167009"
+  },
+  {
+    "name": "小米技术",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/20bc9c3251b3c4f73d3b53aa1f1ab853d05d4cbc.xml",
+    "category": "开发",
+    "version": "1.0",
+    "hash": "bd63a125166d62f798d2736aaca40e0c"
+  },
+  {
+    "name": "哔哩哔哩技术",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/434235d4815fdb8447ff3127fc053ceb8b3aada6.xml",
+    "category": "开发",
+    "version": "1.0",
+    "hash": "122fcdb0edf4635ae7a46af6e9bfc895"
+  },
+  {
+    "name": "Android 开发者",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/c2e44fa977abf95e4aabdd7059bbb8d1075a4720.xml",
+    "category": "开发",
+    "version": "1.0",
+    "hash": "f05b700d1ff779a389f9b684182ebc06"
+  },
+  {
+    "name": "阿里云开发者",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/c74ed6db00cfbf16f2a048a165b4453f982681f0.xml",
+    "category": "开发",
+    "version": "1.0",
+    "hash": "d447100a3e643ea12525558db0a20c7d"
+  },
+  {
+    "name": "阿里技术",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/6e1f9b775f7a5841ac1a94310f0478b45a02ec01.xml",
+    "category": "开发",
+    "version": "1.0",
+    "hash": "9a49334ee83ebe0bafc02b5575c5d0de"
+  },
+  {
+    "name": "古明地觉的编程教室",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/9e21dbf7a7cca45762bbed43f86cf04f82b23e1a.xml",
+    "category": "开发",
+    "version": "1.0",
+    "hash": "0e2fc55b8d3160bd4817f1ce5d738402"
+  },
+  {
+    "name": "得物技术",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/f3a42bd249ec6e8834ae761d8d0f85a949950944.xml",
+    "category": "开发",
+    "version": "1.0",
+    "hash": "5766912303af8a141710a03c45f96609"
   }
 ]

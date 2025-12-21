@@ -25,5 +25,21 @@
     "description": "让创作成为一种生活方式",
     "version": "1.0",
     "hash": "ed293159ecc2c4d8d47e8fd35ac7920b"
+  },
+  {
+    "name": "bluE0x00",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/9767c848d0a4d5858d8bb565bc762dde94eeeee1.xml",
+    "category": "苹果",
+    "version": "1.0",
+    "hash": "a7183b253d318f31c99a12159038d98c"
+  },
+  {
+    "name": "不忘初心px1624",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/ccbd9e00f08cbd4c34f7f08060cfb5d4179843a5.xml",
+    "category": "苹果",
+    "version": "1.0",
+    "hash": "7f7019cc6786c3bbb530ed01880fdc74"
   }
 ]
