@@ -81,6 +81,15 @@
     "hash": "f8369097a0c9d342349de6744ebaf8c1"
   },
   {
+    "name": "BAI YUN",
+    "type": "rss",
+    "category": "独立博客",
+    "url": "https://baiyun.me/feed",
+    "description": "Share Tech, Life, and Anything!",
+    "version": "1.0",
+    "hash": "af3f2d1fdb3b8402e0d79b84a76e80fc"
+  },
+  {
     "name": "唐巧的博客",
     "type": "rss",
     "category": "独立博客",
@@ -88,6 +97,15 @@
     "description": "记录下自己学习的点滴",
     "version": "1.0",
     "hash": "f3d986564e1a240dd1cd471361c2b321"
+  },
+  {
+    "name": "Tony Bai",
+    "type": "rss",
+    "category": "独立博客",
+    "url": "http://tonybai.com/feed/",
+    "description": "一个程序员的心路历程",
+    "version": "1.0",
+    "hash": "7aa9031bedf7722fe024bdad5ac998d4"
   },
   {
     "name": "小胡子哥的个人网站",
@@ -117,6 +135,15 @@
     "hash": "845487a396972a63e5a2c637041e1aff"
   },
   {
+    "name": "Anthony Fu",
+    "type": "rss",
+    "category": "独立博客",
+    "url": "https://antfu.me/feed.xml",
+    "description": "Vue 核心团队成员的技术博客。",
+    "version": "1.0",
+    "hash": "306eb0bf01e670c8ed7548068b65eb36"
+  },
+  {
     "name": "涛叔",
     "type": "rss",
     "category": "独立博客",
@@ -142,5 +169,14 @@
     "description": "Sun will shine on the horizon.",
     "version": "1.0",
     "hash": "cdd35cc41e2586f852ab02a1ac79f0a8"
+  },
+  {
+    "name": "道哥的黑板报",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/980128c3a0c9ff852a06dd4a2bc3391338e05760.xml",
+    "category": "独立博客",
+    "description": "我偶然发现了隐藏在这个世界背后的真相，可惜这里的空白太小了，我没有办法写下来。想知道吗？请每天来看看吧。关注互联网、黑客、创业、技术、历史、文化，可能还有美女哦。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "54ea38639dd4aa1942c0b73ef42c1129"
   }
 ]

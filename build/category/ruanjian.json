@@ -1,0 +1,515 @@
+[
+  {
+    "name": "小众软件",
+    "type": "rss",
+    "category": "软件",
+    "url": "https://www.appinn.com/feed/",
+    "description": "分享免费、小巧、实用、有趣、绿色的软件",
+    "version": "1.0",
+    "hash": "7398fec45d0ee018b62ab4733c97996a"
+  },
+  {
+    "name": "异次元软件世界",
+    "type": "rss",
+    "category": "软件",
+    "url": "https://feed.iplaysoft.com/",
+    "description": "软件改变生活",
+    "version": "1.0",
+    "hash": "1d4cd97fd2eb53f502a215e1ee93ad08"
+  },
+  {
+    "name": "Mac玩儿法",
+    "type": "rss",
+    "category": "软件",
+    "url": "http://www.waerfa.com/feed",
+    "description": "专注于 Mac 软件与技巧分享。",
+    "version": "1.0",
+    "hash": "a90db5f95fad1dbe42eb8adf8425b304"
+  },
+  {
+    "name": "反斗限免",
+    "type": "rss",
+    "category": "软件",
+    "url": "http://free.apprcn.com/feed/",
+    "description": "反斗软件旗下软件限免资讯网站",
+    "version": "1.0",
+    "hash": "dd85ebca76ae5a1276f3387e7264a7a6"
+  },
+  {
+    "name": "思想花火",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/5b925323244e9737c39285596c53e3a2f4a30774.xml",
+    "category": "软件",
+    "description": "总有些古怪而又牛逼的想法像花火一样从我脑中闪过，转瞬即逝。我想应该把这些东西记下来，这是让自我变伟大的好方法。嗯，一定是这样的！ (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "1d1184f65c1f9627081afd5ac0e5c3fd"
+  },
+  {
+    "name": "灾难控制局",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/1559746776b3cf0a4aea8dd4f2979f71108093de.xml",
+    "category": "软件",
+    "description": "Will的小屋 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "d4ff4b34dd31ab4fbc0d7a2f20cc714a"
+  },
+  {
+    "name": "技艺丛谈",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/45ef431eb5e61b3ff7802ef329290a4dcc377031.xml",
+    "category": "软件",
+    "description": "互联网产品观察，技术分享，职场经验交流。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "d7b10dee51d970af1afb0656c85efb24"
+  },
+  {
+    "name": "bloodzer0",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/1861774bb3091197d2b5b99ea778ced110751b8e.xml",
+    "category": "软件",
+    "description": "不是从0开始，而是从1开始！ (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "8b1f76b0496cf6bc616e1daf43d12a17"
+  },
+  {
+    "name": "IMKP",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/09fd2a3e5180ee5ee0f787446046e8bc91f47d65.xml",
+    "category": "软件",
+    "description": "星光不问赶路人 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "692d02eaec51ef7d907944f893d94642"
+  },
+  {
+    "name": "掮客酒馆",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/10fdc27bdac746197d79a7632053fee231f37bcd.xml",
+    "category": "软件",
+    "description": "普天之下熙熙攘攘，皆为利来皆为利往。真知灼见者尚且有误，何况其他！愿吾之论，皆非空谈。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "371c46af1ec5448836936cac3dec40b7"
+  },
+  {
+    "name": "PeiQi文库",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/6553a5e852536cc41d797391eb3da8d8f8f3f18d.xml",
+    "category": "软件",
+    "description": "乌拉乌拉！ (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "d035803687d1e419e891a6089c75d956"
+  },
+  {
+    "name": "RapidDNS",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/2b62c59e45bd71ff9f475c93626cd4871c99f185.xml",
+    "category": "软件",
+    "description": "RapidDNS.io 是一个免费开放的DNS在线查询平台。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "a3b7aa5ba5b475a8deaaaa5580e780a2"
+  },
+  {
+    "name": "赛博少女",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/f17b52a78a32b532f0d7729e6cf7d94a669c1d53.xml",
+    "category": "软件",
+    "description": "我话不多，比较慢熟，人低调，向往自由。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "0b91cc19414ccfa9ccf337631b36be83"
+  },
+  {
+    "name": "这里是河马",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/0db50f315edb5c0af041413fc89e3d4d80a91fdd.xml",
+    "category": "软件",
+    "description": "SHELLPUB专注查杀，让世界不再受WEBSHELL困扰 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "126738f1681543ccb01af605442d1732"
+  },
+  {
+    "name": "非尝咸鱼贩",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/255746ce1fb5befc63e2be00eb25795409048fcb.xml",
+    "category": "软件",
+    "description": "临渊羡鱼，不如在家咸鱼 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "4280819a4618d73fb3e88e644f34332f"
+  },
+  {
+    "name": "鲸落的杂货铺",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/0dda9f6157d97813067cd3965f772abc35bfdf4c.xml",
+    "category": "软件",
+    "description": "那跑过的昼夜，是孤独的修炼 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "ea33355cf5257ff04a3b750ddfde0627"
+  },
+  {
+    "name": "星阑科技",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/9b29dedffda96370d7cabfb50c7051efbeaa2554.xml",
+    "category": "软件",
+    "description": "北京星阑科技有限公司 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "6e70bb617b15461bdf5c2c32a4b8c8f2"
+  },
+  {
+    "name": "bigsec岂安科技",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/42ae6dc8b414f4be915ce93ae03d8f8460179c72.xml",
+    "category": "软件",
+    "description": "岂安科技( bigsec.com ) ，专注于互联网业务风险控制 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "7e9376907269820aa71225281ae1127d"
+  },
+  {
+    "name": "Viola后花园",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/e666c56abbe20a645da315f389ca6247eed264e2.xml",
+    "category": "软件",
+    "description": "More Signal. Less Noise. (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "cc5980cada22250576d4579e93457c3b"
+  },
+  {
+    "name": "ChaBug",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/b801577ef970fa6a877911dfd37a7c9ca681d66a.xml",
+    "category": "软件",
+    "description": "一个分享知识、结识伙伴、资源共享的公众号。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "1e2673fb2a6dac23be5cc7b356607e6b"
+  },
+  {
+    "name": "跳动的计算器",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/f3ace422519a0db0d5848415f0ad2e36ecf2c069.xml",
+    "category": "软件",
+    "description": "Words are my own. (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "61410ede9f305e3227b47f5b0240ee22"
+  },
+  {
+    "name": "零鉴科技",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/f7f4ab7bdc8c827727561bd14ed6c26ad0624a6f.xml",
+    "category": "软件",
+    "description": "长沙零鉴科技有限公司 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "090cd6165c3fa317f0261c93582e46f7"
+  },
+  {
+    "name": "王小明的事",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/4d5625268306f53fca5c6e8cb59daf73ca57d5e0.xml",
+    "category": "软件",
+    "description": "一个脚本小子的自我修行。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "e159be752f088342326193852b4a191d"
+  },
+  {
+    "name": "天书奇坛TFT",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/53682fed50f2e9f3be9c8f58329e6022ef2fd201.xml",
+    "category": "软件",
+    "description": "STUDY THE WORLD (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "68f2907f29ef8bab478bb7304f179aef"
+  },
+  {
+    "name": "bluE0x00",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/9767c848d0a4d5858d8bb565bc762dde94eeeee1.xml",
+    "category": "软件",
+    "description": "不懂就问 不会就学 不熟就练 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "a7183b253d318f31c99a12159038d98c"
+  },
+  {
+    "name": "碳基体",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/4bc6a2ecb1feb2bd2961a898905147c9f76a4c3a.xml",
+    "category": "软件",
+    "description": "(wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "953101587ddc8cbc57d9ec827e3ecff8"
+  },
+  {
+    "name": "在酒吧喝牛奶的牛仔",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/79406746c885004942b4fb232aff112a23579018.xml",
+    "category": "软件",
+    "description": "Just a regular guy who lives a normal life (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "7bbf7c53fbc589e482cd2ffef20413c9"
+  },
+  {
+    "name": "Security丨Art",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/bd7040862c701118e492f070f4abb58c52b8fb02.xml",
+    "category": "软件",
+    "description": "言之有物，一鞭一条痕，一掴一掌血 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "fe3c0008a5e8352c19afff4e2f406621"
+  },
+  {
+    "name": "深潜之眼",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/2bd44e5502a5ab5b55eb8a732449d8342a6defe9.xml",
+    "category": "软件",
+    "description": "“无法认清现实的人，永远沉浸在幻术中” (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "c68cf50c3796c853f3b723651c3a2c6b"
+  },
+  {
+    "name": "信安杂记",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/68a725789c8e9fc3e3f05813880df328f1880fcb.xml",
+    "category": "软件",
+    "description": "随手记录 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "e0acfe817b79e16bbe194ed37a4175ab"
+  },
+  {
+    "name": "小陈的Life",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/7bc0fb4b036b6997552981cdd445bc48abff59bb.xml",
+    "category": "软件",
+    "description": "风会熄灭蜡烛，却能使火越烧越旺。对随机性，不确定性和混沌也是一样：你要利用它们，而不是躲避它们。你要成为火，渴望得到风的吹拂。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "8937bc8bc9cae42b7a08f30f2ca6ffbd"
+  },
+  {
+    "name": "OnionSec",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/71d830505c0eb2d4e2627dbf1dfc2b2971bc240b.xml",
+    "category": "软件",
+    "description": "恶意软件研究与分析，机器学习接触者；赛博郎中；不做生活的旁观者； (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "9667b130022cfdcb1b581efc45a022f3"
+  },
+  {
+    "name": "Medi0cr1ty",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/929d7672d9f2a7727dc161b4389a433d3a0d6eb0.xml",
+    "category": "软件",
+    "description": "宁静在遥远处波动 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "dc7db63ef79963cb3c1094b43a20dfd0"
+  },
+  {
+    "name": "41group",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/d840d8b21d5635eb5b332a61f472de54579c8a30.xml",
+    "category": "软件",
+    "description": "不器网安，君子不器。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "18501d1b2944a74832fb84f98b2bfcc3"
+  },
+  {
+    "name": "干杯Security",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/a8422817da57b5ad2c39c8f264d2eeef683bb338.xml",
+    "category": "软件",
+    "description": "Hacking Every Day。Happy Every Day。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "d4a7ebc756b6d2a09393d346d9477cf8"
+  },
+  {
+    "name": "NOP Team",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/3f56e6d80d7e3e5f73983bfa6c06045ff62f1530.xml",
+    "category": "软件",
+    "description": "有态度，不苟同 No System Is Safe！ (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "275372f776610f97bdee22b0c14a5ecf"
+  },
+  {
+    "name": "榫卯江湖",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/d1988b840deaf6a79edd32e83a1b152038f1b6a1.xml",
+    "category": "软件",
+    "description": "榫卯江湖，编码人生。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "8059296b137991748e22cae93346ebbd"
+  },
+  {
+    "name": "寒雁Talk",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/bbbe847b63f498801792fb7a08d67d0fbf167a04.xml",
+    "category": "软件",
+    "description": "Stay hungry. Stay foolish. (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "4af268fb88233e34730cf67e4a0e82ff"
+  },
+  {
+    "name": "阿里巴巴中间件",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/ede34e7a9aff5e93ad159ebfd27075710a963f54.xml",
+    "category": "软件",
+    "description": "Aliware阿里巴巴中间件官方账号 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "314678b0716dd68d77c9873a6934da08"
+  },
+  {
+    "name": "老高的互联网杂谈",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/574587b13c6f60617fc74605702258ddf4aefac6.xml",
+    "category": "软件",
+    "description": "我个人发表文章以及吐槽的地方，涉及面也许很广，不喜请勿喷～ (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "499ce129d0b44b9a48ed91dd79d4e53d"
+  },
+  {
+    "name": "虚拟框架",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/c0f0ee37039f7da55ed6ed4ae160d11af1915007.xml",
+    "category": "软件",
+    "description": "解锁 Android 手机黑科技！ (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "55adb50fc15763d47d8791fcae9af41f"
+  },
+  {
+    "name": "浅黑科技",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/6111a6d5ecf28cfdd4fc9b664244c05ddacef15c.xml",
+    "category": "软件",
+    "description": "在未来面前，我们都是孩子。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "23ed163781128f337715724ea4f8f47b"
+  },
+  {
+    "name": "小众软件",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/3261d5a75cfef238650a2cabd4bbf99669c2f334.xml",
+    "category": "软件",
+    "description": "推荐有灵魂的电脑软件、手机应用。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "c7b96dd81cb7cc4f23a1e601fa68ce48"
+  },
+  {
+    "name": "猫笔刀",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/33d986064f59be5263de2ca822fb3e0bdd59eb81.xml",
+    "category": "软件",
+    "description": "记录与分享！ (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "a652c483d6d19401a4cd5caf0723fe9d"
+  },
+  {
+    "name": "邱贞玮",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/6451f06f5dffd44946bbdc407cf9605396f83437.xml",
+    "category": "软件",
+    "description": "复杂系统探索 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "4e6138a22f94ad5c6de2d3b1a1c28342"
+  },
+  {
+    "name": "方方的航空小筑",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/b146ee0c6a719d7d3d86c93f4fdd4ca27b91baa2.xml",
+    "category": "软件",
+    "description": "资深酱油党。非官宣消息都不知道。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "f19df461ca13bce3bd1ae177d220df76"
+  },
+  {
+    "name": "从零开始定投日记",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/0d2c5982deb01d2295ecf8f4891c9cb75d8d8ba3.xml",
+    "category": "软件",
+    "description": "2019-2025，记录个人日记。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "9255d934f4aba69ba15013aee2b36417"
+  },
+  {
+    "name": "凭栏欲言",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/01c05fce74822ac6f30656f22e0ca542dfb7c8c0.xml",
+    "category": "软件",
+    "description": "随便聊聊 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "9789f63e369aed192e02ea7f9c668321"
+  },
+  {
+    "name": "阿司匹林42195米",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/644f104d713e906e00ad1c5a0f91db5374cb5fb1.xml",
+    "category": "软件",
+    "description": "由在美国工作的医生和律师撰写。医学法律科普，谣言粉碎机，美国生活。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "21c8b5ca04dbd2b057e188fd3f6affb9"
+  },
+  {
+    "name": "空天防务观察",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/b3da5de3b7697f10c0e22ce8909063ea84c44bbd.xml",
+    "category": "软件",
+    "description": "依托中国航空工业发展研究中心资源，翻译或搜集国外重要空天防务动态，并提供要闻或问题深度分析。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "67d9804534676560c7f16b3e130bfc37"
+  },
+  {
+    "name": "温哥华的鱼",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/51ed4848e5bfbf298b0d2b2becdc3a7d067ff5be.xml",
+    "category": "软件",
+    "description": "大鱼鉴水，坚持原创的军事公众号 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "c3310d46be6a89181c7146074a535ee7"
+  },
+  {
+    "name": "阿虚同学",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/808d3625c2b1915142f09e2d4bb2acd636aa956d.xml",
+    "category": "软件",
+    "description": "致力于生产收藏级的干货文章 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "b3a05a598ff1a218ad6e3496f3d01a7b"
+  },
+  {
+    "name": "biao",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/2667205b80c29a5126757eaa2b63840925f6cb64.xml",
+    "category": "软件",
+    "description": "叶飙的个人公共号。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "8d7f7f61416765859731467afff7b7d5"
+  },
+  {
+    "name": "At The End",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/fd8a25f541459ec9208837179c9a6688bc29c2e3.xml",
+    "category": "软件",
+    "description": "那察看时间的眼睛 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "6a2bb62e48477a5e7e7f3c7b90909dbe"
+  },
+  {
+    "name": "内德羽则说",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/25ab3bb01cf06dd921fa4887b4cb06c30dc11080.xml",
+    "category": "软件",
+    "description": "内德和羽则的原创专栏。游走于深度与逗比之间的足球聊斋，哼哼。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "d29db47b7c02c5f9784038cef9974124"
+  },
+  {
+    "name": "集智俱乐部",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/8540570d27c0bfe0a219173cf1ace83ae79445cb.xml",
+    "category": "软件",
+    "description": "关注复杂科学与人工智能的前沿进展、书籍资料、工具文献、交叉前沿等，同时也发布集智俱乐部、集智学园举办的各类讲座、课程等活动相关信息。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "6e116a2f8b520d020829a7f96c691de4"
+  },
+  {
+    "name": "呦呦鹿鸣",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/fa89f27259f903b92f5f133140dd3f641110f9fd.xml",
+    "category": "软件",
+    "description": "日拱一卒，只为苍生说人话。“每天一千字”发起人黄志杰的唯一个人实名认证发布平台。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "425faebd18885bd8ae0b9f089a6b03c6"
+  }
+]

@@ -27,6 +27,15 @@
     "hash": "4b7edec737f0d70c8c19bb44359c95da"
   },
   {
+    "name": "钛媒体",
+    "type": "rss",
+    "category": "商业",
+    "url": "https://www.tmtpost.com/feed",
+    "description": "钛媒体致力于成为全球财经科技信息服务平台，形成了“新媒体、全球技术专家网络、科技IP与创意产品服务、科技股数据服务”四大业务板块和“钛媒体国际”业务布局，现已成为国际领先、国内极具影响力的财经信息服务商和新媒体标杆之一。",
+    "version": "1.0",
+    "hash": "c4fb967a0f9149a27e24c0051e5114e1"
+  },
+  {
     "name": "人人都是产品经理",
     "type": "rss",
     "category": "商业",

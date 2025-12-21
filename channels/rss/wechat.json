@@ -10,7 +10,7 @@
         "name": "吾爱破解论坛",
         "type": "rss",
         "url": "https://wechat2rss.xlab.app/feed/90c827b8290310a96ef80a13df9dbcc06ab69892.xml",
-        "category": "weixieqingbao",
+        "category": "nixiang",
         "description": "吾爱破解论坛深耕软件逆向工程与反病毒技术领域，汇聚众多技术爱好者的智慧与经验，共同探索与分享前沿安全技术和防护策略，构建业内最具影响力的技术交流平台。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)"
     },
     {
@@ -38,7 +38,7 @@
         "name": "道哥的黑板报",
         "type": "rss",
         "url": "https://wechat2rss.xlab.app/feed/980128c3a0c9ff852a06dd4a2bc3391338e05760.xml",
-        "category": "yuedu",
+        "category": "boke",
         "description": "我偶然发现了隐藏在这个世界背后的真相，可惜这里的空白太小了，我没有办法写下来。想知道吗？请每天来看看吧。关注互联网、黑客、创业、技术、历史、文化，可能还有美女哦。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)"
     },
     {
@@ -1261,7 +1261,7 @@
         "name": "专注安管平台",
         "type": "rss",
         "url": "https://wechat2rss.xlab.app/feed/1a525e06c123c345dae49c4992df35964b8c4d53.xml",
-        "category": "weixieqingbao",
+        "category": "anquan",
         "description": "专注安管平台、SIEM、SOC、SOAR、大数据安全分析、态势感知等平台类安全领域。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)"
     },
     {
@@ -1576,7 +1576,7 @@
         "name": "默安玄甲实验室",
         "type": "rss",
         "url": "https://wechat2rss.xlab.app/feed/181cb187893448582b37198afeadd4c4cf0750a9.xml",
-        "category": "weixieqingbao",
+        "category": "hongdui",
         "description": "玄甲实验室是默安科技旗下的攻防技术研究团队，由长期在一线的攻防专家组成，致力于Web渗透，APT攻防、对抗，红队工程化，从底层原理到一线实战进行技术研究，深入还原攻与防的技术本质。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)"
     },
     {

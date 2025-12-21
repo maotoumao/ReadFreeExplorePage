@@ -171,15 +171,6 @@
     "hash": "b9f68a77f9d31e4a02f0b3d7ac10c372"
   },
   {
-    "name": "钛媒体",
-    "type": "rss",
-    "category": "开发与设计",
-    "url": "https://www.tmtpost.com/feed",
-    "description": "钛媒体致力于成为全球财经科技信息服务平台，形成了“新媒体、全球技术专家网络、科技IP与创意产品服务、科技股数据服务”四大业务板块和“钛媒体国际”业务布局，现已成为国际领先、国内极具影响力的财经信息服务商和新媒体标杆之一。",
-    "version": "1.0",
-    "hash": "c4fb967a0f9149a27e24c0051e5114e1"
-  },
-  {
     "name": "小明明s à domicile",
     "type": "rss",
     "category": "开发与设计",
@@ -187,15 +178,6 @@
     "description": "Python 开发者董伟明的博客。",
     "version": "1.0",
     "hash": "60f6da8a4b9c720c53ed8a9f49b3f591"
-  },
-  {
-    "name": "Anthony Fu",
-    "type": "rss",
-    "category": "开发与设计",
-    "url": "https://antfu.me/feed.xml",
-    "description": "Vue 核心团队成员的技术博客。",
-    "version": "1.0",
-    "hash": "306eb0bf01e670c8ed7548068b65eb36"
   },
   {
     "name": "优设-UISDC",

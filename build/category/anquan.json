@@ -26,6 +26,15 @@
     "hash": "fda6ecaf9995a1745176472098c84943"
   },
   {
+    "name": "专注安管平台",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/1a525e06c123c345dae49c4992df35964b8c4d53.xml",
+    "category": "网络安全",
+    "description": "专注安管平台、SIEM、SOC、SOAR、大数据安全分析、态势感知等平台类安全领域。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "5cb665ce075b39b6157df039f612aab2"
+  },
+  {
     "name": "深澜深蓝",
     "type": "rss",
     "url": "https://wechat2rss.xlab.app/feed/3d9ef879f257a0cd3c11fc0b569792ca3581c0b6.xml",

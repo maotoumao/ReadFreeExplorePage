@@ -1,0 +1,280 @@
+[
+  {
+    "name": "腾讯安全应急响应中心",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/7898375f78fd1018302d54577cd0fd05d5ed324f.xml",
+    "category": "厂商响应与通告",
+    "description": "腾讯安全应急响应中心（TSRC）官方微信 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "fc0ff8a76c550aa2486f5f903e932858"
+  },
+  {
+    "name": "Seebug漏洞平台",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/be2795d741304af2370cbf8d31d1e5d3675f8e85.xml",
+    "category": "厂商响应与通告",
+    "version": "1.0",
+    "hash": "e4c3350b66f27f9494411858107924a6"
+  },
+  {
+    "name": "同程旅行安全应急响应中心",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/b12f8ab2025298044029c05a3c26c3bfe8e9256a.xml",
+    "category": "厂商响应与通告",
+    "description": "欢迎提交漏洞 https://sec.ly.com (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "f8ff452f322c645c3e960cf3b6dbec20"
+  },
+  {
+    "name": "GobySec",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/84fdb53acad07ab607128a9f387cefdee53809dd.xml",
+    "category": "厂商响应与通告",
+    "description": "新一代网络安全测试工具，由赵武Zwell（Pangolin、FOFA作者）打造，能够针对一个目标企业梳理最全的攻击面信息，同时能进行高效、实战化漏洞扫描，并快速的从一个验证入口点，切换到横向。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "930ff9cfa50ae403cdb73cac442868bf"
+  },
+  {
+    "name": "宽字节安全",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/2b4f112d9e25f5ef0abf85e6b31f7d02602672ab.xml",
+    "category": "厂商响应与通告",
+    "description": "二十年专注安全研究，漏洞分析 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "ce3f2e15b0e123fcc2429f12e426e30d"
+  },
+  {
+    "name": "漏洞战争",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/a884cb33e3393db2f683c48d82012836295ec005.xml",
+    "category": "厂商响应与通告",
+    "description": "谈人生，聊梦想，话安全，说风云 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "62f9261277c4884d08024e337c598271"
+  },
+  {
+    "name": "58安全应急响应中心",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/f4ff9e0e30f68dd38a44232522bdb980791a7587.xml",
+    "category": "厂商响应与通告",
+    "description": "58安全应急响应中心 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "9a2c06750eddb59863ebaed844b8d096"
+  },
+  {
+    "name": "三六零CERT",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/2dbce2e5f7b49dc8415db7a0ab325929e0f5d8c3.xml",
+    "category": "厂商响应与通告",
+    "description": "360CERT是360成立的针对重要网络安全事件进行快速预警、应急响应的安全协调中心 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "e9ce4e5f2b46c40b343dd86905cdc119"
+  },
+  {
+    "name": "奇安信CERT",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/981c000a01bbdc1f128d260cc91c15d3a6afb530.xml",
+    "category": "厂商响应与通告",
+    "description": "为企业级用户提供高危漏洞、重大安全事件安全风险通告和相关产品解决方案。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "d0f8aa7a2707f2e409d34151d66ad2dc"
+  },
+  {
+    "name": "腾讯代码安全检查Xcheck",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/267f1258101e978e4cc8507724579217adf600cf.xml",
+    "category": "厂商响应与通告",
+    "description": "腾讯代码安全检查Xcheck，是一个腾讯公司自研的静态应用安全测试(SAST，Static application security testing)工具，致力于挖掘代码中隐藏的安全风险，提升代码安全质量。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "57c4f98a76b63fdbc6a6160eab3f802e"
+  },
+  {
+    "name": "关键基础设施安全应急响应中心",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/1aa5b8c8e4fb27ccb905694f7563b5529cd12269.xml",
+    "category": "厂商响应与通告",
+    "description": "国家互联网应急中心下属机构，专门致力于国家关键信息基础设施的网络安全应急保障工作，开展相关领域的关键技术研究、安全事件通报与应急响应。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "90d8a27cee7ff2fd5367a5786b18581e"
+  },
+  {
+    "name": "安全牛",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/10f1ba549b70cdb4216f7ade606d30a813305aa1.xml",
+    "category": "厂商响应与通告",
+    "description": "发现、挖掘与推荐、传播优秀的安全技术、产品，提升安全领域在全行业的价值，了解机构与企业的安全需求，一家真正懂安全的专业咨询机构，我们是安全牛！ (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "0468fcfcfe2efe60e24df886f4484264"
+  },
+  {
+    "name": "山石网科安全技术研究院",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/dce539f9deadfc68ce8bf82d3be59a4c6d8ddef9.xml",
+    "category": "厂商响应与通告",
+    "description": "山石网科安全技术研究院成立于2020年，旗下包括智能安全、红蓝对抗、信创安全等三大实验室，输出原创漏洞、安全专利、原创文章、安全标准、竞赛题目等研究成果，支撑前端服务业务开展，为客户的产品安全、业务安全保驾护航。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "6f9a561b00f6206fc8d80ff2c823065e"
+  },
+  {
+    "name": "补天平台",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/716b21d89522f8bb90b25249ebf00692522d5612.xml",
+    "category": "厂商响应与通告",
+    "description": "补天漏洞响应平台旨在建立企业与白帽子之间的桥梁，帮助企业建立SRC（安全应急响应中心），让企业更安全，让白帽子获益。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "d29a233bd65685201287aa3927117b3f"
+  },
+  {
+    "name": "CNVD漏洞平台",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/edf17c7a01a7152b7a1ca14133258dc4abc1ca61.xml",
+    "category": "厂商响应与通告",
+    "description": "国家信息安全漏洞共享平台（China National Vulnerability Database）是由国家计算机网络应急技术处理协调中心联合重要信息系统单位、基础电信运营商、网络安全厂商、软件厂商和互联网企业建立的国家网络安全漏洞库。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "fdfc7524bd00241ebb4b9f517cac353a"
+  },
+  {
+    "name": "阿里安全响应中心",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/544a8a6edc551b8a2975fbb76b7de1637570d0e7.xml",
+    "category": "厂商响应与通告",
+    "description": "阿里巴巴安全应急响应中心官方微信公众号 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "4a3ebd8c7894e6b0daf0fc788b41860c"
+  },
+  {
+    "name": "百度安全应急响应中心",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/2b0b4d99312e57d27a294d18de8dfb8f9c272fd4.xml",
+    "category": "厂商响应与通告",
+    "description": "百度安全应急响应中心，简称BSRC，是百度致力于维护互联网健康生态环境，保障百度产品和业务线的信息安全，促进安全专家的合作与交流，而建立的漏洞收集以及应急响应平台。欢迎访问 bsrc.baidu.com 提交百度安全漏洞。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "1054eced0b0eabaf31b51b7902ac6d90"
+  },
+  {
+    "name": "OPPO安全应急响应中心",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/3cacd8073bf05a6d23b63613aad68f1c47d846ec.xml",
+    "category": "厂商响应与通告",
+    "description": "OPPO安全中心（OSRC）官方公众号。OSRC是致力于保障OPPO用户、业务和产品安全，促进消费者了解OPPO产品、业务相关安全隐私功能，传播OPPO安全隐私理念及态度的平台。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "30594025bbb03e3e128ad5484f1142f1"
+  },
+  {
+    "name": "小米安全中心",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/c950a13786cac4f432ad2f1dc4ef6dd427a5b802.xml",
+    "category": "厂商响应与通告",
+    "description": "小米安全中心（MiSRC）是致力于保障小米产品、业务线、用户信息等安全，促进与安全专家的合作与交流，而建立的漏洞收集及响应平台。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "17a608203c8dd6abe30309aedbf56bc9"
+  },
+  {
+    "name": "京东安全应急响应中心",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/9bce95ccd16c1e5e30f45722847cc9ea2a27c09d.xml",
+    "category": "厂商响应与通告",
+    "description": "京东安全应急响应中心（JSRC）官方 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "03c726a803f493d55b8a100966d4d8bf"
+  },
+  {
+    "name": "美团安全应急响应中心",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/294bc034c9941529cd86a8a4b8999d100186c04d.xml",
+    "category": "厂商响应与通告",
+    "description": "美团安全应急响应中心官方公众号 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "dd0e105627ea6a296b7dc84a273fe461"
+  },
+  {
+    "name": "唯品会安全应急响应中心",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/7419897e85fdd038ed2f390a5859b730657ec7ff.xml",
+    "category": "厂商响应与通告",
+    "description": "唯品会安全应急响应中心(VSRC)官方微信 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "a6688b4fe5b02fc4d80d4096c49c25db"
+  },
+  {
+    "name": "中通安全应急响应中心",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/fc8ebaf92e238784242d7b967d84584a46d1c23d.xml",
+    "category": "厂商响应与通告",
+    "description": "中通安全应急响应中心（ZSRC）官方服务号 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "30955201f4c017819ada9363a598550b"
+  },
+  {
+    "name": "美丽联合集团安全应急响应中心",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/e111066ebfbbba805ee4ab5c745b92b5e567bd90.xml",
+    "category": "厂商响应与通告",
+    "description": "美联安全应急响应中心（MLSRC）官方微信 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "3f627f120dfda5360bf0dde2440dfb81"
+  },
+  {
+    "name": "滴滴安全应急响应中心",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/97cd46da8232bd740c02838e1c579182f9636e3e.xml",
+    "category": "厂商响应与通告",
+    "description": "滴滴出行安全应急响应中心（DiDi Security Response Center）非常欢迎广大用户和白帽子向我们提交滴滴出行产品和业务的安全漏洞，以帮助我们提升产品和业务的安全性，我们有专业的人员跟进处理，并将结果即时反馈给您。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "7b66d28deeeaef68ffe0ac180528fafb"
+  },
+  {
+    "name": "Moonlight Bug Hunter",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/ce1158cdf6e3de068710ceb93a3961618f7e4360.xml",
+    "category": "厂商响应与通告",
+    "description": "一个漏洞一年班 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "a430a9553ee24002498004e2bcb36577"
+  },
+  {
+    "name": "天玄安全实验室",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/6756212c81a850d9ee50d69cb4036b6a6f70f31b.xml",
+    "category": "厂商响应与通告",
+    "description": "无极实验室专注于系统与应用漏洞利用及对抗技术的研究，重点包括Windows、Linux、国产化操作系统内核及常用软件的漏洞利用、防护机制绕过以及漏洞挖掘等。通过漏洞利用与挖掘相互结合、优势互补，打通了从漏洞挖掘到利用以及对抗的完整链路 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "6d37de94db207c1d7bb3ad3daceb8cba"
+  },
+  {
+    "name": "洞源实验室",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/ed8dcc9aa1014eb34c7fd7dc0ef6b96272ed99e0.xml",
+    "category": "厂商响应与通告",
+    "description": "洞察漏洞之源/Insight Bugs (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "1c67be855b39d7068ca17285f5a64e67"
+  },
+  {
+    "name": "赛博昆仑CERT",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/fb14ec6353e6ebbeb470d35d633471d0bca583a0.xml",
+    "category": "厂商响应与通告",
+    "description": "快速响应高危漏洞和安全事件，并为客户提供闭环的解决方案。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "407fb9de088758544d85d0cf08a8a3c2"
+  },
+  {
+    "name": "CNNVD安全动态",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/899e0eaf0e3ea7abac0211b3db9bb39c616e3255.xml",
+    "category": "厂商响应与通告",
+    "description": "国家信息安全漏洞库（CNNVD）是中国信息安全测评中心为切实履行漏洞分析和风险评估的职能，负责建设运维的国家信息安全漏洞库，为我国信息安全保障提供基础服务。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "42c2e7a6de440ebf0e2ea0b60ede009d"
+  },
+  {
+    "name": "CodeAnalyzer Ultra",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/55250c252549088f7bcfa3527fe540bec5e2e16e.xml",
+    "category": "厂商响应与通告",
+    "description": "分享白盒安全、代码安全相关的技术知识。包括静态代码分析（SAST）、漏洞利用、安全热点资讯等。 致力于打造全面且细致的专栏内容，理论与实践相结合的讲解方式，尽量做到通俗易懂，示例代码可拿来即用，降低学习门槛。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "9d7e4781c2c6d35b46b206ea00acf38a"
+  }
+]

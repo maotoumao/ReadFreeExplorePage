@@ -1,0 +1,101 @@
+[
+  {
+    "name": "少数派",
+    "type": "rss",
+    "category": "数码",
+    "url": "https://sspai.com/feed",
+    "description": "少数派致力于更好地运用数字产品或科学方法，帮助用户提升工作效率和生活品质",
+    "version": "1.0",
+    "hash": "a501cef8044ca334c2304e54a13864b4"
+  },
+  {
+    "name": "爱范儿",
+    "type": "rss",
+    "category": "数码",
+    "url": "https://www.ifanr.com/feed",
+    "description": "关注明日产品的数字潮牌",
+    "version": "1.0",
+    "hash": "64e8cfa91547f401369333394aa6203f"
+  },
+  {
+    "name": "机核",
+    "type": "rss",
+    "category": "数码",
+    "url": "https://www.gcores.com/rss",
+    "description": "不止是游戏",
+    "version": "1.0",
+    "hash": "374199bfbe89f40d5fd92f4674dc1d5d"
+  },
+  {
+    "name": "游戏研究社",
+    "type": "rss",
+    "category": "数码",
+    "url": "https://www.yystv.cn/rss/feed",
+    "description": "无论你是游戏死忠，还是轻度的休闲玩家，在这里都能找到感兴趣的东西。",
+    "version": "1.0",
+    "hash": "c692aadc77494793a67c816fcb62682d"
+  },
+  {
+    "name": "Engadget 中国",
+    "type": "rss",
+    "category": "数码",
+    "url": "https://cn.engadget.com/rss.xml",
+    "description": "全球科技新闻与评测。",
+    "version": "1.0",
+    "hash": "fbf567c956d978d534407eb61fa6f111"
+  },
+  {
+    "name": "触乐",
+    "type": "rss",
+    "category": "数码",
+    "url": "http://www.chuapp.com/feed",
+    "description": "高品质、有价值、有趣的移动游戏资讯",
+    "version": "1.0",
+    "hash": "ac1edd4614461e381d0d6d1a4a68141a"
+  },
+  {
+    "name": "数据安全与取证",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/8c9b7e3366ca88442203715d5616c05d24d0306c.xml",
+    "category": "数码",
+    "description": "我们专注于电子取证技术的分享及司法鉴定实践的交流，涵盖了计算机取证、手机取证、电子物证、司法鉴定等众多领域，是电子取证公司与电子取证从业者交流学习的首选平台。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "b09f30178699b166a164fd39f3809e08"
+  },
+  {
+    "name": "b1ngz的笔记本",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/985deae60a431c56b6d8b4a8f7e5623a6b7dd948.xml",
+    "category": "数码",
+    "description": "Think, Try And Write About Security And Coding. (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "797f0e304cf745cd14ad3b1b749d3ae5"
+  },
+  {
+    "name": "关注米柚更新",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/7391226cbd6ce8793e1e3d7d76b096bca336c571.xml",
+    "category": "数码",
+    "description": "科技为笔，创新为墨，记录每一次数码革新，做大家最喜爱的懒酱。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "e0e3da9fd931abdbe8afa6d4d1b2d376"
+  },
+  {
+    "name": "路由器评测",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/2fa034e4b97f23d870d5b8e749e805d508761a41.xml",
+    "category": "数码",
+    "description": "无线路由器评测、拆机、分享 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "2006807081f7fc9e48c32e1536a1e0da"
+  },
+  {
+    "name": "差评",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/8d839de8dd3290a1f1be7a94423cccb30c1b087d.xml",
+    "category": "数码",
+    "description": "Debug The World，关注科技、数码、汽车、产经、游戏，传播能改变世界的科技互联网信息。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "bfadf8a40aa2bb29e6806db7a71abf52"
+  }
+]

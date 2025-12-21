@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Web安全与前端",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/837190f74457627e0a5567700c573fe8afd7d3fe.xml",
+    "category": "Web 与前端安全",
+    "description": "分享Web安全与前端相关技术 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "1fb4e3e579d539ae9f3478b30b7bac9d"
+  },
+  {
+    "name": "dotNet安全研究僧",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/f5af2c80f2132cb0ea9cf4094145ece266a59bc3.xml",
+    "category": "Web 与前端安全",
+    "description": "感谢关注\"dotNet安全矩阵\"，分享微软.NET安全技术知识的盛宴，这里不仅有C#安全漏洞，还有.NET反序列化漏洞研究，只要是.NET领域的安全技能均在话题范围内，风里雨里我在这里等你。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "8a76b1224af09e8d6bfea3d89e01a9d3"
+  },
+  {
+    "name": "无害实验室sec",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/4470030205d4d847065a2f0d26219b280b421440.xml",
+    "category": "Web 与前端安全",
+    "description": "号主是一名网络安全行业的资深爱好者，在这里主要分享一些安全工具，应急响应，代码审计，漏洞挖掘，安全资讯等文章与技术。 请勿利用本公众号文章内的相关所有技术从事非法测试，如因此产生的一切不良后果与文章作者和本公众号无关。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "6190fe7a782c0654d89898f1579f1c16"
+  },
+  {
+    "name": "LoRexxar自留地",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/629b8dab22be680d1ae8b1b0e597043a7d0757b7.xml",
+    "category": "Web 与前端安全",
+    "description": "LoRexxar自运营公众号，分享Web安全、白盒代码审计、SDL、DevSecOps相关知识，不定时分享各种小故事~ (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "08a88c1c7e1868e79a171b72e4b33783"
+  },
+  {
+    "name": "不忘初心px1624",
+    "type": "rss",
+    "url": "https://wechat2rss.xlab.app/feed/ccbd9e00f08cbd4c34f7f08060cfb5d4179843a5.xml",
+    "category": "Web 与前端安全",
+    "description": "安全技术分享，擅长WEB安全，喜欢对XSS漏洞、逻辑漏洞、业务相关漏洞进行分析和研究。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app)",
+    "version": "1.0",
+    "hash": "7f7019cc6786c3bbb530ed01880fdc74"
+  }
+]
