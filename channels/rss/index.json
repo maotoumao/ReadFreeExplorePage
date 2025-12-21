@@ -359,7 +359,7 @@
     {
         "name": "BAI YUN",
         "type": "rss",
-        "category": "rengongzhineng",
+        "category": "boke",
         "url": "https://baiyun.me/feed",
         "description": "Share Tech, Life, and Anything!"
     },
@@ -380,7 +380,7 @@
     {
         "name": "Tony Bai",
         "type": "rss",
-        "category": "rengongzhineng",
+        "category": "boke",
         "url": "http://tonybai.com/feed/",
         "description": "一个程序员的心路历程"
     },
@@ -478,7 +478,7 @@
     {
         "name": "Anthony Fu",
         "type": "rss",
-        "category": "kaifa",
+        "category": "boke",
         "url": "https://antfu.me/feed.xml",
         "description": "Vue 核心团队成员的技术博客。"
     },
