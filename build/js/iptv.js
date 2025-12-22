@@ -1,6 +1,11 @@
 const axios = require('axios');
 
-const M3U_URL = 'https://gh-proxy.org/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u';
+const M3U_URLS = [
+    'https://gh-proxy.org/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u',
+    'https://hk.gh-proxy.org/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u',
+    'https://cdn.gh-proxy.org/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u',
+    'https://edgeone.gh-proxy.org/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u'
+];
 
 let cachedM3u = null;
 let lastFetchTime = 0;
@@ -12,18 +17,29 @@ async function fetchM3u() {
         return cachedM3u;
     }
     
-    try {
-        const response = await axios.get(M3U_URL, {
-            timeout: 30000 // Increase timeout for large file
-        });
-        cachedM3u = response.data;
-        lastFetchTime = now;
-        return cachedM3u;
-    } catch (e) {
-        console.error("Failed to fetch IPTV M3U:", e.message);
-        if (cachedM3u) return cachedM3u; // Return stale cache if available
-        throw e;
+    let lastError = null;
+    for (const url of M3U_URLS) {
+        try {
+            console.log(`Trying to fetch IPTV M3U from: ${url}`);
+            const response = await axios.get(url, {
+                timeout: 30000 // Increase timeout for large file
+            });
+            cachedM3u = response.data;
+            lastFetchTime = now;
+            return cachedM3u;
+        } catch (e) {
+            console.error(`Failed to fetch from ${url}:`, e.message);
+            lastError = e;
+            // Continue to next mirror
+        }
     }
+
+    if (cachedM3u) {
+        console.warn("All mirrors failed, returning stale cache.");
+        return cachedM3u;
+    }
+    
+    throw lastError || new Error("All IPTV mirrors failed.");
 }
 
 function parseM3u(content) {
@@ -67,9 +83,9 @@ async function getCategories() {
     const items = parseM3u(content);
     const groups = new Set(items.map(i => i.group));
     
-    // Filter out "更新时间" if present, or keep it? User didn't say.
-    // Usually it's not a channel group.
-    
+    // Filter out "更新时间"
+    groups.delete('更新时间');
+
     return Array.from(groups).map(g => ({
         id: g,
         name: g,
@@ -88,25 +104,30 @@ async function getFeeds(page, {category}) {
         filtered = items.filter(i => i.group === category.id);
     }
     
-    // Handle duplicates by appending index
-    const titleCounts = {};
-    const feeds = filtered.map(item => {
-        let title = item.title;
-        if (!titleCounts[title]) {
-            titleCounts[title] = 1;
-        } else {
-            titleCounts[title]++;
-            title = `${title} (${titleCounts[title]})`;
+    // Group by title to merge duplicates
+    const grouped = {};
+    for (const item of filtered) {
+        if (!grouped[item.title]) {
+            grouped[item.title] = [];
         }
+        grouped[item.title].push(item);
+    }
+    
+    const feeds = Object.keys(grouped).map(title => {
+        const items = grouped[title];
+        const first = items[0];
         
         return {
             type: 'video',
             title: title,
-            description: item.url,
-            url: item.url,
-            coverImage: item.logo,
+            description: items.map(i => i.url).join('\n'),
+            url: first.url,
+            coverImage: first.logo,
             author: 'IPTV',
-            publishTime: new Date().toISOString()
+            publishTime: new Date().toISOString(),
+            extra: {
+                sources: items
+            }
         };
     });
     
@@ -121,7 +142,10 @@ async function getFeeds(page, {category}) {
 
 async function getFeedDetail(feed) {
     return {
-        url: feed.url
+        sources: (feed.extra?.sources || []).map((source, index) => ({
+            name: `源 ${index + 1}`,
+            url: source.url
+        }))
     };
 }
 
