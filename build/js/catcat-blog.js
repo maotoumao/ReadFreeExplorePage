@@ -17,6 +17,7 @@ const channel = {
     siteUrl: "https://blog.catcat.work/",
     version: "1.0.0",
     category: "boke",
+    logo: "https://blog.catcat.work/images/avatar.jpg",
     allowDuplicate: false,
     async getFeeds(page, args) {
         load();

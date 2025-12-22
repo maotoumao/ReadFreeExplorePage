@@ -6,10 +6,11 @@
     "siteUrl": "https://blog.catcat.work/",
     "version": "1.0.0",
     "category": "独立博客",
+    "logo": "https://blog.catcat.work/images/avatar.jpg",
     "allowDuplicate": false,
     "type": "js",
     "url": "js/catcat-blog.js",
-    "hash": "9b913b77f646d2a6d7024c46b736ecae"
+    "hash": "b3d807c552d964de4dcc319c1322ac15"
   },
   {
     "identifier": "tools.v1v.kinship",
@@ -20,6 +21,6 @@
     "allowDuplicate": false,
     "type": "js",
     "url": "js/catcat-work.js",
-    "hash": "78cc778bf42a55e5bf84cb43d1a3430a"
+    "hash": "6af3587554bdbdf6ef01cc77e3cfb6c6"
   }
 ]
