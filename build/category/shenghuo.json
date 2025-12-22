@@ -99,7 +99,7 @@
     "category": "生活",
     "type": "js",
     "url": "js/bing-wallpaper.js",
-    "hash": "cf2ca34403518173aac19ee7864901ae"
+    "hash": "987446d18dadc446428dfcb3db1c2aa7"
   },
   {
     "name": "Hupu BBS",
@@ -111,7 +111,7 @@
     "category": "生活",
     "type": "js",
     "url": "js/hupu.js",
-    "hash": "f03dad0416583601fe885ba37855600f"
+    "hash": "dfd85b5fcbbf862e8e21d95d513d2135"
   },
   {
     "name": "新浪滚动新闻",
@@ -123,6 +123,6 @@
     "category": "生活",
     "type": "js",
     "url": "js/sina-rollnews.js",
-    "hash": "337ab1b15bd627bced2e335aa029cb0d"
+    "hash": "dad3d656646ec4b121b646a3c4be015f"
   }
 ]

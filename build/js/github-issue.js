@@ -19,6 +19,8 @@ function md2html(text) {
 }
 
 const REPOS = [
+    { user: 'maotoumao', repo: 'MusicFree', name: 'MusicFree' },
+    { user: 'maotoumao', repo: 'MusicFreeDesktop', name: 'MusicFree-桌面版' },
     { user: 'Microsoft', repo: 'vscode', name: 'VS Code' },
     { user: 'facebook', repo: 'react', name: 'React' },
     { user: 'vuejs', repo: 'core', name: 'Vue 3' },
@@ -86,7 +88,7 @@ async function getFeeds(page, {category, extra, filter}) {
 
 async function getFeedDetail(feed) {
     return {
-        content: feed.url,
+        url: feed.url,
     };
 }
 

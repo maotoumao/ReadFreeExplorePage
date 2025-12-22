@@ -90,7 +90,7 @@
     "category": "科技",
     "type": "js",
     "url": "js/36kr.js",
-    "hash": "bef6e8152a13e741af1e9fb47d1d9eda"
+    "hash": "2d9c38357881fe2d68ccd5e783fd749a"
   },
   {
     "name": "极客公园",
@@ -102,7 +102,7 @@
     "category": "科技",
     "type": "js",
     "url": "js/geekpark.js",
-    "hash": "d6528b413d4a92bd5b1112b7516ed77a"
+    "hash": "daf27e732425b82603f9fbf934cfc014"
   },
   {
     "name": "果壳网科学人",
@@ -114,6 +114,6 @@
     "category": "科技",
     "type": "js",
     "url": "js/guokr.js",
-    "hash": "82e5b463c2a81435a7d58005c4f4907c"
+    "hash": "0a582fc9a95d6fe21d994d4409dc4238"
   }
 ]

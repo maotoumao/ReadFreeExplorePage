@@ -36,15 +36,6 @@
     "hash": "c692aadc77494793a67c816fcb62682d"
   },
   {
-    "name": "Engadget 中国",
-    "type": "rss",
-    "category": "数码",
-    "url": "https://cn.engadget.com/rss.xml",
-    "description": "全球科技新闻与评测。",
-    "version": "1.0",
-    "hash": "fbf567c956d978d534407eb61fa6f111"
-  },
-  {
     "name": "触乐",
     "type": "rss",
     "category": "数码",
@@ -99,7 +90,7 @@
     "category": "数码",
     "type": "js",
     "url": "js/dgtle.js",
-    "hash": "b059066c0a03fad8dfcaa32a5c70a8d7"
+    "hash": "6eb776ec226ebbc87b9057ac43d62eeb"
   },
   {
     "name": "爱范儿",
@@ -111,7 +102,7 @@
     "category": "数码",
     "type": "js",
     "url": "js/ifanr.js",
-    "hash": "89511eb2b25e57cb4ee2982bc607890c"
+    "hash": "891c42c1dd6df7a23492ebee62ed15a1"
   },
   {
     "name": "IT Home",
@@ -123,6 +114,6 @@
     "category": "数码",
     "type": "js",
     "url": "js/ithome.js",
-    "hash": "41ead7d08b7939c951fc6b21ce30bf32"
+    "hash": "5b89b5f9bc92fb130cc36c34d90d46ff"
   }
 ]

@@ -26,30 +26,6 @@
     "category": "娱乐",
     "type": "js",
     "url": "js/douban-movie-coming.js",
-    "hash": "8320f6d9d3f9fae4079763273cbbe7eb"
-  },
-  {
-    "name": "Fur Affinity Browse",
-    "description": "Fur Affinity 浏览作品。",
-    "author": "Fur Affinity",
-    "logo": "https://www.furaffinity.net/themes/beta/img/banners/fa_logo.png",
-    "siteUrl": "https://www.furaffinity.net/browse/",
-    "version": "1.0.0",
-    "category": "娱乐",
-    "type": "js",
-    "url": "js/furaffinity-browse.js",
-    "hash": "0eb24ded6e359825bd1a8fb778e948a3"
-  },
-  {
-    "name": "Fur Affinity Home",
-    "description": "Fur Affinity 首页作品。",
-    "author": "Fur Affinity",
-    "logo": "https://www.furaffinity.net/themes/beta/img/banners/fa_logo.png",
-    "siteUrl": "https://www.furaffinity.net/",
-    "version": "1.0.0",
-    "category": "娱乐",
-    "type": "js",
-    "url": "js/furaffinity-home.js",
-    "hash": "b5021f32d3d26b9dd1118f90c170cd43"
+    "hash": "60959c3306331e420e3718b3d8ac22b1"
   }
 ]

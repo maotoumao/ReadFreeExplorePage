@@ -1,12 +1,5 @@
 [
     {
-        "name": "知乎每日精选",
-        "type": "rss",
-        "category": "yuedu",
-        "url": "https://www.zhihu.com/rss",
-        "description": "知乎社区每日精选问答。"
-    },
-    {
         "name": "少数派",
         "type": "rss",
         "category": "shuma",
@@ -33,13 +26,6 @@
         "category": "keji",
         "url": "https://www.solidot.org/index.rss",
         "description": "奇客的知识，重要的东西。"
-    },
-    {
-        "name": "小众软件",
-        "type": "rss",
-        "category": "ruanjian",
-        "url": "https://www.appinn.com/feed/",
-        "description": "分享免费、小巧、实用、有趣、绿色的软件"
     },
     {
         "name": "机核",
@@ -266,13 +252,6 @@
         "description": "Recent content on Xuanwo's Blog"
     },
     {
-        "name": "weekly 标签新帖",
-        "type": "rss",
-        "category": "kaifa",
-        "url": "https://discuss-cn.bestxtools.com/atom/t/weekly/discussions",
-        "description": "开发者周刊聚合。"
-    },
-    {
         "name": "技术小黑屋",
         "type": "rss",
         "category": "kaifa",
@@ -371,13 +350,6 @@
         "description": "一起探索好玩的商业世界"
     },
     {
-        "name": "Engadget 中国",
-        "type": "rss",
-        "category": "shuma",
-        "url": "https://cn.engadget.com/rss.xml",
-        "description": "全球科技新闻与评测。"
-    },
-    {
         "name": "卢昌海的个人主页",
         "type": "rss",
         "category": "keji",
@@ -418,13 +390,6 @@
         "category": "shangye",
         "url": "https://www.woshipm.com/feed",
         "description": "产品经理、产品爱好者学习交流平台"
-    },
-    {
-        "name": "优设-UISDC",
-        "type": "rss",
-        "category": "kaifa",
-        "url": "http://www.uisdc.com/feed",
-        "description": "设计师学习与交流平台。"
     },
     {
         "name": "豆瓣最受欢迎的书评",

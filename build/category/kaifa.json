@@ -90,15 +90,6 @@
     "hash": "86e2cc42cc5078615edb74f4b5744c8e"
   },
   {
-    "name": "weekly 标签新帖",
-    "type": "rss",
-    "category": "开发与设计",
-    "url": "https://discuss-cn.bestxtools.com/atom/t/weekly/discussions",
-    "description": "开发者周刊聚合。",
-    "version": "1.0",
-    "hash": "96ffef46f100d74c4d3f0facf13f5564"
-  },
-  {
     "name": "技术小黑屋",
     "type": "rss",
     "category": "开发与设计",
@@ -142,15 +133,6 @@
     "description": "Python 开发者董伟明的博客。",
     "version": "1.0",
     "hash": "60f6da8a4b9c720c53ed8a9f49b3f591"
-  },
-  {
-    "name": "优设-UISDC",
-    "type": "rss",
-    "category": "开发与设计",
-    "url": "http://www.uisdc.com/feed",
-    "description": "设计师学习与交流平台。",
-    "version": "1.0",
-    "hash": "d866534b7d8589c10634764907eca344"
   },
   {
     "name": "全栈应用开发:精益实践",
@@ -450,19 +432,7 @@
     "category": "开发与设计",
     "type": "js",
     "url": "js/codeforces-contests.js",
-    "hash": "c948fafc728350bb568075089cf357b1"
-  },
-  {
-    "name": "Gitee Releases",
-    "description": "Gitee 仓库发行版更新。",
-    "author": "Gitee",
-    "logo": "https://gitee.com/favicon.ico",
-    "siteUrl": "https://gitee.com/",
-    "version": "1.0.0",
-    "category": "开发与设计",
-    "type": "js",
-    "url": "js/gitee-releases.js",
-    "hash": "790e7be8eee7b9e2fb2740e6c4a349ee"
+    "hash": "82aba51528e369deb0afcbe01ea4df5e"
   },
   {
     "name": "GitHub Issues",
@@ -474,7 +444,7 @@
     "category": "开发与设计",
     "type": "js",
     "url": "js/github-issue.js",
-    "hash": "0d780e65bb58cde0e99b14ae84f05497"
+    "hash": "b6fc30de42ce1cb0788c544ec369eff5"
   },
   {
     "name": "HelloGitHub",
@@ -486,7 +456,7 @@
     "category": "开发与设计",
     "type": "js",
     "url": "js/hellogithub.js",
-    "hash": "d12745928b9f6f1050597a40de0e3a78"
+    "hash": "99a2b31cf6c0b923fd95815f49efe920"
   },
   {
     "name": "InfoQ",
@@ -498,7 +468,7 @@
     "category": "开发与设计",
     "type": "js",
     "url": "js/infoq.js",
-    "hash": "b7a5213c86cb2d511bbc9e49fda1f37e"
+    "hash": "25d3fcf6009dfa47ae28b06dfa63cbc3"
   },
   {
     "name": "Juejin Trending",
@@ -510,7 +480,7 @@
     "category": "开发与设计",
     "type": "js",
     "url": "js/juejin-trending.js",
-    "hash": "e021def7ee94928756634f08f7fc13e1"
+    "hash": "e7146b4eca049ec147be9c5d517ef37a"
   },
   {
     "name": "LeetCode CN Daily",
@@ -522,7 +492,7 @@
     "category": "开发与设计",
     "type": "js",
     "url": "js/leetcode-daily-cn.js",
-    "hash": "2eef27129ff585917e386d2c722e9f99"
+    "hash": "b7166ff3ea9119fc759d68922863dd45"
   },
   {
     "name": "LeetCode Daily",
@@ -534,7 +504,7 @@
     "category": "开发与设计",
     "type": "js",
     "url": "js/leetcode-daily-en.js",
-    "hash": "17e5965c8eb78cc1cb0d2a31d7166ed9"
+    "hash": "7be84745c87541cf674440ea549c52fa"
   },
   {
     "name": "Microsoft MCR",
@@ -546,7 +516,7 @@
     "category": "开发与设计",
     "type": "js",
     "url": "js/microsoft-mcr.js",
-    "hash": "e2448a86aee500058d8710195d1c8d5b"
+    "hash": "75f92de90cfb447c3ef942be96ff4543"
   },
   {
     "name": "Nowcoder Schedule",
@@ -558,7 +528,7 @@
     "category": "开发与设计",
     "type": "js",
     "url": "js/nowcoder-schedule.js",
-    "hash": "4678e4f4a851692c47210dcc5eb0e84d"
+    "hash": "7f9d586f2c6649a5a6100ec6f1c5a295"
   },
   {
     "name": "OSChina",
@@ -570,6 +540,6 @@
     "category": "开发与设计",
     "type": "js",
     "url": "js/oschina.js",
-    "hash": "9d545fe89039b8ad9e2bf540abd76a67"
+    "hash": "647fccf6934fa91484cde8aeb1f337df"
   }
 ]

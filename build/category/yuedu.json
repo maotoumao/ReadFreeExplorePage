@@ -1,14 +1,5 @@
 [
   {
-    "name": "知乎每日精选",
-    "type": "rss",
-    "category": "阅读",
-    "url": "https://www.zhihu.com/rss",
-    "description": "知乎社区每日精选问答。",
-    "version": "1.0",
-    "hash": "5b4d4e1a40ba2ccef9c84ca31b5f2926"
-  },
-  {
     "name": "太隐",
     "type": "rss",
     "category": "阅读",
@@ -126,7 +117,7 @@
     "category": "阅读",
     "type": "js",
     "url": "js/douban-book-rank.js",
-    "hash": "36d29e538bda495af78dc60e6a49c8e7"
+    "hash": "91e80a2d41875810ff1a701593e2883b"
   },
   {
     "name": "Qidian Free",
@@ -138,7 +129,7 @@
     "category": "阅读",
     "type": "js",
     "url": "js/qidian-free.js",
-    "hash": "7ac8bf242b024e50b3259bdd59d1c77f"
+    "hash": "6fba8f7ee36936c58b67e6f7129c0fd5"
   },
   {
     "name": "知乎日报",
@@ -150,6 +141,6 @@
     "category": "阅读",
     "type": "js",
     "url": "js/zhihu-daily.js",
-    "hash": "8db81fb9b28daf42616c36dba1341e0a"
+    "hash": "73bbf3bc2a6ae1849fcc4ab3cda00b6d"
   }
 ]

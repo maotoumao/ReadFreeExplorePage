@@ -18,10 +18,12 @@ async function getCategories() {
         {
             id: 'zh',
             name: '中国 (zh-CN)',
+            type: 'media',
             url: null,
             children: allowedTypes.map(type => ({
                 id: `zh|${type}`,
                 name: type,
+                type: 'media',
                 url: null,
                 children: []
             }))
@@ -29,10 +31,12 @@ async function getCategories() {
         {
             id: 'en',
             name: 'International (en-US)',
+            type: 'media',
             url: null,
             children: allowedTypes.map(type => ({
                 id: `en|${type}`,
                 name: type,
+                type: 'media',
                 url: null,
                 children: []
             }))
@@ -89,14 +93,28 @@ async function getFeeds(page, {category, extra, filter}) {
             description += `${imageContent.Description}`;
         }
         
+        let w = null, h = null;
+        if (type.includes('x')) {
+            const parts = type.split('_')[0].split('x');
+            w = parseInt(parts[0]);
+            h = parseInt(parts[1]);
+        } else if (type === 'UHD') {
+            w = 3840;
+            h = 2160;
+        }
+
         return {
-            type: 'image',
+            type: 'visual_story',
             title: imageContent.Title || 'Bing Wallpaper',
             description: description,
             url: link, // The image itself is the content
             coverImage: link,
             author: imageContent.Copyright || 'Bing',
-                        pubDate: ssd ? parseDate(ssd).toISOString() : new Date().toISOString()
+            publishTime: ssd ? parseDate(ssd).toISOString() : new Date().toISOString(),
+            extra: {
+                width: w,
+                height: h
+            }
         };
     });
     
@@ -112,7 +130,16 @@ async function getFeeds(page, {category, extra, filter}) {
 
 async function getFeedDetail(feed) {
     return {
-        content: feed.url,
+        title: feed.title,
+        content: feed.description,
+        images: [{ 
+            url: feed.url,
+            width: feed.extra?.width,
+            height: feed.extra?.height,
+            alt: feed.title
+        }],
+        author: feed.author,
+        publishTime: feed.publishTime
     };
 }
 

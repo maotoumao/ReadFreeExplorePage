@@ -1,14 +1,5 @@
 [
   {
-    "name": "小众软件",
-    "type": "rss",
-    "category": "软件",
-    "url": "https://www.appinn.com/feed/",
-    "description": "分享免费、小巧、实用、有趣、绿色的软件",
-    "version": "1.0",
-    "hash": "7398fec45d0ee018b62ab4733c97996a"
-  },
-  {
     "name": "异次元软件世界",
     "type": "rss",
     "category": "软件",
