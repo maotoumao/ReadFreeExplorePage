@@ -84,7 +84,7 @@ async function getCategories() {
     const groups = new Set(items.map(i => i.group));
     
     // Filter out "更新时间"
-    groups.delete('更新时间');
+    groups.delete('🕘️更新时间');
 
     return Array.from(groups).map(g => ({
         id: g,
@@ -143,7 +143,7 @@ async function getFeeds(page, {category}) {
 async function getFeedDetail(feed) {
     return {
         sources: (feed.extra?.sources || []).map((source, index) => ({
-            name: `源 ${index + 1}`,
+            label: `源 ${index + 1}`,
             url: source.url
         }))
     };
