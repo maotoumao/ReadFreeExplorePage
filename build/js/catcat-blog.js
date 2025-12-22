@@ -47,7 +47,7 @@ const channel = {
                         id: fullUrl,
                         title: title,
                         url: fullUrl,
-                        createdTime: date,
+                        publishTime: date,
                         author: "猫头猫",
                         type: "article"
                     });
