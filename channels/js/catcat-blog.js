@@ -17,14 +17,15 @@ const channel = {
     siteUrl: "https://blog.catcat.work/",
     version: "1.0.0",
     category: "boke",
+    logo: "https://blog.catcat.work/images/avatar.jpg",
     allowDuplicate: false,
     async getFeeds(page, args) {
         load();
         const $ = _.cheerio;
         
-        let url = "https://blog.catcat.work/archives/";
+        let url = "https://blog.catcat.work/";
         if (page > 1) {
-            url = `https://blog.catcat.work/archives/page/${page}/`;
+            url = `https://blog.catcat.work/page/${page}/`;
         }
         
         try {
@@ -41,13 +42,23 @@ const channel = {
                 const href = titleElement.attr("href");
                 const date = $el.find("time").attr("datetime");
                 
+                let description = "";
+                const $content = $el.find(".post-body");
+                if ($content.length > 0) {
+                    description = $content.text().trim().replace(/\s+/g, ' ');
+                    if (description.length > 200) {
+                        description = description.substring(0, 200) + "...";
+                    }
+                }
+                
                 if (title && href) {
                     const fullUrl = new URL(href, "https://blog.catcat.work").toString();
                     feeds.push({
                         id: fullUrl,
                         title: title,
                         url: fullUrl,
-                        createdTime: date,
+                        description: description,
+                        publishTime: date,
                         author: "猫头猫",
                         type: "article"
                     });
@@ -124,7 +135,7 @@ const channel = {
             return {
                 content: content,
                 title: title,
-                createdTime: date,
+                publishTime: date,
                 author: author,
                 type: "html"
             };
