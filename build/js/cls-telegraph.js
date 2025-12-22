@@ -115,6 +115,7 @@ module.exports = {
     logo: "https://www.cls.cn/favicon.ico",
     siteUrl: "https://www.cls.cn/telegraph",
     version: "1.0.0",
+    category: "jinrong",
     getCategories,
     getFeeds
 };

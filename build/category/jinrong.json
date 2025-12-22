@@ -54,6 +54,18 @@
     "hash": "23561f28fbc470c86d1f4333b0eebc35"
   },
   {
+    "name": "财联社电报",
+    "description": "财联社电报，提供24小时滚动财经新闻。",
+    "author": "Cailianpress",
+    "logo": "https://www.cls.cn/favicon.ico",
+    "siteUrl": "https://www.cls.cn/telegraph",
+    "version": "1.0.0",
+    "category": "金融与投资",
+    "type": "js",
+    "url": "js/cls-telegraph.js",
+    "hash": "48a83cd2328514ee02fa5338a19a66be"
+  },
+  {
     "name": "Finviz News",
     "description": "Finviz 财经新闻。",
     "author": "Finviz",

@@ -27,5 +27,17 @@
     "type": "js",
     "url": "js/douban-movie-coming.js",
     "hash": "60959c3306331e420e3718b3d8ac22b1"
+  },
+  {
+    "name": "IPTV 直播",
+    "description": "电视直播频道，包含央视、卫视等。",
+    "author": "Guovin",
+    "logo": "https://raw.githubusercontent.com/Guovin/iptv-api/master/output/favicon.ico",
+    "siteUrl": "https://github.com/Guovin/iptv-api",
+    "version": "1.0.0",
+    "category": "娱乐",
+    "type": "js",
+    "url": "js/iptv.js",
+    "hash": "e25991befad65020a9502c7ff29a9708"
   }
 ]
