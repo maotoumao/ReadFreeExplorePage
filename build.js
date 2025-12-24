@@ -26,6 +26,16 @@ if (!fs.existsSync(buildJsDir)) {
     fs.mkdirSync(buildJsDir);
 }
 
+// 复制 version.json
+const versionSrc = path.join(__dirname, 'version.json');
+const versionDest = path.join(buildDir, 'version.json');
+if (fs.existsSync(versionSrc)) {
+    fs.copyFileSync(versionSrc, versionDest);
+    console.log('已复制 version.json 到 build 目录');
+} else {
+    console.warn('未找到 version.json，跳过复制');
+}
+
 try {
     // 1. 读取 categories.json
     console.log('正在读取分类配置...');
