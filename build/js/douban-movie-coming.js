@@ -5,7 +5,8 @@ async function getCategories() {
         id: 'default',
         name: '即将上映',
         url: null,
-        children: []
+        children: [],
+        type: "media"
     }];
 }
 
