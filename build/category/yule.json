@@ -17,6 +17,18 @@
     "hash": "5e6247b6f17742d8311f0fa96b6c7462"
   },
   {
+    "name": "B站-每周必看",
+    "description": "每周五晚 18:00 更新",
+    "author": "Bilibili",
+    "logo": "https://s1.hdslb.com/bfs/static/jinkela/popular/assets/icon_weekly.png",
+    "siteUrl": "https://www.bilibili.com/v/popular/weekly",
+    "version": "1.0.0",
+    "category": "娱乐",
+    "type": "js",
+    "url": "js/bilibili_weekly.js",
+    "hash": "c76ab423ee1df436167cac2bef5e1c5c"
+  },
+  {
     "name": "豆瓣电影即将上映",
     "description": "豆瓣电影即将上映列表。",
     "author": "Douban",
